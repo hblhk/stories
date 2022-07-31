@@ -1,0 +1,134 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>媽咪講故事</title>
+				<author></author>
+				<editor></editor>
+				<editor></editor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Hambaanglaang</publisher>
+				<pubPlace>Hong Kong</pubPlace>
+				<date>2022</date>
+				<idno/>
+				<availability status="restricted">
+					<licence target="http://creativecommons.org/licenses/by/4.0/">Attribution 4.0 International (CC BY 4.0)</licence>
+				</availability>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Hambaanglaang Graded Readers 冚唪唥粵文讀本</title>
+				<idno>00120p</idno>
+			</seriesStmt>
+			<sourceDesc>
+				<p>Stories</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<l>
+				<w lemma="maan5-maan5" msd="every night">晚晚</w>
+				<w lemma="ngo5" msd="I">我</w>
+				<w lemma="dou1" msd="all">都</w>
+				<w lemma="sam1-si1-si1" msd="long for something">心思思</w>
+				<w lemma="#" msd="#">，</w>
+				<w lemma="soeng2" msd="want">想</w>
+				<w lemma="teng1" msd="to listen">聽</w>
+				<w lemma="maa1-mi4" msd="mommy">媽咪</w>
+				<w lemma="gong2" msd="tell">講</w>
+				<w lemma="gu3-si6" msd="story">故事</w>
+				<w lemma="#" msd="#">。</w>
+			</l>
+			<l>
+				<w lemma="cing1-waa1" msd="frog">青蛙</w>
+				<w lemma="nam2-dou2" msd="think about">諗到</w>
+				<w lemma="gwai2-zyu2-ji3" msd="wicked idea">鬼主意</w>
+				<w lemma="#" msd="#">，</w>
+				<w lemma="daa2-din6-waa2" msd="call on phone">打電話</w>
+				<w lemma="waa6-bei2" msd="to tell">話畀</w>
+				<w lemma="jan4" msd="people">人</w>
+				<w lemma="zi1" msd="to know">知</w>
+				<w lemma="#" msd="#">。</w>
+			</l>
+			<l>
+				<w lemma="gwok3-wong4" msd="king">國王</w>
+				<w lemma="di1" msd="those">啲</w>
+				<w lemma="sou1" msd="beard">鬚</w>
+				<w lemma="zan1-hai6" msd="really">真係</w>
+				<w lemma="coeng4" msd="long">長</w>
+				<w lemma="#" msd="#">，</w>
+				<w lemma="lou5-syu2" msd="mouse">老鼠</w>
+				<w lemma="dong3" msd="consider">當</w>
+				<w lemma="hai6" msd="is">係</w>
+				<w lemma="jau4-lok6-coeng4" msd="playground">遊樂場</w>
+				<w lemma="#" msd="#">。</w>
+			</l>
+			<l>
+				<w lemma="jau5-si4" msd="sometimes">有時</w>
+				<w lemma="ziu1-zou2" msd="morning">朝早</w>
+				<w lemma="daa2-hoi1" msd="open">打開</w>
+				<w lemma="coeng1" msd="window">窗</w>
+				<w lemma="#" msd="#">，</w>
+				<w lemma="wui5" msd="will">會</w>
+				<w lemma="gin3-dou2" msd="see">見到</w>
+				<w lemma="sik1" msd="know">識</w>
+				<w lemma="fei1" msd="fly">飛</w>
+				<w lemma="daai6-zoeng6" msd="elephant">大象</w>
+				<w lemma="#" msd="#">。</w>
+			</l>
+			<l>
+				<w lemma="lou5-fu2" msd="tiger">老虎</w>
+				<w lemma="haang4-lou6-m4-daai3-ngaan5" msd="not look where one is going">行路唔帶眼</w>
+				<w lemma="#" msd="#">，</w>
+				<w lemma="m4" msd="not">唔</w>
+				<w lemma="siu2-sam1" msd="careful">小心</w>
+				<w lemma="dit3" msd="fall">跌</w>
+				<w lemma="zo2" msd="-ed">咗</w>
+				<w lemma="lok6" msd="down">落</w>
+				<w lemma="saan1" msd="hill">山</w>
+				<w lemma="#" msd="#">。</w>
+			</l>
+			<l>
+				<w lemma="hou2-coi2" msd="lucky">好彩</w>
+				<w lemma="bei2" msd="by">畀</w>
+				<w lemma="wu4-lei2" msd="fox">狐狸</w>
+				<w lemma="gau3" msd="save">救</w>
+				<w lemma="faan1" msd="back">返</w>
+				<w lemma="#" msd="#">，</w>
+				<w lemma="lou5-fu2" msd="tiger">老虎</w>
+				<w lemma="sin1" msd="so that">先</w>
+				<w lemma="m4-sai2" msd="no need">唔使</w>
+				<w lemma="gam3" msd="that">咁</w>
+				<w lemma="caam2" msd="miserable">慘</w>
+				<w lemma="#" msd="#">。</w>
+			</l>
+			<l>
+				<w lemma="gu3-si6" msd="story">故事</w>
+				<w lemma="sai3-gaai3" msd="world">世界</w>
+				<w lemma="hou2" msd="very">好</w>
+				<w lemma="dak1-ji3" msd="interesting">得意</w>
+				<w lemma="#" msd="#">，</w>
+				<w lemma="dung6-mat6" msd="animal">動物</w>
+				<w lemma="hou2-do1" msd="many">好多</w>
+				<w lemma="san1-kei4" msd="novel">新奇</w>
+				<w lemma="si6" msd="thing">事</w>
+				<w lemma="#" msd="#">。</w>
+			</l>
+			<l>
+				<w lemma="teng1" msd="listen">聽</w>
+				<w lemma="zyu6" msd="-ing">住</w>
+				<w lemma="maa1-mi4" msd="mommy">媽咪</w>
+				<w lemma="gong2" msd="tell">講</w>
+				<w lemma="gu3-si6" msd="story">故事</w>
+				<w lemma="#" msd="#">，</w>
+				<w lemma="ngo5" msd="I">我</w>
+				<w lemma="fan3-zoek6" msd="fall asleep">瞓着</w>
+				<w lemma="zo2" msd="-ed">咗</w>
+				<w lemma="dou1" msd="still">都</w>
+				<w lemma="m4-zi1" msd="don't know">唔知</w>
+				<w lemma="#" msd="#">。</w>
+			</l>
+		</body>
+	</text>
+</TEI>

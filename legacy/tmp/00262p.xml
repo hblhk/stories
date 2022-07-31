@@ -1,0 +1,410 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>咩聲嚟㗎？</title>
+				<author></author>
+				<editor></editor>
+				<editor></editor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Hambaanglaang</publisher>
+				<pubPlace>Hong Kong</pubPlace>
+				<date>2022</date>
+				<idno/>
+				<availability status="restricted">
+					<licence target="http://creativecommons.org/licenses/by/4.0/">Attribution 4.0 International (CC BY 4.0)</licence>
+				</availability>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Hambaanglaang Graded Readers 冚唪唥粵文讀本</title>
+				<idno>00262p</idno>
+			</seriesStmt>
+			<sourceDesc>
+				<p>Stories</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<l>
+				<w lemma="me1" msd="what">咩</w>
+				<w lemma="seng1" msd="sound">聲</w>
+				<w lemma="lai4" msd="(particle)">嚟</w>
+				<w lemma="gaa3" msd="(particle)">㗎</w>
+				<w lemma="#" msd="#">？</w>
+			</l>
+			<l>
+				<w lemma="jau5-jat1-jat6" msd="one-day">有一日</w>
+				<w lemma="#" msd="#">，</w>
+				<w lemma="maau1-zai2" msd="kitty">貓仔</w>
+				<w lemma="#" msd="#">、</w>
+				<w lemma="luk2-zai2" msd="little deer">鹿仔</w>
+				<w lemma="#" msd="#">、</w>
+				<w lemma="tung4-maai4" msd="and">同埋</w>
+				<w lemma="cung4-syu2-zai2" msd="little squirrel">松鼠仔</w>
+				<w lemma="hai2" msd="at">喺</w>
+				<w lemma="gung1-jyun2" msd="park">公園</w>
+				<w lemma="haang4" msd="walk">行</w>
+				<w lemma="#" msd="#">。</w>
+			</l>
+			<l>
+				<w lemma="haang4-haang4-haa5" msd="while walking">行行下</w>
+				<w lemma="#" msd="#">，</w>
+				<w lemma="keoi5-dei6" msd="they">佢哋</w>
+				<w lemma="teng1-dou2" msd="heard">聽到</w>
+				<w lemma="di1" msd="some">啲</w>
+				<w lemma="seng1" msd="sound">聲</w>
+				<w lemma="#" msd="#">：</w>
+				<w lemma="#" msd="#">「</w>
+				<w lemma="laa1" msd="la">啦</w>
+				<w lemma="laa1" msd="la">啦</w>
+				<w lemma="laa1" msd="la">啦</w>
+				<w lemma="laa1" msd="la">啦</w>
+				<w lemma="laa1" msd="la">啦</w>
+				<w lemma="#" msd="#">⋯⋯</w>
+				<w lemma="#" msd="#">」</w>
+			</l>
+			<l>
+				<w lemma="luk2-zai2" msd="little deer">鹿仔</w>
+				<w lemma="man6" msd="to ask">問</w>
+				<w lemma="#" msd="#">：</w>
+				<w lemma="#" msd="#">「</w>
+				<w lemma="ni1-di1" msd="these">呢啲</w>
+				<w lemma="seng1" msd="sound">聲</w>
+				<w lemma="hai6" msd="is">係</w>
+				<w lemma="hai2" msd="at">喺</w>
+				<w lemma="bin1-dou6" msd="where">邊度</w>
+				<w lemma="lai4" msd="come from">嚟</w>
+				<w lemma="gaa3" msd="(particle)">㗎</w>
+				<w lemma="#" msd="#">？</w>
+				<w lemma="#" msd="#">」</w>
+			</l>
+			<l>
+				<w lemma="cung4-syu2-zai2" msd="little squirrel">松鼠仔</w>
+				<w lemma="waa6" msd="say">話</w>
+				<w lemma="#" msd="#">：</w>
+				<w lemma="#" msd="#">「</w>
+				<w lemma="hai6-m4-hai6" msd="is it">係唔係</w>
+				<w lemma="zau1-wai4" msd="everywhere">周圍</w>
+				<w lemma="dou1" msd="all, also">都</w>
+				<w lemma="jau5" msd="have">有</w>
+				<w lemma="gaa3" msd="(particle)">㗎</w>
+				<w lemma="#" msd="#">？</w>
+				<w lemma="#" msd="#">」</w>
+			</l>
+			<l>
+				<w lemma="maau1-zai2" msd="kitty">貓仔</w>
+				<w lemma="daap3" msd="reply">答</w>
+				<w lemma="#" msd="#">：</w>
+				<w lemma="#" msd="#">「</w>
+				<w lemma="m4-hai6" msd="is not">唔係</w>
+				<w lemma="aa3" msd="(particle)">啊</w>
+				<w lemma="#" msd="#">，</w>
+				<w lemma="hai6" msd="is">係</w>
+				<w lemma="hai2" msd="at">喺</w>
+				<w lemma="go2-dou6" msd="there">嗰度</w>
+				<w lemma="lai4" msd="come from">嚟</w>
+				<w lemma="gaa3" msd="(particle)">㗎</w>
+				<w lemma="#" msd="#">！</w>
+				<w lemma="#" msd="#">」</w>
+			</l>
+			<l>
+				<w lemma="keoi5-dei6" msd="they">佢哋</w>
+				<w lemma="saam1" msd="three">三</w>
+				<w lemma="go3" msd="(measure)">個</w>
+				<w lemma="gan1-zyu6" msd="follow">跟住</w>
+				<w lemma="di1" msd="those">啲</w>
+				<w lemma="seng1" msd="sound">聲</w>
+				<w lemma="haang4" msd="to walk">行</w>
+				<w lemma="#" msd="#">。</w>
+				<w lemma="haang4-haang4-haa5" msd="while walking">行行下</w>
+				<w lemma="#" msd="#">，</w>
+				<w lemma="keoi5-dei6" msd="they">佢哋</w>
+				<w lemma="jau6" msd="again">又</w>
+				<w lemma="teng1-dou2" msd="heard">聽到</w>
+				<w lemma="di1" msd="some">啲</w>
+				<w lemma="seng1" msd="sound">聲</w>
+				<w lemma="#" msd="#">：</w>
+				<w lemma="#" msd="#">「</w>
+				<w lemma="laa1" msd="la">啦</w>
+				<w lemma="laa1" msd="la">啦</w>
+				<w lemma="laa1" msd="la">啦</w>
+				<w lemma="laa1" msd="la">啦</w>
+				<w lemma="laa1" msd="la">啦</w>
+				<w lemma="#" msd="#">⋯⋯</w>
+				<w lemma="#" msd="#">」</w>
+			</l>
+			<l>
+				<w lemma="luk2-zai2" msd="little deer">鹿仔</w>
+				<w lemma="man6" msd="ask">問</w>
+				<w lemma="#" msd="#">：</w>
+				<w lemma="#" msd="#">「</w>
+				<w lemma="jau6" msd="again">又</w>
+				<w lemma="jau5" msd="have">有</w>
+				<w lemma="laa3" msd="(particle)">喇</w>
+				<w lemma="#" msd="#">！</w>
+				<w lemma="hai6-m4-hai6" msd="is it">係唔係</w>
+				<w lemma="hai2" msd="at">喺</w>
+				<w lemma="tin1-hung1" msd="sky">天空</w>
+				<w lemma="lai4" msd="come from">嚟</w>
+				<w lemma="gaa3" msd="(particle)">㗎</w>
+				<w lemma="#" msd="#">？</w>
+				<w lemma="#" msd="#">」</w>
+			</l>
+			<l>
+				<w lemma="cung4-syu2-zai2" msd="little squirrel">松鼠仔</w>
+				<w lemma="waa6" msd="say">話</w>
+				<w lemma="#" msd="#">：</w>
+				<w lemma="#" msd="#">「</w>
+				<w lemma="hai6-m4-hai6" msd="is it">係唔係</w>
+				<w lemma="hai2" msd="at">喺</w>
+				<w lemma="di1" msd="some">啲</w>
+				<w lemma="syu6" msd="tree">樹</w>
+				<w lemma="go2-dou6" msd="there">嗰度</w>
+				<w lemma="lai4" msd="come from">嚟</w>
+				<w lemma="gaa3" msd="(particle)">㗎</w>
+				<w lemma="#" msd="#">？</w>
+				<w lemma="#" msd="#">」</w>
+			</l>
+			<l>
+				<w lemma="maau1-zai2" msd="kitty">貓仔</w>
+				<w lemma="daap3" msd="reply">答</w>
+				<w lemma="#" msd="#">：</w>
+				<w lemma="#" msd="#">「</w>
+				<w lemma="m4-hai6" msd="is not">唔係</w>
+				<w lemma="aa3" msd="(particle)">啊</w>
+				<w lemma="#" msd="#">，</w>
+				<w lemma="hai6" msd="is">係</w>
+				<w lemma="hai2" msd="at">喺</w>
+				<w lemma="cou2-cung4" msd="bush">草叢</w>
+				<w lemma="go2-dou6" msd="there">嗰度</w>
+				<w lemma="lai4" msd="come from">嚟</w>
+				<w lemma="gaa3" msd="(particle)">㗎</w>
+				<w lemma="#" msd="#">！</w>
+				<w lemma="#" msd="#">」</w>
+			</l>
+			<l>
+				<w lemma="keoi5-dei6" msd="they">佢哋</w>
+				<w lemma="saam1" msd="three">三</w>
+				<w lemma="go3" msd="(measure)">個</w>
+				<w lemma="gan1-zyu6" msd="follow">跟住</w>
+				<w lemma="di1" msd="those">啲</w>
+				<w lemma="seng1" msd="sound">聲</w>
+				<w lemma="haang4" msd="to walk">行</w>
+				<w lemma="heoi3" msd="to">去</w>
+				<w lemma="cou2-cung4" msd="bush">草叢</w>
+				<w lemma="go2-dou6" msd="there">嗰度</w>
+				<w lemma="#" msd="#">。</w>
+				<w lemma="haang4-haang4-haa5" msd="while walking">行行下</w>
+				<w lemma="#" msd="#">，</w>
+				<w lemma="keoi5-dei6" msd="they">佢哋</w>
+				<w lemma="jau6" msd="again">又</w>
+				<w lemma="teng1-dou2" msd="heard">聽到</w>
+				<w lemma="di1" msd="some">啲</w>
+				<w lemma="seng1" msd="sound">聲</w>
+				<w lemma="#" msd="#">：</w>
+			</l>
+			<l>
+				<w lemma="#" msd="#">「</w>
+				<w lemma="laa1" msd="la">啦</w>
+				<w lemma="laa1" msd="la">啦</w>
+				<w lemma="laa1" msd="la">啦</w>
+				<w lemma="laa1" msd="la">啦</w>
+				<w lemma="laa1" msd="la">啦</w>
+				<w lemma="#" msd="#">⋯⋯</w>
+				<w lemma="#" msd="#">」</w>
+			</l>
+			<l>
+				<w lemma="luk2-zai2" msd="little deer">鹿仔</w>
+				<w lemma="man6" msd="ask">問</w>
+				<w lemma="#" msd="#">：</w>
+				<w lemma="#" msd="#">「</w>
+				<w lemma="jau6" msd="again">又</w>
+				<w lemma="jau5" msd="have">有</w>
+				<w lemma="laa3" msd="(particle)">喇</w>
+				<w lemma="#" msd="#">！</w>
+				<w lemma="hai6-m4-hai6" msd="is it">係唔係</w>
+				<w lemma="hak1-sik1" msd="black">黑色</w>
+				<w lemma="gaa3" msd="(particle)">㗎</w>
+				<w lemma="#" msd="#">？</w>
+				<w lemma="#" msd="#">」</w>
+			</l>
+			<l>
+				<w lemma="cung4-syu2-zai2" msd="little squirrel">松鼠仔</w>
+				<w lemma="waa6" msd="say">話</w>
+				<w lemma="#" msd="#">：</w>
+				<w lemma="#" msd="#">「</w>
+				<w lemma="hai6-m4-hai6" msd="is it">係唔係</w>
+				<w lemma="baak6-sik1" msd="white">白色</w>
+				<w lemma="gaa3" msd="(particle)">㗎</w>
+				<w lemma="#" msd="#">？</w>
+				<w lemma="#" msd="#">」</w>
+			</l>
+			<l>
+				<w lemma="maau1-zai2" msd="kitty">貓仔</w>
+				<w lemma="daap3" msd="reply">答</w>
+				<w lemma="#" msd="#">：</w>
+				<w lemma="#" msd="#">「</w>
+				<w lemma="m4-hai6" msd="is not">唔係</w>
+				<w lemma="aa3" msd="(particle)">啊</w>
+				<w lemma="#" msd="#">，</w>
+				<w lemma="hai6" msd="is">係</w>
+				<w lemma="fe1-sik1" msd="brown">啡色</w>
+				<w lemma="gaa3" msd="(particle)">㗎</w>
+				<w lemma="#" msd="#">！</w>
+				<w lemma="#" msd="#">」</w>
+			</l>
+			<l>
+				<w lemma="keoi5-dei6" msd="they">佢哋</w>
+				<w lemma="saam1" msd="three">三</w>
+				<w lemma="go3" msd="(measure)">個</w>
+				<w lemma="gan1-zyu6" msd="follow">跟住</w>
+				<w lemma="di1" msd="those">啲</w>
+				<w lemma="seng1" msd="sound">聲</w>
+				<w lemma="haang4" msd="to walk">行</w>
+				<w lemma="#" msd="#">。</w>
+				<w lemma="haang4-haang4-haa5" msd="while walking">行行下</w>
+				<w lemma="#" msd="#">，</w>
+				<w lemma="keoi5-dei6" msd="they">佢哋</w>
+				<w lemma="jau6" msd="again">又</w>
+				<w lemma="teng1-dou2" msd="heard">聽到</w>
+				<w lemma="di1" msd="some">啲</w>
+				<w lemma="seng1" msd="sound">聲</w>
+				<w lemma="#" msd="#">：</w>
+				<w lemma="#" msd="#">「</w>
+				<w lemma="laa1" msd="la">啦</w>
+				<w lemma="laa1" msd="la">啦</w>
+				<w lemma="laa1" msd="la">啦</w>
+				<w lemma="laa1" msd="la">啦</w>
+				<w lemma="laa1" msd="la">啦</w>
+				<w lemma="#" msd="#">⋯⋯</w>
+				<w lemma="#" msd="#">」</w>
+			</l>
+			<l>
+				<w lemma="luk2-zai2" msd="little deer">鹿仔</w>
+				<w lemma="man6" msd="ask">問</w>
+				<w lemma="#" msd="#">：</w>
+				<w lemma="#" msd="#">「</w>
+				<w lemma="jau6" msd="again">又</w>
+				<w lemma="jau5" msd="have">有</w>
+				<w lemma="laa3" msd="(particle)">喇</w>
+				<w lemma="#" msd="#">！</w>
+				<w lemma="hai6-m4-hai6" msd="is it">係唔係</w>
+				<w lemma="jau5" msd="have">有</w>
+				<w lemma="jan4" msd="people">人</w>
+				<w lemma="gong2-je5" msd="speaking">講嘢</w>
+				<w lemma="aa3" msd="(particle)">啊</w>
+				<w lemma="#" msd="#">？</w>
+				<w lemma="#" msd="#">」</w>
+			</l>
+			<l>
+				<w lemma="cung4-syu2-zai2" msd="little squirrel">松鼠仔</w>
+				<w lemma="waa6" msd="say">話</w>
+				<w lemma="#" msd="#">：</w>
+				<w lemma="#" msd="#">「</w>
+				<w lemma="hai6-m4-hai6" msd="is it">係唔係</w>
+				<w lemma="haam3" msd="crying">喊</w>
+				<w lemma="seng1" msd="sound">聲</w>
+				<w lemma="aa3" msd="(particle)">啊</w>
+				<w lemma="#" msd="#">？</w>
+				<w lemma="#" msd="#">」</w>
+			</l>
+			<l>
+				<w lemma="maau1-zai2" msd="kitty">貓仔</w>
+				<w lemma="daap3" msd="reply">答</w>
+				<w lemma="#" msd="#">：</w>
+				<w lemma="#" msd="#">「</w>
+				<w lemma="m4-hai6" msd="is not">唔係</w>
+				<w lemma="aa3" msd="(particle)">啊</w>
+				<w lemma="#" msd="#">，</w>
+				<w lemma="hai6" msd="is">係</w>
+				<w lemma="jau5" msd="have">有</w>
+				<w lemma="jan4" msd="people">人</w>
+				<w lemma="coeng3-go1" msd="sing song">唱歌</w>
+				<w lemma="aa3" msd="(particle)">啊</w>
+				<w lemma="#" msd="#">！</w>
+				<w lemma="#" msd="#">」</w>
+			</l>
+			<l>
+				<w lemma="keoi5-dei6" msd="they">佢哋</w>
+				<w lemma="saam1" msd="three">三</w>
+				<w lemma="go3" msd="(measure)">個</w>
+				<w lemma="kei5" msd="stand">企</w>
+				<w lemma="hai2" msd="at">喺</w>
+				<w lemma="cou2-cung4" msd="bush">草叢</w>
+				<w lemma="jap6-min6" msd="inside">入面</w>
+				<w lemma="king1-gai2" msd="chat">傾計</w>
+				<w lemma="#" msd="#">。</w>
+			</l>
+			<l>
+				<w lemma="luk2-zai2" msd="little deer">鹿仔</w>
+				<w lemma="man6" msd="ask">問</w>
+				<w lemma="#" msd="#">：</w>
+				<w lemma="#" msd="#">「</w>
+				<w lemma="hai6-m4-hai6" msd="is it">係唔係</w>
+				<w lemma="tou3-zai2" msd="little rabbit">兔仔</w>
+				<w lemma="ne1" msd="(particle)">呢</w>
+				<w lemma="#" msd="#">？</w>
+				<w lemma="#" msd="#">」</w>
+			</l>
+			<l>
+				<w lemma="cung4-syu2-zai2" msd="little squirrel">松鼠仔</w>
+				<w lemma="waa6" msd="say">話</w>
+				<w lemma="#" msd="#">：</w>
+				<w lemma="#" msd="#">「</w>
+				<w lemma="hai6-m4-hai6" msd="is it">係唔係</w>
+				<w lemma="zoek3-zai2" msd="bird">雀仔</w>
+				<w lemma="ne1" msd="(particle)">呢</w>
+				<w lemma="#" msd="#">？</w>
+				<w lemma="#" msd="#">」</w>
+			</l>
+			<l>
+				<w lemma="maau1-zai2" msd="kitty">貓仔</w>
+				<w lemma="daap3" msd="reply">答</w>
+				<w lemma="#" msd="#">：</w>
+				<w lemma="#" msd="#">「</w>
+				<w lemma="m4-hai6" msd="is not">唔係</w>
+				<w lemma="aa3" msd="(particle)">啊</w>
+				<w lemma="#" msd="#">，</w>
+				<w lemma="hai6" msd="is">係</w>
+				<w lemma="#" msd="#">⋯⋯</w>
+				<w lemma="#" msd="#">」</w>
+			</l>
+			<l>
+				<w lemma="#" msd="#">「</w>
+				<w lemma="laa1" msd="la">啦</w>
+				<w lemma="laa1" msd="la">啦</w>
+				<w lemma="laa1" msd="la">啦</w>
+				<w lemma="laa1" msd="la">啦</w>
+				<w lemma="laa1" msd="la">啦</w>
+				<w lemma="#" msd="#">⋯⋯</w>
+				<w lemma="#" msd="#">」</w>
+			</l>
+			<l>
+				<w lemma="keoi5-dei6" msd="they">佢哋</w>
+				<w lemma="saam1" msd="three">三</w>
+				<w lemma="go3" msd="(measure)">個</w>
+				<w lemma="jat1-cai4" msd="together">一齊</w>
+				<w lemma="haang4" msd="walk">行</w>
+				<w lemma="gwo3-heoi3" msd="to go over">過去</w>
+				<w lemma="#" msd="#">，</w>
+				<w lemma="waa6" msd="say">話</w>
+				<w lemma="#" msd="#">：</w>
+				<w lemma="#" msd="#">「</w>
+				<w lemma="hai6" msd="is">係</w>
+				<w lemma="lou4-zai2" msd="little donkey">驢仔</w>
+				<w lemma="coeng3-go1" msd="sing song">唱歌</w>
+				<w lemma="aa3" msd="(particle)">啊</w>
+				<w lemma="#" msd="#">！</w>
+				<w lemma="ngo5-dei6" msd="we">我哋</w>
+				<w lemma="dou1" msd="all, also">都</w>
+				<w lemma="jat1-cai4" msd="together">一齊</w>
+				<w lemma="coeng3-go1" msd="sing song">唱歌</w>
+				<w lemma="laa1" msd="(particle)">啦</w>
+				<w lemma="#" msd="#">！</w>
+				<w lemma="#" msd="#">」</w>
+			</l>
+		</body>
+	</text>
+</TEI>

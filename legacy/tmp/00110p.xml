@@ -1,0 +1,707 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>數下有幾多動物</title>
+				<author></author>
+				<editor></editor>
+				<editor></editor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Hambaanglaang</publisher>
+				<pubPlace>Hong Kong</pubPlace>
+				<date>2022</date>
+				<idno/>
+				<availability status="restricted">
+					<licence target="http://creativecommons.org/licenses/by/4.0/">Attribution 4.0 International (CC BY 4.0)</licence>
+				</availability>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Hambaanglaang Graded Readers 冚唪唥粵文讀本</title>
+				<idno>00110p</idno>
+			</seriesStmt>
+			<sourceDesc>
+				<p>Stories</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<l>
+				<w lemma="sou2" msd="count#گننا#गणना गर्न">數</w>
+				<w lemma="haa5" msd="a bit">下</w>
+				<w lemma="jau5" msd="have">有</w>
+				<w lemma="gei2-do1" msd="how many">幾多</w>
+				<w lemma="dung6-mat6" msd="animal">動物</w>
+			</l>
+			<l>
+				<w lemma="hai2" msd="at#پر#मा">喺</w>
+				<w lemma="seoi2-bin1" msd="waterside#پانی کے کنارے#पानीको किनारा">水邊</w>
+				<w lemma="#" msd="##">，</w>
+				<w lemma="jau5" msd="have#ہے#छ">有</w>
+				<w lemma="jat1" msd="one#ایک#एक">一</w>
+				<w lemma="zek3" msd="(classifier)">隻</w>
+				<w lemma="daai6-ban6-zoeng6" msd="elephant#ہاتھی#हात्ती">大笨象</w>
+				<w lemma="#" msd="##">。</w>
+			</l>
+			<l>
+				<w lemma="keoi5" msd="it#یہ#त्यो">佢</w>
+				<w lemma="hou2" msd="very#بہت#धेरै">好</w>
+				<w lemma="hau2-hot3" msd="thirsty#پیاسا#तिर्खाएको">口渴</w>
+				<w lemma="#" msd="##">，</w>
+				<w lemma="maan6-maan2" msd="slowly#آہستہ آہستہ#बिस्तारै">慢慢</w>
+				<w lemma="gam2" msd="-ly#-ly#-ly">噉</w>
+				<w lemma="haang4" msd="walk#چلنا#हिडनु">行</w>
+				<w lemma="gan2" msd="-ing#-ing#-ing">緊</w>
+				<w lemma="heoi3" msd="to go#جانا#जानलाई">去</w>
+				<w lemma="jam2" msd="to drink#پینا#पिउनलाई">飲</w>
+				<w lemma="seoi2" msd="water#پانی#पानी">水</w>
+				<w lemma="#" msd="##">。</w>
+			</l>
+			<l>
+				<w lemma="jau5" msd="have#ہے#छ">有</w>
+				<w lemma="kei4-taa1" msd="other#دوسرے#अन्य">其他</w>
+				<w lemma="dung6-mat6" msd="animal#جانور#जनावर">動物</w>
+				<w lemma="dou1" msd="also#بھی#पनि">都</w>
+				<w lemma="hai2-dou6" msd="right here#یہیں#यँही">喺度</w>
+				<w lemma="jam2" msd="drink#پینا#पिउनु">飲</w>
+				<w lemma="gan2" msd="-ing#-ing#-ing">緊</w>
+				<w lemma="seoi2" msd="water#پانی#पानी">水</w>
+				<w lemma="wo3" msd="(particle)">喎</w>
+				<w lemma="#" msd="##">。</w>
+			</l>
+			<l>
+				<w lemma="jyun4-loi4" msd="it turns out#یہ ثابت ہوتا ہے#यो पत्ता लागेको">原來</w>
+				<w lemma="hai6" msd="is#ہے#छ">係</w>
+				<w lemma="coeng4-geng2-luk2" msd="giraffe#زرافہ#जिराफ">長頸鹿</w>
+				<w lemma="lai4" msd="is#ہے#छ">嚟</w>
+				<w lemma="#" msd="##">，</w>
+				<w lemma="keoi5-dei6" msd="they#وہ#तिनीहरू">佢哋</w>
+				<w lemma="tiu4" msd="(classifier)">條</w>
+				<w lemma="geng2" msd="neck#گردن#घाँटी">頸</w>
+				<w lemma="hou2" msd="very#بہت#धेरै">好</w>
+				<w lemma="coeng4" msd="long#لمبا#लामो">長</w>
+				<w lemma="#" msd="##">。</w>
+			</l>
+			<l>
+				<w lemma="nei5" msd="you#تم#तपाईं">你</w>
+				<w lemma="sou2" msd="count#گننا#गणना गर्न">數</w>
+				<w lemma="m4" msd="not#نہیں#होइन">唔</w>
+				<w lemma="sou2" msd="count#گننا#गणना गर्न">數</w>
+				<w lemma="dou2" msd="can#کر سکتے#सक्छौ">到</w>
+				<w lemma="ni1-dou6" msd="here#یہاں#यहाँ">呢度</w>
+				<w lemma="jau5" msd="have#ہے#छ">有</w>
+				<w lemma="gei2-do1" msd="how many#کتنے#कति वटा">幾多</w>
+				<w lemma="zek3" msd="(classifier)">隻</w>
+				<w lemma="coeng4-geng2-luk2" msd="giraffe#زرافہ#जिराफ">長頸鹿</w>
+				<w lemma="#" msd="##">？</w>
+			</l>
+			<l>
+				<w lemma="hai6" msd="is#ہے#छ">係</w>
+				<w lemma="loeng5" msd="two#دو#दुई">兩</w>
+				<w lemma="zek3" msd="(classifier)">隻</w>
+				<w lemma="aa3" msd="(particle)">啊</w>
+				<w lemma="#" msd="##">。</w>
+			</l>
+			<l>
+				<w lemma="jat1" msd="one#ایک#एक">一</w>
+				<w lemma="zek3" msd="(classifier)">隻</w>
+				<w lemma="zoeng6" msd="elephant#ہاتھی#हात्ती">象</w>
+				<w lemma="wo4" msd="and#اور#तथा">和</w>
+				<w lemma="#" msd="＿＿#＿＿#＿＿">＿＿</w>
+				<w lemma="zek3" msd="(classifier)">隻</w>
+				<w lemma="coeng4-geng2-luk2" msd="giraffe#زرافہ#जिराफ">長頸鹿</w>
+				<w lemma="#" msd="##">，</w>
+			</l>
+			<l>
+				<w lemma="gung6" msd="in total#کل ملا کر#कुल">共</w>
+				<w lemma="jau5" msd="have#ہے#छ">有</w>
+				<w lemma="#" msd="＿＿#＿＿#＿＿">＿＿</w>
+				<w lemma="zek3" msd="(classifier)">隻</w>
+				<w lemma="dung6-mat6" msd="animal#جانور#जनावर">動物</w>
+				<w lemma="#" msd="##">。</w>
+			</l>
+			<l>
+				<w lemma="duk6-zok3" msd="#यस्तो रूपमा पढ्नुहोस्#اس طرح سے پڑھیں#read as">讀作</w>
+				<w lemma="jat1" msd="one#ایک#एक">1</w>
+				<w lemma="gaa1" msd="plus#جمع#जोड्नु">加</w>
+				<w lemma="ji6" msd="two#دو#दुई">2</w>
+				<w lemma="dang2-jyu1" msd="equal to#برابر ہے#बराबर">等於</w>
+				<w lemma="saam1" msd="three#تین#तीन">3</w>
+			</l>
+			<l>
+				<w lemma="ni1-dou6" msd="here#یہاں#यहाँ">呢度</w>
+				<w lemma="jau5" msd="have#ہے#छ">有</w>
+				<w lemma="saam1" msd="three#تین#तीन">三</w>
+				<w lemma="zek3" msd="(classifier)">隻</w>
+				<w lemma="hou2" msd="very#بہت#धेरै">好</w>
+				<w lemma="daai6" msd="big#بڑا#ठुलो">大</w>
+				<w lemma="ge3" msd="(linker)#کے#को">嘅</w>
+				<w lemma="dung6-mat6" msd="animal#جانور#जनावर">動物</w>
+				<w lemma="#" msd="##">，</w>
+			</l>
+			<l>
+				<w lemma="keoi5-dei6" msd="they#وہ#तिनीहरू">佢哋</w>
+				<w lemma="giu3" msd="are called#بلانا#भनिन्छ">叫</w>
+				<w lemma="seoi2-ngau4" msd="buffalo#بھینس#भैंसी">水牛</w>
+				<w lemma="#" msd="##">。</w>
+			</l>
+			<l>
+				<w lemma="ni1-dou6" msd="here#یہاں#यहाँ">呢度</w>
+				<w lemma="zung6-jau5" msd="still have#اب بھی ہے#अझै छ">仲有</w>
+				<w lemma="sei3" msd="four#چار#चार">四</w>
+				<w lemma="zek3" msd="(classifier)">隻</w>
+				<w lemma="baak6-syut1-syut1" msd="white-as-snow#برف کی طرح سفید#हिँउ जस्तै सेतो">白雪雪</w>
+				<w lemma="ge3" msd="(linker)#کے#को">嘅</w>
+				<w lemma="zoek3-zai2" msd="bird#پرندہ#चरा">雀仔</w>
+				<w lemma="#" msd="##">，</w>
+			</l>
+			<l>
+				<w lemma="cyun4-bou6" msd="all#سب#सबै">全部</w>
+				<w lemma="dou1" msd="all#سب#सबै">都</w>
+				<w lemma="heoi3" msd="go#جانا#जाऊ">去</w>
+				<w lemma="gan2" msd="-ing#-ing#-ing">緊</w>
+				<w lemma="jam2" msd="to drink#پینا#पिउनलाई">飲</w>
+				<w lemma="seoi2" msd="water#پانی#पानी">水</w>
+				<w lemma="#" msd="##">。</w>
+			</l>
+			<l>
+				<w lemma="nei5" msd="you#تم#तपाईं">你</w>
+				<w lemma="sou2" msd="count#گننا#गणना गर्न">數</w>
+				<w lemma="jat1" msd="one#ایک#एक">一</w>
+				<w lemma="sou2" msd="count#گننا#गणना गर्न">數</w>
+				<w lemma="#" msd="##">，</w>
+			</l>
+			<l>
+				<w lemma="tou4" msd="picture#تصویر#चित्र">圖</w>
+				<w lemma="zung1" msd="inside#اندر#भित्र">中</w>
+				<w lemma="gung6" msd="in total#کل ملا کر#कुल">共</w>
+				<w lemma="jau5" msd="have#ہے#छ">有</w>
+				<w lemma="#" msd="＿＿#＿＿#＿＿">＿＿</w>
+				<w lemma="tau4" msd="(classifier)">頭</w>
+				<w lemma="seoi2-ngau4" msd="buffalo#بھینس#भैंसी">水牛</w>
+				<w lemma="wo4" msd="and#اور#तथा">和</w>
+				<w lemma="#" msd="＿＿#＿＿#＿＿">＿＿</w>
+				<w lemma="zek3" msd="(classifier)">隻</w>
+				<w lemma="siu2-niu5" msd="bird#پرندہ#चरा">小鳥</w>
+				<w lemma="#" msd="##">，</w>
+			</l>
+			<l>
+				<w lemma="gung6" msd="in total#کل ملا کر#कुल">共</w>
+				<w lemma="jau5" msd="have#ہے#छ">有</w>
+				<w lemma="#" msd="＿＿#＿＿#＿＿">＿＿</w>
+				<w lemma="zek3" msd="(classifier)">隻</w>
+				<w lemma="dung6-mat6" msd="animal#جانور#जनावर">動物</w>
+				<w lemma="#" msd="##">。</w>
+			</l>
+			<l>
+				<w lemma="duk6-zok3" msd="#यस्तो रूपमा पढ्नुहोस्#اس طرح سے پڑھیں#read as">讀作</w>
+				<w lemma="saam1" msd="three#تین#तीन">3</w>
+				<w lemma="gaa1" msd="plus#جمع#जोड्नु">加</w>
+				<w lemma="sei3" msd="four#چار#चार">4</w>
+				<w lemma="dang2-jyu1" msd="equal to#برابر ہے#बराबर">等於</w>
+				<w lemma="cat1" msd="seven#سات#सात">7</w>
+			</l>
+			<l>
+				<w lemma="hou2-do1" msd="many#بہت#धेरै">好多</w>
+				<w lemma="dung6-mat6" msd="animal#جانور#जनावर">動物</w>
+				<w lemma="dou1" msd="also#بھی#पनि">都</w>
+				<w lemma="zau2" msd="walk#چلنا#हिडनु">走</w>
+				<w lemma="lai4" msd="come#آنا#आउनुहोस्">嚟</w>
+				<w lemma="jam2" msd="to drink#پینا#पिउनलाई">飲</w>
+				<w lemma="seoi2" msd="water#پانی#पानी">水</w>
+				<w lemma="wo3" msd="(particle)">喎</w>
+				<w lemma="#" msd="##">。</w>
+			</l>
+			<l>
+				<w lemma="nei5" msd="you#تم#तपाईं">你</w>
+				<w lemma="sou2" msd="count#گننا#गणना गर्न">數</w>
+				<w lemma="m4" msd="not#نہیں#होइन">唔</w>
+				<w lemma="sou2" msd="count#گننا#गणना गर्न">數</w>
+				<w lemma="dou2" msd="can#کر سکتے#सक्छौ">到</w>
+				<w lemma="jau5" msd="have#ہے#छ">有</w>
+				<w lemma="me1" msd="what#کیا#के">咩</w>
+				<w lemma="#" msd="##">？</w>
+			</l>
+			<l>
+				<w lemma="jau5" msd="have#ہے#छ">有</w>
+				<w lemma="ng5" msd="five#پانچ#पाँच">五</w>
+				<w lemma="zek3" msd="(classifier)">隻</w>
+				<w lemma="ling4-joeng4" msd="antelope#ہرن#मृग">羚羊</w>
+				<w lemma="#" msd="##">，</w>
+				<w lemma="tung4" msd="and#اور#र">同</w>
+				<w lemma="luk6" msd="six#چھ#छ">六</w>
+				<w lemma="zek3" msd="(classifier)">隻</w>
+				<w lemma="je5-zyu1" msd="boar#سور#सुँगुर">野豬</w>
+				<w lemma="aa3" msd="(particle)">啊</w>
+				<w lemma="#" msd="##">。</w>
+			</l>
+			<l>
+				<w lemma="ling4-joeng4" msd="antelope#ہرن#मृग">羚羊</w>
+				<w lemma="jau5" msd="have#ہے#छ">有</w>
+				<w lemma="#" msd="＿＿#＿＿#＿＿">＿＿</w>
+				<w lemma="zek3" msd="(classifier)">隻</w>
+				<w lemma="#" msd="##">，</w>
+				<w lemma="je5-zyu1" msd="boar#سور#सुँगुर">野豬</w>
+				<w lemma="jau5" msd="have#ہے#छ">有</w>
+				<w lemma="#" msd="＿＿#＿＿#＿＿">＿＿</w>
+				<w lemma="zek3" msd="(classifier)">隻</w>
+				<w lemma="#" msd="##">，</w>
+			</l>
+			<l>
+				<w lemma="ling4-joeng4" msd="antelope#ہرن#मृग">羚羊</w>
+				<w lemma="wo4" msd="and#اور#तथा">和</w>
+				<w lemma="je5-zyu1" msd="boar#سور#सुँगुर">野豬</w>
+				<w lemma="gung6" msd="in total#کل ملا کر#कुल">共</w>
+				<w lemma="jau5" msd="have#ہے#छ">有</w>
+				<w lemma="#" msd="＿＿#＿＿#＿＿">＿＿</w>
+				<w lemma="zek3" msd="(classifier)">隻</w>
+				<w lemma="#" msd="##">。</w>
+			</l>
+			<l>
+				<w lemma="duk6-zok3" msd="#यस्तो रूपमा पढ्नुहोस्#اس طرح سے پڑھیں#read as">讀作</w>
+				<w lemma="ng5" msd="five#پانچ#पाँच">5</w>
+				<w lemma="gaa1" msd="plus#جمع#जोड्नु">加</w>
+				<w lemma="luk6" msd="six#چھ#छ">6</w>
+				<w lemma="dang2-jyu1" msd="equal to#برابر ہے#बराबर">等於</w>
+				<w lemma="sap6-jat1" msd="eleven#گیارہ#एघार">11</w>
+			</l>
+			<l>
+				<w lemma="hou2-do1" msd="many#متعدد#धेरै">好多</w>
+				<w lemma="baan1-maa5" msd="zebra#زیبرا#जेब्रा">斑馬</w>
+				<w lemma="paau2" msd="run#بھاگنا#दगुर्नु">跑</w>
+				<w lemma="gwo3-lai4" msd="come over#ادھر آو#आउ">過嚟</w>
+				<w lemma="jam2" msd="to drink#پینا#पिउनलाई">飲</w>
+				<w lemma="seoi2" msd="water#پانی#पानी">水</w>
+				<w lemma="#" msd="##">，</w>
+			</l>
+			<l>
+				<w lemma="jau5" msd="have#ہے#छ">有</w>
+				<w lemma="cat1" msd="seven#سات#सात">七</w>
+				<w lemma="zek3" msd="(classifier)">隻</w>
+				<w lemma="gam3" msd="so#تو#त्यसैले">咁</w>
+				<w lemma="do1" msd="many#متعدد#धेरै">多</w>
+				<w lemma="aa3" msd="(particle)">啊</w>
+				<w lemma="#" msd="##">！</w>
+			</l>
+			<l>
+				<w lemma="baan1-maa5" msd="zebra#زیبرا#जेब्रा">斑馬</w>
+				<w lemma="paau2" msd="run#بھاگنا#दगुर्नु">跑</w>
+				<w lemma="dak1" msd="-">得</w>
+				<w lemma="hou2" msd="very#بہت#धेरै">好</w>
+				<w lemma="faai3" msd="fast#تیز#छिटो">快</w>
+				<w lemma="#" msd="##">，</w>
+			</l>
+			<l>
+				<w lemma="tek3" msd="kick#لات#लात">踢</w>
+				<w lemma="dou3" msd="to#کو#लाई">到</w>
+				<w lemma="di1" msd="some#کچھ#केहि">啲</w>
+				<w lemma="saa1" msd="sand#ریت#बालुवा">沙</w>
+				<w lemma="dou1" msd="all#سب#सबै">都</w>
+				<w lemma="fei1" msd="fly#اڑنا#उड्नु">飛</w>
+				<w lemma="hei2" msd="up#اوپر#माथि">起</w>
+				<w lemma="saai3" msd="all#سب#सबै">晒</w>
+				<w lemma="#" msd="##">。</w>
+			</l>
+			<l>
+				<w lemma="sou2" msd="count#گننا#गणना गर्न">數</w>
+				<w lemma="jat1" msd="one#ایک#एक">一</w>
+				<w lemma="sou2" msd="count#گننا#गणना गर्न">數</w>
+				<w lemma="seoi2-bin1" msd="waterside#پانی کے کنارے#पानीको किनारा">水邊</w>
+				<w lemma="dik1" msd="(linker)#کے#को">的</w>
+				<w lemma="ling4-joeng4" msd="antelope#ہرن#मृग">羚羊</w>
+				<w lemma="wo4" msd="and#اور#तथा">和</w>
+				<w lemma="baan1-maa5" msd="zebra#زیبرا#जेब्रा">斑馬</w>
+				<w lemma="#" msd="##">，</w>
+			</l>
+			<l>
+				<w lemma="ling4-joeng4" msd="antelope#ہرن#मृग">羚羊</w>
+				<w lemma="wo4" msd="and#اور#तथा">和</w>
+				<w lemma="baan1-maa5" msd="zebra#زیبرا#जेब्रा">斑馬</w>
+				<w lemma="gung6" msd="in total#کل ملا کر#कुल">共</w>
+				<w lemma="jau5" msd="have#ہے#छ">有</w>
+				<w lemma="#" msd="＿＿#＿＿#＿＿">＿＿</w>
+				<w lemma="zek3" msd="(classifier)">隻</w>
+				<w lemma="#" msd="##">。</w>
+			</l>
+			<l>
+				<w lemma="duk6-zok3" msd="#यस्तो रूपमा पढ्नुहोस्#اس طرح سے پڑھیں#read as">讀作</w>
+				<w lemma="ng5" msd="five#پانچ#पाँच">5</w>
+				<w lemma="gaa1" msd="plus#جمع#जोड्नु">加</w>
+				<w lemma="cat1" msd="seven#سات#सात">7</w>
+				<w lemma="dang2-jyu1" msd="equal to#برابر ہے#बराबर">等於</w>
+				<w lemma="sap6-ji6" msd="twelve#بارہ#बाह्र">12</w>
+			</l>
+			<l>
+				<w lemma="#" msd="＿＿#＿＿#＿＿">＿＿</w>
+				<w lemma="bei2" msd="compared to#اس کے مقابلے#तुलनामा">比</w>
+				<w lemma="#" msd="＿＿#＿＿#＿＿">＿＿</w>
+				<w lemma="do1" msd="more#زیادہ#धेरै">多</w>
+				<w lemma="#" msd="＿＿#＿＿#＿＿">＿＿</w>
+				<w lemma="zek3" msd="(classifier)">隻</w>
+				<w lemma="#" msd="##">，</w>
+			</l>
+			<l>
+				<w lemma="#" msd="＿＿#＿＿#＿＿">＿＿</w>
+				<w lemma="bei2" msd="compared to#اس کے مقابلے#तुलनामा">比</w>
+				<w lemma="#" msd="＿＿#＿＿#＿＿">＿＿</w>
+				<w lemma="siu2" msd="less#کم#थोरै">少</w>
+				<w lemma="#" msd="＿＿#＿＿#＿＿">＿＿</w>
+				<w lemma="zek3" msd="(classifier)">隻</w>
+				<w lemma="#" msd="##">。</w>
+			</l>
+			<l>
+				<w lemma="loeng5" msd="two#دو#दुई">兩</w>
+				<w lemma="zung2" msd="type#قسم#प्रकार">種</w>
+				<w lemma="dung6-mat6" msd="animal#جانور#जनावर">動物</w>
+				<w lemma="soeng1-caa1" msd="differ by#فرق#ले फरक">相差</w>
+				<w lemma="#" msd="＿＿#＿＿#＿＿">＿＿</w>
+				<w lemma="zek3" msd="(classifier)">隻</w>
+				<w lemma="#" msd="##">。</w>
+			</l>
+			<l>
+				<w lemma="duk6-zok3" msd="#यस्तो रूपमा पढ्नुहोस्#اس طرح سے پڑھیں#read as">讀作</w>
+				<w lemma="cat1" msd="seven#سات#सात">7</w>
+				<w lemma="gaam2" msd="minus#تفریق#घटाउ">減</w>
+				<w lemma="ng5" msd="five#پانچ#पाँच">5</w>
+				<w lemma="dang2-jyu1" msd="equal to#برابر ہے#बराबर">等於</w>
+				<w lemma="ji6" msd="two#دو#दुई">2</w>
+			</l>
+			<l>
+				<w lemma="sou2" msd="count#گننا#गणना गर्न">數</w>
+				<w lemma="jat1" msd="one#ایک#एक">一</w>
+				<w lemma="sou2" msd="count#گننا#गणना गर्न">數</w>
+				<w lemma="seoi2-bin1" msd="waterside#پانی کے کنارے#पानीको किनारा">水邊</w>
+				<w lemma="dik1" msd="(linker)#کے#को">的</w>
+				<w lemma="je5-zyu1" msd="boar#سور#सुँगुर">野豬</w>
+				<w lemma="wo4" msd="and#اور#तथा">和</w>
+				<w lemma="baan1-maa5" msd="zebra#زیبرا#जेब्रा">斑馬</w>
+				<w lemma="#" msd="##">，</w>
+			</l>
+			<l>
+				<w lemma="je5-zyu1" msd="boar#سور#सुँगुर">野豬</w>
+				<w lemma="wo4" msd="and#اور#तथा">和</w>
+				<w lemma="baan1-maa5" msd="zebra#زیبرا#जेब्रा">斑馬</w>
+				<w lemma="gung6" msd="in total#کل ملا کر#कुल">共</w>
+				<w lemma="jau5" msd="have#ہے#छ">有</w>
+				<w lemma="#" msd="＿＿#＿＿#＿＿">＿＿</w>
+				<w lemma="zek3" msd="(classifier)">隻</w>
+				<w lemma="#" msd="##">。</w>
+			</l>
+			<l>
+				<w lemma="duk6-zok3" msd="#यस्तो रूपमा पढ्नुहोस्#اس طرح سے پڑھیں#read as">讀作</w>
+				<w lemma="luk6" msd="six#چھ#छ">6</w>
+				<w lemma="gaa1" msd="plus#جمع#जोड्नु">加</w>
+				<w lemma="cat1" msd="seven#سات#सात">7</w>
+				<w lemma="dang2-jyu1" msd="equal to#برابر ہے#बराबर">等於</w>
+				<w lemma="sap6-saam1" msd="thirteen#تیرہ#तेह्र">13</w>
+			</l>
+			<l>
+				<w lemma="#" msd="＿＿#＿＿#＿＿">＿＿</w>
+				<w lemma="bei2" msd="compared to#اس کے مقابلے#तुलनामा">比</w>
+				<w lemma="#" msd="＿＿#＿＿#＿＿">＿＿</w>
+				<w lemma="do1" msd="more#زیادہ#धेरै">多</w>
+				<w lemma="#" msd="＿＿#＿＿#＿＿">＿＿</w>
+				<w lemma="zek3" msd="(classifier)">隻</w>
+				<w lemma="#" msd="##">，</w>
+			</l>
+			<l>
+				<w lemma="#" msd="＿＿#＿＿#＿＿">＿＿</w>
+				<w lemma="bei2" msd="compared to#اس کے مقابلے#तुलनामा">比</w>
+				<w lemma="#" msd="＿＿#＿＿#＿＿">＿＿</w>
+				<w lemma="siu2" msd="less#کم#थोरै">少</w>
+				<w lemma="#" msd="＿＿#＿＿#＿＿">＿＿</w>
+				<w lemma="zek3" msd="(classifier)">隻</w>
+				<w lemma="#" msd="##">。</w>
+			</l>
+			<l>
+				<w lemma="loeng5" msd="two#دو#दुई">兩</w>
+				<w lemma="zung2" msd="type#قسم#प्रकार">種</w>
+				<w lemma="dung6-mat6" msd="animal#جانور#जनावर">動物</w>
+				<w lemma="soeng1-caa1" msd="differ by#فرق#ले फरक">相差</w>
+				<w lemma="#" msd="＿＿#＿＿#＿＿">＿＿</w>
+				<w lemma="zek3" msd="(classifier)">隻</w>
+				<w lemma="#" msd="##">。</w>
+			</l>
+			<l>
+				<w lemma="duk6-zok3" msd="#यस्तो रूपमा पढ्नुहोस्#اس طرح سے پڑھیں#read as">讀作</w>
+				<w lemma="cat1" msd="seven#سات#सात">7</w>
+				<w lemma="gaam2" msd="minus#تفریق#घटाउ">減</w>
+				<w lemma="luk6" msd="six#چھ#छ">6</w>
+				<w lemma="dang2-jyu1" msd="equal to#برابر ہے#बराबर">等於</w>
+				<w lemma="jat1" msd="one#ایک#एक">1</w>
+			</l>
+			<l>
+				<w lemma="zau2" msd="walk#چلنا#हिडनु">走</w>
+				<w lemma="dou3" msd="to#کو#सेवा">到</w>
+				<w lemma="seoi2-bin1" msd="waterside#پانی کے کنارے#पानीको किनारा">水邊</w>
+				<w lemma="hot3" msd="to drink#پینا#पिउनलाई">喝</w>
+				<w lemma="seoi2" msd="water#پانی#पानी">水</w>
+				<w lemma="dik1" msd="(linker)#کے#को">的</w>
+				<w lemma="ling4-joeng4" msd="antelope#ہرن#मृग">羚羊</w>
+				<w lemma="#" msd="##">、</w>
+				<w lemma="je5-zyu1" msd="boar#سور#सुँगुर">野豬</w>
+				<w lemma="wo4" msd="and#اور#तथा">和</w>
+				<w lemma="baan1-maa5" msd="zebra#زیبرا#जेब्रा">斑馬</w>
+				<w lemma="gung6" msd="in total#کل ملا کر#कुल">共</w>
+				<w lemma="jau5" msd="have#ہے#छ">有</w>
+				<w lemma="#" msd="＿＿#＿＿#＿＿">＿＿</w>
+				<w lemma="zek3" msd="(classifier)">隻</w>
+				<w lemma="#" msd="##">。</w>
+			</l>
+			<l>
+				<w lemma="duk6-zok3" msd="#यस्तो रूपमा पढ्नुहोस्#اس طرح سے پڑھیں#read as">讀作</w>
+				<w lemma="ng5" msd="five#پانچ#पाँच">5</w>
+				<w lemma="gaa1" msd="plus#جمع#जोड्नु">加</w>
+				<w lemma="luk6" msd="six#چھ#छ">6</w>
+				<w lemma="gaa1" msd="plus#جمع#जोड्नु">加</w>
+				<w lemma="cat1" msd="seven#سات#सात">7</w>
+				<w lemma="dang2-jyu1" msd="equal to#برابر ہے#बराबर">等於</w>
+				<w lemma="sap6-baat3" msd="eighteen#اٹھارہ#अठार">18</w>
+			</l>
+			<l>
+				<w lemma="jau5-di1" msd="some#کچھ#केही">有啲</w>
+				<w lemma="dung6-mat6" msd="animal#جانور#जनावर">動物</w>
+				<w lemma="wui5" msd="will#کریں گے#गर्नेछु">會</w>
+				<w lemma="zyu6" msd="live#رہنا#बाँच्नु">住</w>
+				<w lemma="hai2" msd="at#پر#मा">喺</w>
+				<w lemma="seoi2" msd="water#پانی#पानी">水</w>
+				<w lemma="jap6-min6" msd="inside#اندر#भित्र">入面</w>
+				<w lemma="gaa3" msd="(particle)">㗎</w>
+				<w lemma="#" msd="##">。</w>
+			</l>
+			<l>
+				<w lemma="tai2-haa5" msd="Look#دیکھو#हेर">睇下</w>
+				<w lemma="#" msd="##">，</w>
+				<w lemma="ji4-gaa1" msd="now#ابھی#अब">而家</w>
+				<w lemma="zau6" msd="as a result#نتیجے میں#फलस्वरूप">就</w>
+				<w lemma="jau5" msd="have#ہے#छ">有</w>
+				<w lemma="baat3" msd="eight#آٹھ#आठ">八</w>
+				<w lemma="zek3" msd="(classifier)">隻</w>
+				<w lemma="cing1-waa1" msd="frog#مینڈک#भ्यागुतो">青蛙</w>
+				<w lemma="tung4" msd="and#اور#र">同</w>
+				<w lemma="gau2" msd="nine#نو#नौ">九</w>
+				<w lemma="tiu4" msd="(classifier)">條</w>
+				<w lemma="jyu2" msd="fish#مچھلی#माछा">魚</w>
+				<w lemma="hai2-dou6" msd="right here#یہیں#यँही">喺度</w>
+				<w lemma="#" msd="##">。</w>
+			</l>
+			<l>
+				<w lemma="seoi2-zung1" msd="in water#پانی میں#पानी मा">水中</w>
+				<w lemma="dik1" msd="(linker)#کے#को">的</w>
+				<w lemma="dung6-mat6" msd="animal#جانور#जनावर">動物</w>
+				<w lemma="gung6" msd="in total#کل ملا کر#कुल">共</w>
+				<w lemma="jau5" msd="have#ہے#छ">有</w>
+				<w lemma="#" msd="＿＿#＿＿#＿＿">＿＿</w>
+				<w lemma="zek3" msd="(classifier)">隻</w>
+				<w lemma="#" msd="##">。</w>
+			</l>
+			<l>
+				<w lemma="duk6-zok3" msd="#यस्तो रूपमा पढ्नुहोस्#اس طرح سے پڑھیں#read as">讀作</w>
+				<w lemma="baat3" msd="eight#آٹھ#आठ">8</w>
+				<w lemma="gaa1" msd="plus#جمع#जोड्नु">加</w>
+				<w lemma="gau2" msd="nine#نو#नौ">9</w>
+				<w lemma="dang2-jyu1" msd="equal to#برابر ہے#बराबर">等於</w>
+				<w lemma="sap6-cat1" msd="seventeen#سترہ#सत्र">17</w>
+			</l>
+			<l>
+				<w lemma="dei6-soeng6" msd="on the ground#زمین پر#जमीनमा">地上</w>
+				<w lemma="dik1" msd="(linker)#کے#को">的</w>
+				<w lemma="baan1-maa5" msd="zebra#زیبرا#जेब्रा">斑馬</w>
+				<w lemma="gung6" msd="in total#کل ملا کر#कुल">共</w>
+				<w lemma="jau5" msd="have#ہے#छ">有</w>
+				<w lemma="#" msd="＿＿#＿＿#＿＿">＿＿</w>
+				<w lemma="zek3" msd="(classifier)">隻</w>
+				<w lemma="#" msd="##">。</w>
+			</l>
+			<l>
+				<w lemma="seoi2-zung1" msd="in water#پانی میں#पानी मा">水中</w>
+				<w lemma="dik1" msd="(linker)#کے#को">的</w>
+				<w lemma="dung6-mat6" msd="animal#جانور#जनावर">動物</w>
+				<w lemma="wo4" msd="and#اور#तथा">和</w>
+				<w lemma="dei6-soeng6" msd="on the ground#زمین پر#जमीनमा">地上</w>
+				<w lemma="dik1" msd="(linker)#کے#को">的</w>
+				<w lemma="baan1-maa5" msd="zebra#زیبرا#जेब्रा">斑馬</w>
+				<w lemma="soeng1-caa1" msd="differ by#فرق#ले फरक">相差</w>
+				<w lemma="#" msd="＿＿#＿＿#＿＿">＿＿</w>
+				<w lemma="zek3" msd="(classifier)">隻</w>
+				<w lemma="#" msd="##">。</w>
+			</l>
+			<l>
+				<w lemma="duk6-zok3" msd="#यस्तो रूपमा पढ्नुहोस्#اس طرح سے پڑھیں#read as">讀作</w>
+				<w lemma="sap6-cat1" msd="seventeen#سترہ#सत्र">17</w>
+				<w lemma="gaam2" msd="minus#تفریق#घटाउ">減</w>
+				<w lemma="cat1" msd="seven#سات#सात">7</w>
+				<w lemma="dang2-jyu1" msd="equal to#برابر ہے#बराबर">等於</w>
+				<w lemma="sap6" msd="ten#دس#दस">10</w>
+			</l>
+			<l>
+				<w lemma="jau5" msd="have#ہے#छ">有</w>
+				<w lemma="zek3" msd="(classifier)">隻</w>
+				<w lemma="si1-zi2" msd="lion#شیر#सिंह">獅子</w>
+				<w lemma="hai2-dou6" msd="right here#یہیں#यँही">喺度</w>
+				<w lemma="daai6-giu3" msd="shout#چیخنا#कराउनु">大叫</w>
+				<w lemma="#" msd="##">。</w>
+				<w lemma="keoi5" msd="it#یہ#त्यो">佢</w>
+				<w lemma="dou1" msd="also#بھی#पनि">都</w>
+				<w lemma="hou2" msd="very#بہت#धेरै">好</w>
+				<w lemma="soeng2" msd="want#چاہنا#सोच्नु">想</w>
+				<w lemma="jam2" msd="to drink#پینا#पिउनलाई">飲</w>
+				<w lemma="seoi2" msd="water#پانی#पानी">水</w>
+				<w lemma="#" msd="##">。</w>
+			</l>
+			<l>
+				<w lemma="nei5" msd="you#تم#तपाईं">你</w>
+				<w lemma="zi1" msd="know#جاننا#थाहा">知</w>
+				<w lemma="m4" msd="not#نہیں#होइन">唔</w>
+				<w lemma="zi1-dou3" msd="know#جاننا#थाहा">知道</w>
+				<w lemma="bin1-di1" msd="which ones#کونسا#कुन चाँही">邊啲</w>
+				<w lemma="dung6-mat6" msd="animal#جانور#जनावर">動物</w>
+				<w lemma="wui5" msd="will#کریں گے#गर्नेछु">會</w>
+				<w lemma="geng1" msd="afraid#خوفزدہ#डराए">驚</w>
+				<w lemma="si1-zi2" msd="lion#شیر#सिंह">獅子</w>
+				<w lemma="#" msd="##">？</w>
+			</l>
+			<l>
+				<w lemma="jyun4-loi4" msd="it turns out#یہ ثابت ہوتا ہے#यो पत्ता लागेको">原來</w>
+				<w lemma="coeng4-geng2-luk2" msd="giraffe#زرافہ#जिराफ">長頸鹿</w>
+				<w lemma="#" msd="##">、</w>
+				<w lemma="seoi2-ngau4" msd="buffalo#بھینس#भैंसी">水牛</w>
+				<w lemma="#" msd="##">、</w>
+				<w lemma="ling4-joeng4" msd="antelope#ہرن#मृग">羚羊</w>
+				<w lemma="#" msd="##">、</w>
+				<w lemma="je5-zyu1" msd="boar#سور#सुँगुर">野豬</w>
+				<w lemma="#" msd="##">、</w>
+				<w lemma="baan1-maa5" msd="zebra#زیبرا#जेब्रा">斑馬</w>
+				<w lemma="dou1" msd="also#بھی#पनि">都</w>
+				<w lemma="geng1" msd="afraid#خوفزدہ#डराए">驚</w>
+				<w lemma="si1-zi2" msd="lion#شیر#सिंह">獅子</w>
+				<w lemma="gaa3" msd="(particle)">㗎</w>
+				<w lemma="#" msd="##">！</w>
+			</l>
+			<l>
+				<w lemma="geng1" msd="afraid#خوفزدہ#डराए">驚</w>
+				<w lemma="si1-zi2" msd="lion#شیر#सिंह">獅子</w>
+				<w lemma="ge3" msd="(linker)#کے#को">嘅</w>
+				<w lemma="dung6-mat6" msd="animal#جانور#जनावर">動物</w>
+				<w lemma="dou1" msd="all#سب#सबै">都</w>
+				<w lemma="zau2" msd="leave#چلے جانا#छोड्नु">走</w>
+				<w lemma="saai3" msd="all#سب#सबै">晒</w>
+				<w lemma="laa3" msd="already#پہلے سے#पहिले नै">喇</w>
+				<w lemma="#" msd="##">，</w>
+			</l>
+			<l>
+				<w lemma="dak1-faan1" msd="have...only#صرف#.... मात्र हुनु">得返</w>
+				<w lemma="daai6-ban6-zoeng6" msd="elephant#ہاتھی#हात्ती">大笨象</w>
+				<w lemma="tung4" msd="and#اور#र">同</w>
+				<w lemma="zoek3-zai2" msd="bird#پرندہ#चरा">雀仔</w>
+				<w lemma="lau4-dai1" msd="stay behind#پیچھے رہو#पछाडी बस्नुस">留低</w>
+				<w lemma="#" msd="##">。</w>
+			</l>
+			<l>
+				<w lemma="si1-zi2" msd="lion#شیر#सिंह">獅子</w>
+				<w lemma="waa6" msd="say#کہنا#भन्‍नुहोस्">話</w>
+				<w lemma="#" msd="##">：</w>
+				<w lemma="#" msd="##">「</w>
+				<w lemma="m4-sai2" msd="no need#کوئی ضرورت نہیں#जरुरी छैन">唔使</w>
+				<w lemma="geng1" msd="afraid#خوفزدہ#डराए">驚</w>
+				<w lemma="gaa3" msd="(particle)">㗎</w>
+				<w lemma="#" msd="##">，</w>
+				<w lemma="ngo5-dei6" msd="we#ہم#हामी">我哋</w>
+				<w lemma="jat1-cai4" msd="together#ایک ساتھ#एकसाथ">一齊</w>
+				<w lemma="jam2" msd="drink#پینا#पिउनु">飲</w>
+				<w lemma="seoi2" msd="water#پانی#पानी">水</w>
+				<w lemma="#" msd="##">，</w>
+				<w lemma="jat1-cai4" msd="together#ایک ساتھ#एकसाथ">一齊</w>
+				<w lemma="waan2" msd="play#کھیلنا#खेल्नु">玩</w>
+				<w lemma="aa1" msd="(particle)">吖</w>
+				<w lemma="#" msd="##">！</w>
+				<w lemma="#" msd="##">」</w>
+			</l>
+			<l>
+				<w lemma="cing1-waa1" msd="frog#مینڈک#भ्यागुतो">青蛙</w>
+				<w lemma="tung4" msd="and#اور#र">同</w>
+				<w lemma="jyu2" msd="fish#مچھلی#माछा">魚</w>
+				<w lemma="zau6" msd="as a result#نتیجے میں#फलस्वरूप">就</w>
+				<w lemma="gai3-zuk6" msd="continue#جاری رکھنا#जारी राख्नु">繼續</w>
+				<w lemma="hai2" msd="at#پر#मा">喺</w>
+				<w lemma="seoi2" msd="water#پانی#पानी">水</w>
+				<w lemma="jap6-min6" msd="inside#اندر#भित्र">入面</w>
+				<w lemma="#" msd="##">。</w>
+			</l>
+			<l>
+				<w lemma="siu2-pang4-jau5" msd="child#بچہ#बच्चा">小朋友</w>
+				<w lemma="#" msd="##">，</w>
+				<w lemma="bat1-jyu4" msd="how about#کیوں نہ#कस्तो होला">不如</w>
+				<w lemma="sou2" msd="count#گننا#गणना गर्न">數</w>
+				<w lemma="haa5" msd="once#ایک بار#एक पटक">下</w>
+				<w lemma="ji4-gaa1" msd="now#ابھی#अब">而家</w>
+				<w lemma="jau5" msd="have#ہے#छ">有</w>
+				<w lemma="gei2-do1" msd="how many#کتنے#कति वटा">幾多</w>
+				<w lemma="zek3" msd="(classifier)">隻</w>
+				<w lemma="dung6-mat6" msd="animal#جانور#जनावर">動物</w>
+				<w lemma="aa1" msd="(particle)">吖</w>
+				<w lemma="#" msd="##">！</w>
+			</l>
+			<l>
+				<w lemma="zi2-jau5" msd="have...only#صرف#.... मात्र हुनु">只有</w>
+				<w lemma="daai6-ban6-zoeng6" msd="elephant#ہاتھی#हात्ती">大笨象</w>
+				<w lemma="wo4" msd="and#اور#तथा">和</w>
+				<w lemma="siu2-niu5" msd="bird#پرندہ#चरा">小鳥</w>
+				<w lemma="lau4-haa6" msd="stay behind#پیچھے رہو#पछाडी रहनु">留下</w>
+				<w lemma="pui4" msd="accompany#ساتھ#साथ">陪</w>
+				<w lemma="si1-zi2" msd="lion#شیر#सिंह">獅子</w>
+				<w lemma="#" msd="##">，</w>
+			</l>
+			<l>
+				<w lemma="jin6-zoi6" msd="now#ابھی#अहिले">現在</w>
+				<w lemma="dei6-soeng6" msd="on the ground#زمین پر#जमीनमा">地上</w>
+				<w lemma="sing6-haa6" msd="remain#باقی#बाँकी">剩下</w>
+				<w lemma="#" msd="＿＿#＿＿#＿＿">＿＿</w>
+				<w lemma="zek3" msd="(classifier)">隻</w>
+				<w lemma="dung6-mat6" msd="animal#جانور#जनावर">動物</w>
+				<w lemma="#" msd="##">。</w>
+			</l>
+			<l>
+				<w lemma="baan1-maa5" msd="zebra#زیبرا#जेब्रा">斑馬</w>
+				<w lemma="jyun4-jau5" msd="originally had#اصل میں تھا#मूल रूपमा थियो">原有</w>
+				<w lemma="#" msd="＿＿#＿＿#＿＿">＿＿</w>
+				<w lemma="zek3" msd="(classifier)">隻</w>
+				<w lemma="#" msd="##">，</w>
+				<w lemma="daan6" msd="but#لیکن#तर">但</w>
+				<w lemma="taa1-mun4" msd="they (animal)#وہ#तिनीहरू">牠們</w>
+				<w lemma="cyun4-bou6" msd="all#سب#सबै">全部</w>
+				<w lemma="dou1" msd="all#سب#सबै">都</w>
+				<w lemma="paau2" msd="run#بھاگنا#दगुर्नु">跑</w>
+				<w lemma="zau2" msd="leave#چلے جانا#छोड्नु">走</w>
+				<w lemma="liu5" msd="already#پہلے سے#पहिले नै">了</w>
+				<w lemma="#" msd="##">，</w>
+			</l>
+			<l>
+				<w lemma="jin6-zoi6" msd="now#ابھی#अहिले">現在</w>
+				<w lemma="sing6-haa6" msd="remain#باقی#बाँकी">剩下</w>
+				<w lemma="baan1-maa5" msd="zebra#زیبرا#जेब्रा">斑馬</w>
+				<w lemma="#" msd="＿＿#＿＿#＿＿">＿＿</w>
+				<w lemma="zek3" msd="(classifier)">隻</w>
+				<w lemma="#" msd="##">。</w>
+			</l>
+			<l>
+				<w lemma="duk6-zok3" msd="#यस्तो रूपमा पढ्नुहोस्#اس طرح سے پڑھیں#read as">讀作</w>
+				<w lemma="cat1" msd="seven#سات#सात">7</w>
+				<w lemma="gaam2" msd="minus#تفریق#घटाउ">減</w>
+				<w lemma="cat1" msd="seven#سات#सात">7</w>
+				<w lemma="dang2-jyu1" msd="equal to#برابر ہے#बराबर">等於</w>
+				<w lemma="ling4" msd="zero#صفر#शून्य">0</w>
+			</l>
+			<l>
+				<w lemma="mat6-fung1" msd="bee#مکھی#मौरी">蜜蜂</w>
+				<w lemma="niu5-ji4" msd="bird#پرندہ#चरा">鳥兒</w>
+				<w lemma="cing1-waa1" msd="frog#مینڈک#भ्यागुतो">青蛙</w>
+				<w lemma="maau1" msd="cat#بلّی#बिरालो">貓</w>
+				<w lemma="gau2" msd="dog#کتا#कुकुर">狗</w>
+				<w lemma="tou3-zi2" msd="rabbit#خرگوش#खरायो">兔子</w>
+				<w lemma="zyu1" msd="boar#خنزیر#सुँगुरहरु">豬</w>
+			</l>
+		</body>
+	</text>
+</TEI>
