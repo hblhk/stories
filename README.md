@@ -8,4 +8,9 @@ This is a GitHub release of Hambaanglanag Cantonese storybooks for language proc
 `legacy\utils\tsv2xml.py` converts these legacy csv sheets into [TEI-compliant](https://tei-c.org) XML files. The format has not yet been finalised. Ultimately page breaks (for videos/print), illustrations, per-sentence translations, etc. will be added to the XML file, and contributor information will be updated.
 
 ## How to contribute
+
 There is going to be development work involved, please send us a message at info@hambaanglaang.hk if you would like to help.
+
+## License
+
+Hambaanglaang storybooks are released under the [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
