@@ -3,9 +3,11 @@
 		<fileDesc>
 			<titleStmt>
 				<title>我讀書唔叻，但我⋯⋯</title>
-				<author></author>
-				<editor></editor>
-				<editor></editor>
+				<author>Gaaupper</author>
+				<respStmt>
+					<resp>Cantonese Team</resp>
+					<persName>Gaaupper (作者Author), Joanne Chu, Pong</persName>
+				</respStmt>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>Hambaanglaang</publisher>
@@ -20,9 +22,7 @@
 				<title>Hambaanglaang Graded Readers 冚唪唥粵文讀本</title>
 				<idno>00168p</idno>
 			</seriesStmt>
-			<sourceDesc>
-				<p>Stories</p>
-			</sourceDesc>
+			<sourceDesc/>
 		</fileDesc>
 	</teiHeader>
 	<text>
@@ -32,58 +32,58 @@
 				<w lemma="duk6-syu1" msd="study">讀書</w>
 				<w lemma="m4" msd="not">唔</w>
 				<w lemma="lek1" msd="brilliant">叻</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="daan6" msd="but">但</w>
 				<w lemma="ngo5" msd="I">我</w>
-				<w lemma="#" msd="#">……</w>
+				<pc>……</pc>
 			</l>
 			<l>
-				<w lemma="#" msd="#">「</w>
+				<pc>「</pc>
 				<w lemma="Aa3-jing4" msd="Ying">阿瑩</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="nei5" msd="you">你</w>
 				<w lemma="jau6" msd="again">又</w>
 				<w lemma="hai2-dou6" msd="here">喺度</w>
 				<w lemma="gaau2" msd="do">搞</w>
 				<w lemma="me1" msd="what">咩</w>
 				<w lemma="aa3" msd="(particle)">呀</w>
-				<w lemma="#" msd="#">！</w>
+				<pc>！</pc>
 				<w lemma="gung1-fo3" msd="homework">功課</w>
 				<w lemma="jau6" msd="again">又</w>
 				<w lemma="m4" msd="not">唔</w>
 				<w lemma="zou6" msd="do">做</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="syu1" msd="book">書</w>
 				<w lemma="jau6" msd="again">又</w>
 				<w lemma="m4" msd="not">唔</w>
 				<w lemma="wan1" msd="study">温</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="sing4-jat6" msd="always">成日</w>
 				<w lemma="tai2" msd="read">睇</w>
 				<w lemma="di1" msd="some">啲</w>
 				<w lemma="mou5-jung6" msd="useless">冇用</w>
 				<w lemma="ge3" msd="(linker)">嘅</w>
 				<w lemma="syu1" msd="book">書</w>
-				<w lemma="#" msd="#">！</w>
+				<pc>！</pc>
 			</l>
 			<l>
 				<w lemma="nei5" msd="you">你</w>
 				<w lemma="tai2-haa5" msd="look">睇下</w>
 				<w lemma="jan4-dei6" msd="other(s)">人哋</w>
 				<w lemma="siu2-ming4" msd="Little Ming">小明</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="duk6-syu1" msd="study">讀書</w>
 				<w lemma="nin4" msd="year">年</w>
 				<w lemma="nin4" msd="year">年</w>
 				<w lemma="ling1" msd="take">拎</w>
 				<w lemma="dai6-jat1" msd="first">第一</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="nei5" msd="you">你</w>
 				<w lemma="hok6-haa5" msd="learn">學下</w>
 				<w lemma="jan4-dei6" msd="other(s)">人哋</w>
 				<w lemma="laa1" msd="(particle)">啦</w>
-				<w lemma="#" msd="#">！</w>
-				<w lemma="#" msd="#">」</w>
+				<pc>！</pc>
+				<pc>」</pc>
 			</l>
 			<l>
 				<w lemma="maa4-maa1" msd="mother">媽媽</w>
@@ -91,10 +91,10 @@
 				<w lemma="jau6" msd="again">又</w>
 				<w lemma="faat3-nau1" msd="get angry">發嬲</w>
 				<w lemma="laa3" msd="already">喇</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
-				<w lemma="#" msd="#">「</w>
+				<pc>「</pc>
 				<w lemma="maa4-maa1" msd="mother">媽媽</w>
 				<w lemma="ji1-gaa1" msd="now">依家</w>
 				<w lemma="jiu3" msd="want">要</w>
@@ -102,24 +102,24 @@
 				<w lemma="maai5" msd="to buy">買</w>
 				<w lemma="di1" msd="some">啲</w>
 				<w lemma="je5" msd="thing">嘢</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="nei5" msd="you">你</w>
 				<w lemma="dou1" msd="also">都</w>
 				<w lemma="hou2" msd="better">好</w>
 				<w lemma="heoi3" msd="go">去</w>
 				<w lemma="wan1-syu1" msd="to study">温書</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="m4-hou2" msd="do not">唔好</w>
 				<w lemma="lyun6" msd="randomly">亂</w>
 				<w lemma="hoi1-fo2" msd="turn on the stove">開火</w>
 				<w lemma="zyu2" msd="to cook">煮</w>
 				<w lemma="je5-sik6" msd="food">嘢食</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="teng1-dou2" msd="hear">聽到</w>
 				<w lemma="mei6" msd="not yet">未</w>
 				<w lemma="aa3" msd="(particle)">呀</w>
-				<w lemma="#" msd="#">？</w>
-				<w lemma="#" msd="#">」</w>
+				<pc>？</pc>
+				<pc>」</pc>
 			</l>
 			<l>
 				<w lemma="maa4-maa1" msd="mother">媽媽</w>
@@ -128,31 +128,31 @@
 				<w lemma="gam2" msd="-ly">噉</w>
 				<w lemma="man6" msd="ask">問</w>
 				<w lemma="Aa3-jing4" msd="Ying">阿瑩</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
-				<w lemma="#" msd="#">「</w>
+				<pc>「</pc>
 				<w lemma="dak1" msd="okay">得</w>
 				<w lemma="laa3" msd="already">喇</w>
-				<w lemma="#" msd="#">！</w>
+				<pc>！</pc>
 				<w lemma="zi1-dou3" msd="know">知道</w>
 				<w lemma="laa3" msd="already">喇</w>
-				<w lemma="#" msd="#">！</w>
-				<w lemma="#" msd="#">」</w>
+				<pc>！</pc>
+				<pc>」</pc>
 				<w lemma="Aa3-jing4" msd="Ying">阿瑩</w>
 				<w lemma="fong3-dai1" msd="put down">放低</w>
 				<w lemma="bun2" msd="(measure)">本</w>
 				<w lemma="syu1" msd="book">書</w>
 				<w lemma="baan6" msd="to pretend">扮</w>
 				<w lemma="gwai2-lim6" msd="grimace ">鬼臉</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="maa4-maa1" msd="mother">媽媽</w>
 				<w lemma="ceot1" msd="go out">出</w>
 				<w lemma="zo2" msd="-en">咗</w>
 				<w lemma="mun4-hau2" msd="doorway">門口</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="Aa3-jing4" msd="Ying">阿瑩</w>
@@ -160,23 +160,23 @@
 				<w lemma="maa4-maa1" msd="mother">媽媽</w>
 				<w lemma="gam2" msd="in this way">噉</w>
 				<w lemma="gong2" msd="say">講</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="kei4-sat6" msd="actually">其實</w>
 				<w lemma="jau5-di1" msd="a bit">有啲</w>
 				<w lemma="m4" msd="not">唔</w>
 				<w lemma="hoi1-sam1" msd="happy">開心</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="keoi5" msd="she">佢</w>
 				<w lemma="gok3-dak1" msd="feel">覺得</w>
 				<w lemma="maa4-maa1" msd="mother">媽媽</w>
 				<w lemma="m4-ming4-baak6" msd="do not understand">唔明白</w>
 				<w lemma="keoi5" msd="her">佢</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="keoi5" msd="she">佢</w>
 				<w lemma="sam1-nam2" msd="think">心諗</w>
-				<w lemma="#" msd="#">：</w>
+				<pc>：</pc>
 				<w lemma="kei4-sat6" msd="actually">其實</w>
 				<w lemma="ngo5" msd="my">我</w>
 				<w lemma="fo1-hok6" msd="science">科學</w>
@@ -184,22 +184,22 @@
 				<w lemma="gou1" msd="high">高</w>
 				<w lemma="fan1" msd="marks">分</w>
 				<w lemma="gaa3" msd="(particle)">㗎</w>
-				<w lemma="#" msd="#">！</w>
+				<pc>！</pc>
 				<w lemma="jau6" msd="again">又</w>
 				<w lemma="m4-gin3" msd="don't see">唔見</w>
 				<w lemma="keoi5" msd="her">佢</w>
 				<w lemma="zaan3-haa5" msd="praise">讚下</w>
 				<w lemma="ngo5" msd="me">我</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="dat6-jin4" msd="suddenly">突然</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="Aa3-jing4" msd="Ying">阿瑩</w>
 				<w lemma="nam2-dou2" msd="think">諗到</w>
 				<w lemma="di1" msd="some">啲</w>
 				<w lemma="je5" msd="thing">嘢</w>
-				<w lemma="#" msd="#">！</w>
+				<pc>！</pc>
 				<w lemma="keoi5" msd="she">佢</w>
 				<w lemma="kyut3-ding6" msd="decide">決定</w>
 				<w lemma="zou6" msd="to do">做</w>
@@ -212,17 +212,17 @@
 				<w lemma="zou6" msd="to do">做</w>
 				<w lemma="ge3" msd="(linker)">嘅</w>
 				<w lemma="je5" msd="thing">嘢</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="zau6-hai6" msd="which is">就係</w>
 				<w lemma="bou1-tong1" msd="to cook soup">煲湯</w>
-				<w lemma="#" msd="#">！</w>
+				<pc>！</pc>
 			</l>
 			<l>
 				<w lemma="Aa3-jing4" msd="Ying">阿瑩</w>
 				<w lemma="hou2" msd="very">好</w>
 				<w lemma="zung1-ji3" msd="like">鍾意</w>
 				<w lemma="fo1-hok6" msd="science">科學</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="so2-ji5" msd="therefore">所以</w>
 				<w lemma="keoi5" msd="she">佢</w>
 				<w lemma="kyut3-ding6" msd="decide">決定</w>
@@ -232,7 +232,7 @@
 				<w lemma="ge3" msd="(linker)">嘅</w>
 				<w lemma="hoi1-fo2" msd="turn on the stove">開火</w>
 				<w lemma="fong1-faat3" msd="method">方法</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="keoi5" msd="she">佢</w>
@@ -242,24 +242,24 @@
 				<w lemma="syu4-zai2" msd="potato">薯仔</w>
 				<w lemma="tung4" msd="and">同</w>
 				<w lemma="faan1-ke2" msd="tomato">蕃茄</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="zoeng1" msd="make">將</w>
 				<w lemma="keoi5-dei6" msd="them">佢哋</w>
 				<w lemma="jat1-gau6-gau6" msd="pieces">一舊舊</w>
 				<w lemma="paai4" msd="align">排</w>
 				<w lemma="hou2" msd="well">好</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
-				<w lemma="#" msd="#">「</w>
+				<pc>「</pc>
 				<w lemma="hou2-ci5" msd="seems">好似</w>
 				<w lemma="zung6" msd="still">仲</w>
 				<w lemma="zaang1" msd="miss">爭</w>
 				<w lemma="gan2" msd="-ing">緊</w>
 				<w lemma="di1" msd="some">啲</w>
 				<w lemma="je5" msd="thing">嘢</w>
-				<w lemma="#" msd="#">……</w>
-				<w lemma="#" msd="#">」</w>
+				<pc>……</pc>
+				<pc>」</pc>
 				<w lemma="Aa3-jing4" msd="Ying">阿瑩</w>
 				<w lemma="mong6" msd="look">望</w>
 				<w lemma="jat1" msd="one">一</w>
@@ -267,11 +267,11 @@
 				<w lemma="soeng6-min6" msd="above">上面</w>
 				<w lemma="go3" msd="(measure)">個</w>
 				<w lemma="gaa2" msd="shelf">架</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="siu3" msd="laugh">笑</w>
 				<w lemma="zo2" msd="-en">咗</w>
 				<w lemma="siu3" msd="laugh">笑</w>
-				<w lemma="#" msd="#">——</w>
+				<pc>——</pc>
 			</l>
 			<l>
 				<w lemma="di1" msd="those">啲</w>
@@ -280,31 +280,31 @@
 				<w lemma="gei2" msd="quite">幾</w>
 				<w lemma="aam1-jung6" msd="useful">啱用</w>
 				<w lemma="gam2-wo3" msd="(particle)">噉喎</w>
-				<w lemma="#" msd="#">！</w>
+				<pc>！</pc>
 			</l>
 			<l>
 				<w lemma="ni1-go3" msd="this one">呢個</w>
 				<w lemma="si4-hau6" msd="time">時候</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="maa4-maa1" msd="mother">媽媽</w>
 				<w lemma="jan1-wai6" msd="because">因為</w>
 				<w lemma="m4-gei3-dak1" msd="forget">唔記得</w>
 				<w lemma="ling1" msd="take">拎</w>
 				<w lemma="ngan4-baau1" msd="wallet">銀包</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="so2-ji5" msd="therefore">所以</w>
 				<w lemma="faan1" msd="return">返</w>
 				<w lemma="zo2" msd="-en">咗</w>
 				<w lemma="uk1-kei2" msd="home">屋企</w>
 				<w lemma="ling1" msd="to take">拎</w>
-				<w lemma="#" msd="#">……</w>
+				<pc>……</pc>
 			</l>
 			<l>
 				<w lemma="keoi5" msd="she">佢</w>
 				<w lemma="jat1" msd="once">一</w>
 				<w lemma="daa2-hoi1" msd="open">打開</w>
 				<w lemma="mun4" msd="door">門</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="zau6" msd="then">就</w>
 				<w lemma="gin3-dou2" msd="see">見到</w>
 				<w lemma="Aa3-jing4" msd="Ying">阿瑩</w>
@@ -314,13 +314,13 @@
 				<w lemma="zing2" msd="make">整</w>
 				<w lemma="gan2" msd="-ing">緊</w>
 				<w lemma="me1" msd="what">咩</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 				<w lemma="keoi5" msd="she">佢</w>
 				<w lemma="soeng2" msd="want">想</w>
 				<w lemma="heoi3" msd="to go">去</w>
 				<w lemma="naau6" msd="to scold">鬧</w>
 				<w lemma="Aa3-jing4" msd="Ying">阿瑩</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 			</l>
 			<l>
 				<w lemma="daan6" msd="but">但</w>
@@ -330,11 +330,11 @@
 				<w lemma="tai2-haa5" msd="to look">睇下</w>
 				<w lemma="Aa3-jing4" msd="Ying">阿瑩</w>
 				<w lemma="gaau2-bin1-fo1" msd="doing what">搞邊科</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="zau6" msd="then">就</w>
 				<w lemma="mou5" msd="don't have">冇</w>
 				<w lemma="ceot1-seng1" msd="voice out">出聲</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="Aa3-jing4" msd="Ying">阿瑩</w>
@@ -346,7 +346,7 @@
 				<w lemma="soeng6-min6" msd="above">上面</w>
 				<w lemma="di1" msd="some">啲</w>
 				<w lemma="ci4-gang1" msd="spoon">匙羹</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="jyun4-cyun4" msd="completely">完全</w>
 				<w lemma="mou5" msd="don't have">冇</w>
 				<w lemma="wai4-ji3" msd="notice">為意</w>
@@ -354,13 +354,13 @@
 				<w lemma="hau6-min6" msd="behind">後面</w>
 				<w lemma="ge3" msd="(linker)">嘅</w>
 				<w lemma="maa4-maa1" msd="mother">媽媽</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="zau6-lei4" msd="almost">就嚟</w>
 				<w lemma="gaau2-dim6" msd="done">搞掂</w>
 				<w lemma="laa3" msd="already">喇</w>
-				<w lemma="#" msd="#">！</w>
+				<pc>！</pc>
 				<w lemma="zoi3" msd="again">再</w>
 				<w lemma="fong3" msd="put">放</w>
 				<w lemma="go3" msd="(measure)">個</w>
@@ -369,7 +369,7 @@
 				<w lemma="zau6" msd="then">就</w>
 				<w lemma="dak1" msd="okay">得</w>
 				<w lemma="laa3" msd="already">喇</w>
-				<w lemma="#" msd="#">！</w>
+				<pc>！</pc>
 			</l>
 			<l>
 				<w lemma="maa4-maa1" msd="mother">媽媽</w>
@@ -380,21 +380,21 @@
 				<w lemma="soeng2" msd="want">想</w>
 				<w lemma="zou6" msd="to do">做</w>
 				<w lemma="me1" msd="what">咩</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
-				<w lemma="#" msd="#">「</w>
+				<pc>「</pc>
 				<w lemma="zeon2-bei6" msd="ready">準備</w>
-				<w lemma="#" msd="#">！</w>
+				<pc>！</pc>
 				<w lemma="saam1" msd="three">三</w>
-				<w lemma="#" msd="#">、</w>
+				<pc>、</pc>
 				<w lemma="ji6" msd="two">二</w>
-				<w lemma="#" msd="#">、</w>
+				<pc>、</pc>
 				<w lemma="jat1" msd="one">一</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="hoi1-ci2" msd="start">開始</w>
-				<w lemma="#" msd="#">！</w>
-				<w lemma="#" msd="#">」</w>
+				<pc>！</pc>
+				<pc>」</pc>
 				<w lemma="Aa3-jing4" msd="Ying">阿瑩</w>
 				<w lemma="hou2" msd="very">好</w>
 				<w lemma="hing1-fan5" msd="excited">興奮</w>
@@ -402,7 +402,7 @@
 				<w lemma="hing1-hing1" msd="lightly">輕輕</w>
 				<w lemma="jat1" msd="one">一</w>
 				<w lemma="ceoi1" msd="blow">吹</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="go3" msd="(measure)">個</w>
 				<w lemma="bo1" msd="ball">波</w>
 				<w lemma="zong6" msd="hit">撞</w>
@@ -411,7 +411,7 @@
 				<w lemma="zo2-bin1" msd="left">左邊</w>
 				<w lemma="zek3" msd="(measure)">隻</w>
 				<w lemma="ci4-gang1" msd="spoon">匙羹</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 			</l>
 			<l>
 				<w lemma="jin4-hau6" msd="then">然後</w>
@@ -420,7 +420,7 @@
 				<w lemma="zong6" msd="hit">撞</w>
 				<w lemma="jat1" msd="one">一</w>
 				<w lemma="zek3" msd="(measure)">隻</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="zeoi3-hau6" msd="at the end">最後</w>
 				<w lemma="jat1" msd="one">一</w>
 				<w lemma="zek3" msd="(measure)">隻</w>
@@ -429,20 +429,20 @@
 				<w lemma="maai4" msd="also">埋</w>
 				<w lemma="lok6" msd="down">落</w>
 				<w lemma="gaa2" msd="shelf">架</w>
-				<w lemma="#" msd="#">……</w>
+				<pc>……</pc>
 			</l>
 			<l>
 				<w lemma="zek3" msd="(measure)">隻</w>
 				<w lemma="ci4-gang1" msd="spoon">匙羹</w>
 				<w lemma="dit3" msd="fall">跌</w>
 				<w lemma="lok6-lei4" msd="down">落嚟</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="zong6-dou2" msd="hit">撞到</w>
 				<w lemma="toi2" msd="table">枱</w>
 				<w lemma="soeng6-min6" msd="on top">上面</w>
 				<w lemma="gau6" msd="(measure)">嚿</w>
 				<w lemma="syu4-zai2" msd="potato">薯仔</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="gau6" msd="(measure)">嚿</w>
 				<w lemma="syu4-zai2" msd="potato">薯仔</w>
 				<w lemma="jau6" msd="again">又</w>
@@ -450,51 +450,51 @@
 				<w lemma="luk1" msd="scroll">碌</w>
 				<w lemma="heoi3" msd="to go">去</w>
 				<w lemma="jau6-bin1" msd="right">右邊</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 			</l>
 			<l>
 				<w lemma="dung1" msd="(sound)">咚</w>
-				<w lemma="#" msd="#">、</w>
+				<pc>、</pc>
 				<w lemma="dung1" msd="(sound)">咚</w>
-				<w lemma="#" msd="#">、</w>
+				<pc>、</pc>
 				<w lemma="dung1" msd="(sound)">咚</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="jat1" msd="one">一</w>
 				<w lemma="gau6" msd="piece">嚿</w>
 				<w lemma="zong6" msd="hit">撞</w>
 				<w lemma="jat1" msd="one">一</w>
 				<w lemma="gau6" msd="piece">嚿</w>
-				<w lemma="#" msd="#">……</w>
+				<pc>……</pc>
 			</l>
 			<l>
 				<w lemma="zong6" msd="hit">撞</w>
 				<w lemma="dou3" msd="till">到</w>
 				<w lemma="zeoi3-hau6" msd="the end">最後</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="zi1" msd="(measure)">枝</w>
 				<w lemma="min6-baau1" msd="bread">麪包</w>
 				<w lemma="gwan3" msd="stick">棍</w>
 				<w lemma="zong6-dou2" msd="hit">撞到</w>
 				<w lemma="go3" msd="(measure)">個</w>
 				<w lemma="hoi1-gwaan1-zai3" msd="on-off button">開關掣</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="fo2" msd="fire">火</w>
 				<w lemma="zau6" msd="then">就</w>
 				<w lemma="hoi1" msd="on">開</w>
 				<w lemma="zo2" msd="-en">咗</w>
 				<w lemma="laa3" msd="already">喇</w>
-				<w lemma="#" msd="#">！</w>
+				<pc>！</pc>
 			</l>
 			<l>
-				<w lemma="#" msd="#">「</w>
+				<pc>「</pc>
 				<w lemma="dak1" msd="okay">得</w>
 				<w lemma="zo2" msd="-en">咗</w>
-				<w lemma="#" msd="#">！</w>
-				<w lemma="#" msd="#">」</w>
+				<pc>！</pc>
+				<pc>」</pc>
 				<w lemma="Aa3-jing4" msd="Ying">阿瑩</w>
 				<w lemma="hou2" msd="very">好</w>
 				<w lemma="hoi1-sam1" msd="happy">開心</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="maa4-maa1" msd="mother">媽媽</w>
@@ -510,14 +510,14 @@
 				<w lemma="lei4" msd="to">嚟</w>
 				<w lemma="waan2" msd="play">玩</w>
 				<w lemma="gwat1-paai2" msd="Domino">骨牌</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="ji4" msd="and">而</w>
 				<w lemma="tung4-si4" msd="at the same time">同時</w>
 				<w lemma="jau6" msd="again">又</w>
 				<w lemma="zan1-hai6" msd="really">真係</w>
 				<w lemma="bou1-dou2" msd="boil">煲到</w>
 				<w lemma="tong1" msd="soup">湯</w>
-				<w lemma="#" msd="#">！</w>
+				<pc>！</pc>
 			</l>
 			<l>
 				<w lemma="keoi5" msd="she">佢</w>
@@ -525,11 +525,11 @@
 				<w lemma="aai3" msd="shout">嗌</w>
 				<w lemma="zo2" msd="-en">咗</w>
 				<w lemma="geoi3" msd="sentence">句</w>
-				<w lemma="#" msd="#">：</w>
-				<w lemma="#" msd="#">「</w>
+				<pc>：</pc>
+				<pc>「</pc>
 				<w lemma="Aa3-jing4" msd="Ying">阿瑩</w>
-				<w lemma="#" msd="#">！</w>
-				<w lemma="#" msd="#">」</w>
+				<pc>！</pc>
+				<pc>」</pc>
 			</l>
 			<l>
 				<w lemma="Aa3-jing4" msd="Ying">阿瑩</w>
@@ -537,7 +537,7 @@
 				<w lemma="zo2" msd="-en">咗</w>
 				<w lemma="jat1" msd="one">一</w>
 				<w lemma="tiu3" msd="jump">跳</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="keoi5" msd="she">佢</w>
 				<w lemma="zyun3-san1" msd="turn around">轉身</w>
 				<w lemma="mong6-dou2" msd="to look">望到</w>
@@ -547,14 +547,14 @@
 				<w lemma="mun4-hau2" msd="doorway">門口</w>
 				<w lemma="ge3" msd="(linker)">嘅</w>
 				<w lemma="maa4-maa1" msd="mother">媽媽</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="sam1-nam2" msd="think">心諗</w>
-				<w lemma="#" msd="#">：</w>
+				<pc>：</pc>
 			</l>
 			<l>
 				<w lemma="sei2" msd="die">死</w>
 				<w lemma="laa3" msd="already">喇</w>
-				<w lemma="#" msd="#">！</w>
+				<pc>！</pc>
 				<w lemma="ni1-ci3" msd="this time">呢次</w>
 				<w lemma="jau6" msd="again">又</w>
 				<w lemma="jiu3" msd="need">要</w>
@@ -562,7 +562,7 @@
 				<w lemma="maa4-maa1" msd="mother">媽媽</w>
 				<w lemma="naau6" msd="to scold">鬧</w>
 				<w lemma="laa3" msd="already">喇</w>
-				<w lemma="#" msd="#">！</w>
+				<pc>！</pc>
 			</l>
 			<l>
 				<w lemma="zing3-dong1" msd="just the time">正當</w>
@@ -573,21 +573,21 @@
 				<w lemma="naau6" msd="scold">鬧</w>
 				<w lemma="keoi5" msd="her">佢</w>
 				<w lemma="go2-zan6" msd="that time">嗰陣</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="maa4-maa1" msd="mother">媽媽</w>
 				<w lemma="paau2" msd="run">跑</w>
 				<w lemma="gwo3-heoi3" msd="towards there">過去</w>
 				<w lemma="laam2" msd="to hug">攬</w>
 				<w lemma="zyu6" msd="-ing">住</w>
 				<w lemma="keoi5" msd="her">佢</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="gong2" msd="say">講</w>
 				<w lemma="zo2" msd="-en">咗</w>
 				<w lemma="geoi3" msd="sentence">句</w>
-				<w lemma="#" msd="#">：</w>
+				<pc>：</pc>
 			</l>
 			<l>
-				<w lemma="#" msd="#">「</w>
+				<pc>「</pc>
 				<w lemma="mat1" msd="what">乜</w>
 				<w lemma="jyun4-loi4" msd="it turns out">原來</w>
 				<w lemma="ngo5-dei6" msd="our">我哋</w>
@@ -596,8 +596,8 @@
 				<w lemma="gam3" msd="so">咁</w>
 				<w lemma="lek1" msd="brilliant">叻</w>
 				<w lemma="gaa3" msd="(particle)">㗎</w>
-				<w lemma="#" msd="#">！</w>
-				<w lemma="#" msd="#">」</w>
+				<pc>！</pc>
+				<pc>」</pc>
 			</l>
 			<l>
 				<w lemma="Aa3-jing4" msd="Ying">阿瑩</w>
@@ -606,23 +606,23 @@
 				<w lemma="geng1" msd="afraid">驚</w>
 				<w lemma="zyun2-wai4" msd="turn to">轉為</w>
 				<w lemma="siu3" msd="laugh">笑</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="laam2" msd="hug">攬</w>
 				<w lemma="zyu6" msd="-ing">住</w>
 				<w lemma="maa4-maa1" msd="mother">媽媽</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="waa6" msd="say">話</w>
-				<w lemma="#" msd="#">：</w>
-				<w lemma="#" msd="#">「</w>
+				<pc>：</pc>
+				<pc>「</pc>
 				<w lemma="maa4-maa1" msd="mother">媽媽</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="nei5" msd="you">你</w>
 				<w lemma="dou1" msd="all, also">都</w>
 				<w lemma="si3" msd="try">試</w>
 				<w lemma="daam6" msd="(measure)">啖</w>
 				<w lemma="tong1" msd="soup">湯</w>
 				<w lemma="aa1" msd="(particle)">吖</w>
-				<w lemma="#" msd="#">！</w>
+				<pc>！</pc>
 			</l>
 			<l>
 				<w lemma="gwo3-do1-zan6" msd="after a while">過多陣</w>
@@ -630,17 +630,17 @@
 				<w lemma="jam2" msd="drink">飲</w>
 				<w lemma="dak1" msd="can">得</w>
 				<w lemma="gaa3-laa3" msd="(particle)">㗎喇</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 				<w lemma="ping4-jat6" msd="ordinary day">平日</w>
 				<w lemma="san1-fu2-saai3" msd="thanks for the effort">辛苦晒</w>
 				<w lemma="nei5" msd="you">你</w>
-				<w lemma="#" msd="#">！</w>
-				<w lemma="#" msd="#">」</w>
+				<pc>！</pc>
+				<pc>」</pc>
 			</l>
 			<l>
 				<w lemma="zi6-ci2" msd="from then">自此</w>
 				<w lemma="zi1-hau6" msd="after">之後</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="maa4-maa1" msd="mother">媽媽</w>
 				<w lemma="mou5" msd="don't have">冇</w>
 				<w lemma="zoi3" msd="again">再</w>
@@ -650,19 +650,19 @@
 				<w lemma="di1" msd="some">啲</w>
 				<w lemma="me1" msd="what">咩</w>
 				<w lemma="syu1" msd="book">書</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="jau5-si4" msd="sometimes">有時</w>
 				<w lemma="zung6" msd="even">仲</w>
 				<w lemma="wui5" msd="will">會</w>
 				<w lemma="zaan3" msd="praise">讚</w>
 				<w lemma="keoi5" msd="her">佢</w>
 				<w lemma="hai6" msd="is">係</w>
-				<w lemma="#" msd="#">「</w>
+				<pc>「</pc>
 				<w lemma="siu2" msd="little">小</w>
 				<w lemma="syu1-sang1" msd="scholar">書生</w>
-				<w lemma="#" msd="#">」</w>
+				<pc>」</pc>
 				<w lemma="tim1" msd="(particle)">添</w>
-				<w lemma="#" msd="#">！</w>
+				<pc>！</pc>
 			</l>
 		</body>
 	</text>

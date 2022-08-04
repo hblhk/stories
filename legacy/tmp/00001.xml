@@ -5,7 +5,10 @@
 				<title>出街玩</title>
 				<author>雞先生 Mr Chicken @mrchickenhk</author>
 				<editor>魚魚老師 Ms Fish</editor>
-				<editor>奇啲 Katy Chan, 一郎 Ichirou</editor>
+				<respStmt>
+					<resp>Cantonese Team</resp>
+					<persName>奇啲 Katy Chan, 一郎 Ichirou</persName>
+				</respStmt>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>Hambaanglaang</publisher>
@@ -20,9 +23,7 @@
 				<title>Hambaanglaang Graded Readers 冚唪唥粵文讀本</title>
 				<idno>00001</idno>
 			</seriesStmt>
-			<sourceDesc>
-				<p>Stories</p>
-			</sourceDesc>
+			<sourceDesc/>
 		</fileDesc>
 	</teiHeader>
 	<text>
@@ -36,70 +37,70 @@
 				<w lemma="ceot1" msd="go out">出</w>
 				<w lemma="si5-keoi1" msd="downtown">市區</w>
 				<w lemma="waan2" msd="to play">玩</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="Gai1-sin1-saang1" msd="Mr. Chicken">(雞先生)</w>
 				<w lemma="man6" msd="ask">問</w>
-				<w lemma="#" msd="#">：</w>
-				<w lemma="#" msd="#">「</w>
+				<pc>：</pc>
+				<pc>「</pc>
 				<w lemma="dim2-joeng2" msd="how to">點樣</w>
 				<w lemma="daap3" msd="take">搭</w>
 				<w lemma="ce1" msd="car">車</w>
 				<w lemma="ceot1-heoi3" msd="to go out">出去</w>
 				<w lemma="aa3" msd="(particle)">呀</w>
-				<w lemma="#" msd="#">？</w>
-				<w lemma="#" msd="#">」</w>
+				<pc>？</pc>
+				<pc>」</pc>
 				<w lemma="En1-aap2" msd="An Duck">(An鴨)</w>
 				<w lemma="daap3" msd="reply">答</w>
-				<w lemma="#" msd="#">：</w>
-				<w lemma="#" msd="#">「</w>
+				<pc>：</pc>
+				<pc>「</pc>
 				<w lemma="m4-zi1" msd="don't know">唔知</w>
 				<w lemma="aa3" msd="(particle)">呀</w>
-				<w lemma="#" msd="#">！</w>
-				<w lemma="#" msd="#">」</w>
+				<pc>！</pc>
+				<pc>」</pc>
 			</l>
 			<l>
 				<w lemma="Gai1-sin1-saang1" msd="Mr. Chicken">(雞先生)</w>
 				<w lemma="waa6" msd="say">話</w>
-				<w lemma="#" msd="#">：</w>
-				<w lemma="#" msd="#">「</w>
+				<pc>：</pc>
+				<pc>「</pc>
 				<w lemma="ngo5-dei6" msd="we">我哋</w>
 				<w lemma="ho2-m4-ho2-ji5" msd="can or cannot">可唔可以</w>
 				<w lemma="haang4-lou6" msd="walk">行路</w>
 				<w lemma="heoi3" msd="to go">去</w>
 				<w lemma="ne1" msd="(particle)">呢</w>
-				<w lemma="#" msd="#">？</w>
-				<w lemma="#" msd="#">」</w>
+				<pc>？</pc>
+				<pc>」</pc>
 			</l>
 			<l>
 				<w lemma="seoi1-jin4" msd="although">雖然</w>
 				<w lemma="m4-sai2" msd="don't need">唔使</w>
 				<w lemma="cin2" msd="money">錢</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="daan6-hai6" msd="but">但係</w>
 				<w lemma="taai3" msd="too">太</w>
 				<w lemma="jyun5" msd="far">遠</w>
 				<w lemma="laa3" msd="(particle)">喇</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="keoi5-dei6" msd="they">佢哋</w>
 				<w lemma="haang4" msd="walk">行</w>
 				<w lemma="m4-dou2" msd="cannot">唔到</w>
-				<w lemma="#" msd="#">！</w>
+				<pc>！</pc>
 			</l>
 			<l>
 				<w lemma="En1-aap2" msd="An Duck">(An鴨)</w>
 				<w lemma="waa6" msd="say">話</w>
-				<w lemma="#" msd="#">：</w>
-				<w lemma="#" msd="#">「</w>
+				<pc>：</pc>
+				<pc>「</pc>
 				<w lemma="gam2" msd="then">噉</w>
 				<w lemma="bat1-jyu4" msd="how about">不如</w>
 				<w lemma="ngo5-dei6" msd="we">我哋</w>
 				<w lemma="daap3" msd="take">搭</w>
 				<w lemma="dei6-tit3" msd="MTR">地鐵</w>
 				<w lemma="aa1" msd="(particle)">吖</w>
-				<w lemma="#" msd="#">！</w>
-				<w lemma="#" msd="#">」</w>
+				<pc>！</pc>
+				<pc>」</pc>
 			</l>
 			<l>
 				<w lemma="seoi1-jin4" msd="although">雖然</w>
@@ -109,53 +110,53 @@
 				<w lemma="dou2" msd="can">到</w>
 				<w lemma="hou2-do1" msd="many">好多</w>
 				<w lemma="dei6-fong1" msd="places">地方</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="daan6-hai6" msd="but">但係</w>
 				<w lemma="dei6-tit3-zaam6" msd="MTR station">地鐵站</w>
 				<w lemma="saan1" msd="close">閂</w>
 				<w lemma="zo2" msd="-ed">咗</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="keoi5-dei6" msd="they">佢哋</w>
 				<w lemma="mou5-dak1" msd="don't get to">冇得</w>
 				<w lemma="daap3" msd="take">搭</w>
 				<w lemma="aa3" msd="(particle)">呀</w>
-				<w lemma="#" msd="#">！</w>
+				<pc>！</pc>
 			</l>
 			<l>
 				<w lemma="Gai1-sin1-saang1" msd="Mr. Chicken">(雞先生)</w>
 				<w lemma="waa6" msd="say">話</w>
-				<w lemma="#" msd="#">：</w>
-				<w lemma="#" msd="#">「</w>
+				<pc>：</pc>
+				<pc>「</pc>
 				<w lemma="gam2" msd="then">噉</w>
 				<w lemma="ngo5-dei6" msd="we">我哋</w>
 				<w lemma="ho2-m4-ho2-ji5" msd="can or cannot">可唔可以</w>
 				<w lemma="daap3" msd="take">搭</w>
 				<w lemma="siu2-baa1" msd="minibus">小巴</w>
 				<w lemma="ne1" msd="(particle)">呢</w>
-				<w lemma="#" msd="#">？</w>
-				<w lemma="#" msd="#">」</w>
+				<pc>？</pc>
+				<pc>」</pc>
 			</l>
 			<l>
 				<w lemma="seoi1-jin4" msd="although">雖然</w>
 				<w lemma="siu2-baa1" msd="minibus">小巴</w>
 				<w lemma="hou2" msd="very">好</w>
 				<w lemma="faai3" msd="fast">快</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="daan6-hai6" msd="but">但係</w>
 				<w lemma="hou2-siu2" msd="few">好少</w>
 				<w lemma="wai2" msd="seats">位</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="jiu3" msd="need to">要</w>
 				<w lemma="paai4" msd="queue">排</w>
 				<w lemma="hou2-noi6" msd="a long time">好耐</w>
 				<w lemma="deoi2" msd="queue">隊</w>
-				<w lemma="#" msd="#">！</w>
+				<pc>！</pc>
 			</l>
 			<l>
 				<w lemma="En1-aap2" msd="An Duck">(An鴨)</w>
 				<w lemma="waa6" msd="say">話</w>
-				<w lemma="#" msd="#">：</w>
-				<w lemma="#" msd="#">「</w>
+				<pc>：</pc>
+				<pc>「</pc>
 				<w lemma="gam2" msd="then">噉</w>
 				<w lemma="ngo5-dei6" msd="we">我哋</w>
 				<w lemma="ho2-m4-ho2-ji5" msd="can or cannot">可唔可以</w>
@@ -163,8 +164,8 @@
 				<w lemma="daan1-ce1" msd="bicycle">單車</w>
 				<w lemma="heoi3" msd="to go">去</w>
 				<w lemma="ne1" msd="(particle)">呢</w>
-				<w lemma="#" msd="#">？</w>
-				<w lemma="#" msd="#">」</w>
+				<pc>？</pc>
+				<pc>」</pc>
 			</l>
 			<l>
 				<w lemma="daan6-hai6" msd="but">但係</w>
@@ -174,44 +175,44 @@
 				<w lemma="taai3" msd="too">太</w>
 				<w lemma="dyun2" msd="short">短</w>
 				<w lemma="laa3" msd="(particle)">喇</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="caai2" msd="ride">踩</w>
 				<w lemma="m4-dou2" msd="cannot">唔到</w>
 				<w lemma="daan1-ce1" msd="bicycle">單車</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="zeoi3-hau6" msd="at the end">最後</w>
 				<w lemma="keoi5-dei6" msd="they">佢哋</w>
 				<w lemma="faat3-jin6" msd="found out">發現</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="jyun4-loi4" msd="it turns out">原來</w>
 				<w lemma="fu6-gan6" msd="nearby">附近</w>
 				<w lemma="jau5" msd="have">有</w>
 				<w lemma="baa1-si2-zaam6" msd="bus stop">巴士站</w>
 				<w lemma="aa3" msd="(particle)">呀</w>
-				<w lemma="#" msd="#">！</w>
+				<pc>！</pc>
 				<w lemma="ho2-ji5" msd="can">可以</w>
 				<w lemma="daap3" msd="take">搭</w>
 				<w lemma="baa1-si2" msd="bus">巴士</w>
 				<w lemma="heoi3" msd="to go">去</w>
 				<w lemma="aa3" msd="(particle)">呀</w>
-				<w lemma="#" msd="#">！</w>
+				<pc>！</pc>
 			</l>
 			<l>
 				<w lemma="dyut1" msd="beep">嘟</w>
 				<w lemma="zo2" msd="-ed">咗</w>
 				<w lemma="baat3-daat6-tung1" msd="Octopus Card">八達通</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="zo6" msd="sit">坐</w>
 				<w lemma="hou2" msd="well">好</w>
 				<w lemma="baa1-si2" msd="bus">巴士</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="keoi5-dei6" msd="they">佢哋</w>
 				<w lemma="ceot1-gaai1" msd="go out">出街</w>
 				<w lemma="waan2" msd="to play">玩</w>
 				<w lemma="laa3" msd="(particle)">喇</w>
-				<w lemma="#" msd="#">！</w>
+				<pc>！</pc>
 			</l>
 		</body>
 	</text>

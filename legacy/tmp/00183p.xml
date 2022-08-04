@@ -3,9 +3,11 @@
 		<fileDesc>
 			<titleStmt>
 				<title>生果有核</title>
-				<author></author>
-				<editor></editor>
-				<editor></editor>
+				<author>綠柚子</author>
+				<respStmt>
+					<resp>Cantonese Team</resp>
+					<persName>綠柚子 （作者Author), Joanne Chu, Lai Yik Po</persName>
+				</respStmt>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>Hambaanglaang</publisher>
@@ -20,9 +22,7 @@
 				<title>Hambaanglaang Graded Readers 冚唪唥粵文讀本</title>
 				<idno>00183p</idno>
 			</seriesStmt>
-			<sourceDesc>
-				<p>Stories</p>
-			</sourceDesc>
+			<sourceDesc/>
 		</fileDesc>
 	</teiHeader>
 	<text>
@@ -41,7 +41,7 @@
 				<w lemma="to find" msd="">wan2</w>
 				<w lemma="Dolly" msd="">Do1-do1</w>
 				<w lemma="to play" msd="">waan2</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
 				<w lemma="Dolly" msd="">Do1-do1</w>
 				<w lemma="is" msd="">hai6</w>
 				<w lemma="one" msd="">jat1</w>
@@ -50,20 +50,20 @@
 				<w lemma="forest" msd="">sam1-lam4</w>
 				<w lemma="(linker)" msd="">ge3</w>
 				<w lemma="herding dog" msd="">muk6-joeng4-hyun2</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
 				<w lemma="it" msd="">keoi5</w>
 				<w lemma="every time" msd="">mui5-ci3</w>
 				<w lemma="to see" msd="">gin3-dou2</w>
 				<w lemma="Agnes" msd="">Aa3-gaa1</w>
 				<w lemma="and" msd="">tung4</w>
 				<w lemma="Ling" msd="">Siu2-ling4</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
 				<w lemma="will always" msd="">dou1-wui6</w>
 				<w lemma="to bring" msd="">daai3</w>
 				<w lemma="they" msd="">keoi5-dei6</w>
 				<w lemma="around " msd="">sei3-wai4</w>
 				<w lemma="to look" msd="">tai2-haa5</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
 			</l>
 			<l>
 				<w lemma="Dolly" msd="[2 Line 5]">Do1-do1</w>
@@ -75,7 +75,7 @@
 				<w lemma="(measure)" msd="">po1</w>
 				<w lemma="tree" msd="">syu6</w>
 				<w lemma="below" msd="">haa6-min6</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
 				<w lemma="to call" msd="">giu3</w>
 				<w lemma="they" msd="">keoi5-dei6</w>
 				<w lemma="to pick" msd="">zaak6</w>
@@ -84,10 +84,10 @@
 				<w lemma="to take" msd="">ling1</w>
 				<w lemma="to go home" msd="">faan1-uk1-kei2</w>
 				<w lemma="to eat" msd="">sik6</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
 				<w lemma="Ling" msd="">Siu2-ling4</w>
 				<w lemma="to stand on tiptoe" msd="">gat6-gou1-goek3</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
 				<w lemma="to raise " msd="">geoi2-hei2</w>
 				<w lemma="hand" msd="">sau2</w>
 				<w lemma="as a result" msd="">zau6</w>
@@ -98,7 +98,7 @@
 				<w lemma="abundant" msd="">leoi4-leoi4</w>
 				<w lemma="(linker)" msd="">ge3</w>
 				<w lemma="fruit" msd="">gwo2-sat6</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
 				<w lemma="Agnes" msd="">Aa3-gaa1</w>
 				<w lemma="by contrast" msd="">zau6</w>
 				<w lemma="casually" msd="">ceoi4-sau2</w>
@@ -111,7 +111,7 @@
 				<w lemma="ground" msd="">dei6</w>
 				<w lemma="(linker)" msd="">ge3</w>
 				<w lemma="fruit" msd="">gwo2-sat6</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
 				<w lemma="very" msd="">hou2</w>
 				<w lemma="impatient" msd="">sam1-gap1</w>
 				<w lemma="-ly" msd="">gam2</w>
@@ -119,45 +119,45 @@
 				<w lemma="-en" msd="">zo2</w>
 				<w lemma="one" msd="">jat1</w>
 				<w lemma="bite" msd="">daam6</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
 			</l>
 			<l>
-				<w lemma="#" msd="[3]">#</w>
+				<pc>#</pc>
 				<w lemma="cough" msd="">kat1</w>
 				<w lemma="cough" msd="">kat1</w>
-				<w lemma="#" msd="">#</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
+				<pc>#</pc>
 				<w lemma="Agnes" msd="">Aa3-gaa1</w>
 				<w lemma="to choke" msd="">zuk6-can1</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
 				<w lemma="then" msd="">jin4-hau6</w>
 				<w lemma="spit" msd="">loe1</w>
 				<w lemma="-en" msd="">zo2</w>
 				<w lemma="(measure)" msd="">lap1</w>
 				<w lemma="thing" msd="">je5</w>
 				<w lemma="to come out" msd="">ceot1-lai4</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
 				<w lemma="he" msd="">keoi5</w>
 				<w lemma="to flow" msd="">lau4</w>
 				<w lemma="all" msd="">saai3</w>
 				<w lemma="tear" msd="">ngaan5-seoi2</w>
 				<w lemma="-ly" msd="">gam2</w>
 				<w lemma="to say" msd="">waa6</w>
-				<w lemma="#" msd="">#</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
+				<pc>#</pc>
 				<w lemma="this" msd="">ni1</w>
 				<w lemma="(measure)" msd="">lap1</w>
 				<w lemma="what" msd="">me1</w>
 				<w lemma="(particle)" msd="">lai4</w>
 				<w lemma="(particle)" msd="">gaa3</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
 				<w lemma="nearly" msd="">zaang1-di1</w>
 				<w lemma="to choke" msd="">kang2 </w>
 				<w lemma="to die" msd="">sei2</w>
 				<w lemma="I" msd="">ngo5</w>
 				<w lemma="(particle)" msd="">laa3</w>
-				<w lemma="#" msd="">#</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
+				<pc>#</pc>
 			</l>
 			<l>
 				<w lemma="Dolly" msd="[3 Line 9]">Do1-do1</w>
@@ -168,76 +168,76 @@
 				<w lemma="that" msd="">go2</w>
 				<w lemma="(measure)" msd="">lap1</w>
 				<w lemma="thing" msd="">je5</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
 				<w lemma="then to say" msd="">zau6-waa6</w>
-				<w lemma="#" msd="">#</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
+				<pc>#</pc>
 				<w lemma="this" msd="">nei1</w>
 				<w lemma="(measure)" msd="">lap1</w>
 				<w lemma="is" msd="">hai6</w>
 				<w lemma="pit" msd="">wat6</w>
 				<w lemma="(particle)" msd="">aa3</w>
-				<w lemma="#" msd="">#</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
+				<pc>#</pc>
 			</l>
 			<l>
 				<w lemma="Ling" msd="[3 Line 11]">Siu2-ling4</w>
 				<w lemma="to ask" msd="">man6</w>
-				<w lemma="#" msd="">#</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
+				<pc>#</pc>
 				<w lemma="pit" msd="">wat6</w>
 				<w lemma="is" msd="">hai6</w>
 				<w lemma="what" msd="">me1</w>
 				<w lemma="(particle)" msd="">lai4</w>
 				<w lemma="(particle)" msd="">gaa3</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
 				<w lemma="to eat" msd="">sik6</w>
 				<w lemma="not" msd="">m4</w>
 				<w lemma="to eat" msd="">sik6</w>
 				<w lemma="can" msd="">dak1</w>
 				<w lemma="(particle)" msd="">gaa3</w>
-				<w lemma="#" msd="">#</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
+				<pc>#</pc>
 			</l>
 			<l>
 				<w lemma="Dolly" msd="[4]">Do1-do1</w>
 				<w lemma="to say" msd="">waa6</w>
-				<w lemma="#" msd="">#</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
+				<pc>#</pc>
 				<w lemma="every" msd="">go3-go3</w>
 				<w lemma="fruit" msd="">gwo2-sat6</w>
 				<w lemma="all" msd="">dou1</w>
 				<w lemma="have" msd="">jau5</w>
 				<w lemma="pit" msd="">wat6</w>
 				<w lemma="(particle)" msd="">gaa3</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
 				<w lemma="you (plural)" msd="">nei5-dei6</w>
 				<w lemma="usually" msd="">ping4-si4</w>
 				<w lemma="to eat" msd="">sik6</w>
 				<w lemma="(linker)" msd="">ge3</w>
 				<w lemma="fruit" msd="">saang1-gwo2</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
 				<w lemma="inside" msd="">jap6-min6</w>
 				<w lemma="will always" msd="">dou1-wui6</w>
 				<w lemma="have" msd="">jau5</w>
 				<w lemma="pit" msd="">wat6</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
 				<w lemma="some" msd="">jau5-di1</w>
 				<w lemma="to eat" msd="">sik6</w>
 				<w lemma="can" msd="">dak1</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
 				<w lemma="some" msd="">jau5-di1</w>
 				<w lemma="not" msd="">m4</w>
 				<w lemma="to eat" msd="">sik6</w>
 				<w lemma="can" msd="">dak1</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
 			</l>
 			<l>
-				<w lemma="#" msd="[5]">#</w>
+				<pc>#</pc>
 				<w lemma="like" msd="">hou2-ci5</w>
 				<w lemma="banana" msd="">hoeng1-ziu1</w>
 				<w lemma="such" msd="">gam2</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
 				<w lemma="it" msd="">keoi5</w>
 				<w lemma="those" msd="">di1</w>
 				<w lemma="pit" msd="">wat6</w>
@@ -247,7 +247,7 @@
 				<w lemma="also" msd="">jau6</w>
 				<w lemma="not" msd="">m4</w>
 				<w lemma="hard" msd="">ngaang6</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
 				<w lemma="to hide up" msd="">sau1-maai4</w>
 				<w lemma="at" msd="">hai2</w>
 				<w lemma="banana" msd="">hoeng1-ziu1</w>
@@ -255,23 +255,23 @@
 				<w lemma="(linker)" msd="">ge3</w>
 				<w lemma="pulp" msd="">juk6</w>
 				<w lemma="inside" msd="">jap6-min6</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
 				<w lemma="human" msd="">jan4</w>
 				<w lemma="to eat" msd="">sik6</w>
 				<w lemma="-en" msd="">zo2</w>
 				<w lemma="also" msd="">dou1</w>
 				<w lemma="don't know" msd="">m4-zi1</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
 			</l>
 			<l>
-				<w lemma="#" msd="[5 Line 17]">#</w>
+				<pc>#</pc>
 				<w lemma="or" msd="">jau6-waak6-ze2</w>
 				<w lemma="Ling" msd="">Siu2-ling4</w>
 				<w lemma="you" msd="">nei5</w>
 				<w lemma="at hand" msd="">sau2-soeng6</w>
 				<w lemma="(linker)" msd="">ge3</w>
 				<w lemma="apple" msd="">ping4-gwo2</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
 				<w lemma="usually" msd="">tung1-soeng4</w>
 				<w lemma="will always" msd="">dou1-wui6</w>
 				<w lemma="have" msd="">jau5</w>
@@ -282,7 +282,7 @@
 				<w lemma="to encase" msd="">baau1-zyu6</w>
 				<w lemma="those" msd="">di1</w>
 				<w lemma="pit" msd="">wat6</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
 				<w lemma="(measure)" msd="">go3</w>
 				<w lemma="core" msd="">sam1</w>
 				<w lemma="to eat" msd="">sik6</w>
@@ -292,7 +292,7 @@
 				<w lemma="pulp" msd="">juk6</w>
 				<w lemma="sour" msd="">syun1</w>
 				<w lemma="a bit" msd="">di1</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
 				<w lemma="apple" msd="">ping4-gwo2</w>
 				<w lemma="’s" msd="">ge3</w>
 				<w lemma="pit" msd="">wat6</w>
@@ -300,29 +300,29 @@
 				<w lemma="quite" msd="">gei2</w>
 				<w lemma="big" msd="">daai6-lap1</w>
 				<w lemma="(particle)" msd="">gaa3</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
 				<w lemma="texture (of a food)" msd="">hau2-gam2</w>
 				<w lemma="and" msd="">tung4</w>
 				<w lemma="taste (of a food)" msd="">mei6-dou6</w>
 				<w lemma="is" msd="">hai6</w>
 				<w lemma="a bit hard" msd="">ngaang6-ngaang2-dei2</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
 				<w lemma="a bit bitter" msd="">fu2-fu2-dei2</w>
 				<w lemma="such" msd="">gam2</w>
 				<w lemma="(particle)" msd="">ge3</w>
-				<w lemma="#" msd="">#</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
+				<pc>#</pc>
 			</l>
 			<l>
 				<w lemma="Ling" msd="[6]">Siu2-ling4</w>
 				<w lemma="to ask" msd="">man6</w>
-				<w lemma="#" msd="">#</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
+				<pc>#</pc>
 				<w lemma="why" msd="">dim2-gaai2</w>
 				<w lemma="fruit" msd="">saang1-gwo2</w>
 				<w lemma="so" msd="">gam3</w>
 				<w lemma="taste good" msd="">hou2-mei6</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
 				<w lemma="but" msd="">daan6-hai6</w>
 				<w lemma="to need" msd="">jiu3</w>
 				<w lemma="have" msd="">jau5</w>
@@ -333,14 +333,14 @@
 				<w lemma="at" msd="">hai2</w>
 				<w lemma="inside" msd="">jap6-min6</w>
 				<w lemma="(particle)" msd="">ge3</w>
-				<w lemma="#" msd="">#</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
+				<pc>#</pc>
 			</l>
 			<l>
 				<w lemma="Dolly" msd="[7]">Do1-do1</w>
 				<w lemma="to say" msd="">waa6</w>
-				<w lemma="#" msd="">#</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
+				<pc>#</pc>
 				<w lemma="pit" msd="">wat6</w>
 				<w lemma="is" msd="">zik1-hai6</w>
 				<w lemma="plant" msd="">zik6-mat6</w>
@@ -348,13 +348,13 @@
 				<w lemma="to breed" msd="">faan4-zik6</w>
 				<w lemma="(linker)" msd="">ge3</w>
 				<w lemma="seed" msd="">zung2-zi2</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
 				<w lemma="if" msd="">jyu4-gwo2</w>
 				<w lemma="plant" msd="">zik6-mat6</w>
 				<w lemma="to bear fruit" msd="">git3-gwo2</w>
 				<w lemma="(linker)" msd="">ge3</w>
 				<w lemma="time" msd="">si4-hau6</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
 				<w lemma="inside" msd="">jap6-min6</w>
 				<w lemma="don't have" msd="">mou5</w>
 				<w lemma="seed" msd="">zung2-zi2</w>
@@ -364,7 +364,7 @@
 				<w lemma="to go" msd="">heoi3</w>
 				<w lemma="other" msd="">dai6-ji6-di1</w>
 				<w lemma="place" msd="">dei6-fong1</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
 				<w lemma="plant" msd="">zik6-mat6</w>
 				<w lemma="as a result" msd="">zau6</w>
 				<w lemma="not" msd="">m4</w>
@@ -373,7 +373,7 @@
 				<w lemma="to be reborn" msd="">cung4-sang1</w>
 				<w lemma="(linker)" msd="">ge3</w>
 				<w lemma="chance" msd="">gei1-wui6</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
 				<w lemma="now" msd="">ji4-gaa1</w>
 				<w lemma="they" msd="">keoi5-dei6</w>
 				<w lemma="have" msd="">jau5</w>
@@ -381,37 +381,37 @@
 				<w lemma="can" msd="">ho2-ji5</w>
 				<w lemma="to disseminate" msd="">saan3-bo3</w>
 				<w lemma="to go away" msd="">hoi1-heoi3</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
 				<w lemma="coupled with" msd="">gaa1-maai4</w>
 				<w lemma="enough" msd="">zuk1-gau3</w>
 				<w lemma="(linker)" msd="">ge3</w>
 				<w lemma="nutrient" msd="">joeng5-fan6</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
 				<w lemma="for example" msd="">lai6-jyu4</w>
 				<w lemma="soil" msd="">nai4-tou2</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
 				<w lemma="air" msd="">hung1-hei3</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
 				<w lemma="water" msd="">seoi2</w>
 				<w lemma="and" msd="">tung4</w>
 				<w lemma="sunshine" msd="">joeng4-gwong1</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
 				<w lemma="they" msd="">keoi5-dei6</w>
 				<w lemma="as a result" msd="">zau6</w>
 				<w lemma="can" msd="">ho2-ji5</w>
 				<w lemma="again" msd="">zoi3-ci3</w>
 				<w lemma="to sprout" msd="">faat3-ngaa4</w>
 				<w lemma="to grow" msd="">sang1-zoeng2</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
 			</l>
 			<l>
-				<w lemma="#" msd="[8]">#</w>
+				<pc>#</pc>
 				<w lemma="just like" msd="">zau6-hou2-ci5</w>
 				<w lemma="you (plural)" msd="">nei5-dei6</w>
 				<w lemma="at hand" msd="">sau2-soeng6</w>
 				<w lemma="(linker)" msd="">ge3</w>
 				<w lemma="fruit" msd="">saang1-gwo2</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
 				<w lemma="those" msd="">di1</w>
 				<w lemma="pit" msd="">wat6</w>
 				<w lemma="we" msd="">ngo5-dei6</w>
@@ -421,7 +421,7 @@
 				<w lemma="throw" msd="">diu6</w>
 				<w lemma="down" msd="">lok6</w>
 				<w lemma="ground" msd="">dei6</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
 				<w lemma="then" msd="">jin4-hau6</w>
 				<w lemma="it" msd="">keoi5</w>
 				<w lemma="will" msd="">wui5</w>
@@ -432,17 +432,17 @@
 				<w lemma="under" msd="">haa6</w>
 				<w lemma="to grow" msd="">zoeng2</w>
 				<w lemma="seedling" msd="">miu4</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
 				<w lemma="to bloom" msd="">hoi1</w>
 				<w lemma="very" msd="">hou2</w>
 				<w lemma="beautiful" msd="">leng3</w>
 				<w lemma="(linker)" msd="">ge3</w>
 				<w lemma="flower" msd="">faa1</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
 				<w lemma="then" msd="">zoi3</w>
 				<w lemma="to become" msd="">bin3-sing4</w>
 				<w lemma="fruit tree" msd="">gwo2-syu6</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
 				<w lemma="by the time" msd="">dou3</w>
 				<w lemma="specific" msd="">dak6-ding6</w>
 				<w lemma="season" msd="">gwai3-zit3</w>
@@ -451,16 +451,16 @@
 				<w lemma="to form" msd="">git3</w>
 				<w lemma="out" msd="">ceot1</w>
 				<w lemma="fruit" msd="">gwo2-sat6</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
 				<w lemma="to attract" msd="">kap1-jan5</w>
 				<w lemma="human" msd="">jan4</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
 				<w lemma="animal" msd="">dung6-mat6</w>
 				<w lemma="or" msd="">waak6-ze2</w>
 				<w lemma="insect" msd="">kwan1-cung4</w>
 				<w lemma="to go" msd="">heoi3</w>
 				<w lemma="to eat" msd="">sik6</w>
-				<w lemma="#" msd="">#</w>
+				<pc>#</pc>
 			</l>
 		</body>
 	</text>

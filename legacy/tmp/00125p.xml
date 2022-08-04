@@ -3,9 +3,11 @@
 		<fileDesc>
 			<titleStmt>
 				<title>冷線好有用</title>
-				<author></author>
-				<editor></editor>
-				<editor></editor>
+				<author>一郎 Ichirou</author>
+				<respStmt>
+					<resp>Cantonese Team</resp>
+					<persName>一郎 Ichirou, Summer Mut</persName>
+				</respStmt>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>Hambaanglaang</publisher>
@@ -21,7 +23,7 @@
 				<idno>00125p</idno>
 			</seriesStmt>
 			<sourceDesc>
-				<p>Stories</p>
+				<p>&quot;Useful String&quot; (Cantonese), translated by HamBaangLaang (© HamBaangLaang, 2020) from The Little Red String/ उला ख़ास लाल सुता (English-Surjapuri), translated by Yuman Hussain &amp; Team Azad India Foundation, published by Azad India Foundation (© Azad India Foundation, 2020) based on the original story The Little Red String (English), written by Madhumita Srivastava, illustrated by Madhumita Srivastava, published by Pratham Books (© Pratham Books, 2018 under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.</p>
 			</sourceDesc>
 		</fileDesc>
 	</teiHeader>
@@ -40,13 +42,13 @@
 				<w lemma="laang1-sin3" msd="knitting yarn">冷線</w>
 				<w lemma="kau4" msd="ball">球</w>
 				<w lemma="ceot1-lai4" msd="out">出嚟</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 				<w lemma="di1" msd="those">啲</w>
 				<w lemma="laang1-sin3" msd="knitting yarns">冷線</w>
 				<w lemma="hai6" msd="are">係</w>
 				<w lemma="hung4-sik1" msd="red">紅色</w>
 				<w lemma="ge3" msd="-">嘅</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 				<w lemma="po4-po2" msd="grandma">婆婆</w>
 				<w lemma="jung6" msd="use">用</w>
 				<w lemma="keoi5" msd="it">佢</w>
@@ -55,7 +57,7 @@
 				<w lemma="sai3-lou2" msd="younger brother">細佬</w>
 				<w lemma="zik1" msd="knit">織</w>
 				<w lemma="laang1-mou2" msd="knitted hat">冷帽</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="hak1" msd="black">黑</w>
@@ -66,13 +68,13 @@
 				<w lemma="di1" msd="those">啲</w>
 				<w lemma="laang1-sin3" msd="knitting yarns">冷線</w>
 				<w lemma="wo3" msd="(particle)">喎</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 				<w lemma="keoi5" msd="it">佢</w>
 				<w lemma="hai6-gam2" msd="keep">係噉</w>
 				<w lemma="waan2" msd="play">玩</w>
 				<w lemma="di1" msd="those">啲</w>
 				<w lemma="laang1" msd="knitting yarns">冷</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="waan2" msd="play">玩</w>
 				<w lemma="dou3" msd="till">到</w>
 				<w lemma="di1" msd="those">啲</w>
@@ -83,7 +85,7 @@
 				<w lemma="laang1" msd="knitting yarns">冷</w>
 				<w lemma="bong2-zyu6" msd="bind">綁住</w>
 				<w lemma="zo2" msd="-ed">咗</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="ngo5" msd="I">我</w>
@@ -96,11 +98,11 @@
 				<w lemma="laang1-sin3" msd="knitting yarns">冷線</w>
 				<w lemma="lai4" msd="to">嚟</w>
 				<w lemma="waan2" msd="play">玩</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 				<w lemma="ngo5-dei6" msd="we">我哋</w>
 				<w lemma="waan2" msd="play">玩</w>
 				<w lemma="faa1-sing2" msd="string figure">花繩</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="jung6" msd="use">用</w>
 				<w lemma="tiu4" msd="(measure)">條</w>
 				<w lemma="laang1-sin3" msd="knitting yarn">冷線</w>
@@ -109,7 +111,7 @@
 				<w lemma="hou2-do1" msd="many">好多</w>
 				<w lemma="je5" msd="things">嘢</w>
 				<w lemma="ceot1-lai4" msd="out">出嚟</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="ngo5" msd="I">我</w>
@@ -120,14 +122,14 @@
 				<w lemma="bong2-zyu6" msd="to tie">綁住</w>
 				<w lemma="go3" msd="(measure)">個</w>
 				<w lemma="hei3-kau4" msd="balloon">氣球</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="dang2" msd="let">等</w>
 				<w lemma="go3" msd="(measure)">個</w>
 				<w lemma="hei3-kau4" msd="balloon">氣球</w>
 				<w lemma="m4-hou2" msd="do not">唔好</w>
 				<w lemma="fei1" msd="fly">飛</w>
 				<w lemma="zau2" msd="away">走</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="gung4-gung1" msd="grandpa">公公</w>
@@ -135,24 +137,24 @@
 				<w lemma="wan2" msd="find">揾</w>
 				<w lemma="m4-dou2" msd="cannot">唔到</w>
 				<w lemma="ngaan5-geng2" msd="eyeglasses">眼鏡</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 				<w lemma="ngo5-dei6" msd="we">我哋</w>
 				<w lemma="jung6" msd="use">用</w>
 				<w lemma="tiu4" msd="(measure)">條</w>
 				<w lemma="laang1-sin3" msd="knitting yarn">冷線</w>
 				<w lemma="bong2-zyu6" msd="to tie">綁住</w>
 				<w lemma="keoi5" msd="it">佢</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="dang2" msd="let">等</w>
 				<w lemma="gung4-gung1" msd="grandpa">公公</w>
 				<w lemma="gwaa3-zyu6" msd="hang">掛住</w>
 				<w lemma="keoi5" msd="it">佢</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 				<w lemma="gung4-gung1" msd="grandpa">公公</w>
 				<w lemma="zaan3" msd="praise">讚</w>
 				<w lemma="ngo5-dei6" msd="we">我哋</w>
 				<w lemma="lek1" msd="brilliant">叻</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="ngo5-dei6" msd="we">我哋</w>
@@ -163,23 +165,23 @@
 				<w lemma="bong2-zyu6" msd="to tie">綁住</w>
 				<w lemma="di1" msd="those">啲</w>
 				<w lemma="kei4-zai2" msd="little flags">旗仔</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="bong1" msd="help">幫</w>
 				<w lemma="uk1-kei2" msd="home">屋企</w>
 				<w lemma="baan6-leng3" msd="beautify">扮靚</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 				<w lemma="hai6-mai6" msd="is or isn't">係咪</w>
 				<w lemma="hou2" msd="very">好</w>
 				<w lemma="leng3" msd="beautiful">靚</w>
 				<w lemma="ne1" msd="(particle)">呢</w>
-				<w lemma="#" msd="#">？</w>
+				<pc>？</pc>
 			</l>
 			<l>
 				<w lemma="laang1-sin3" msd="knitting yarn">冷線</w>
 				<w lemma="zan1-hai6" msd="really">真係</w>
 				<w lemma="hou2" msd="very">好</w>
 				<w lemma="jau5-jung6" msd="useful">有用</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 				<w lemma="nei5" msd="you">你</w>
 				<w lemma="sou2-m4-sou2-dou2" msd="can or cannot count">數唔數到</w>
 				<w lemma="ngo5-dei6" msd="we">我哋</w>
@@ -192,7 +194,7 @@
 				<w lemma="joeng6" msd="kind of">樣</w>
 				<w lemma="je5" msd="things">嘢</w>
 				<w lemma="ne1" msd="(particle)">呢</w>
-				<w lemma="#" msd="#">？</w>
+				<pc>？</pc>
 			</l>
 		</body>
 	</text>

@@ -4,8 +4,10 @@
 			<titleStmt>
 				<title>骨折</title>
 				<author></author>
-				<editor></editor>
-				<editor></editor>
+				<respStmt>
+					<resp>Cantonese Team</resp>
+					<persName>Cheung Tak Ying, T. T. CHEUNG</persName>
+				</respStmt>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>Hambaanglaang</publisher>
@@ -20,9 +22,7 @@
 				<title>Hambaanglaang Graded Readers 冚唪唥粵文讀本</title>
 				<idno>00020</idno>
 			</seriesStmt>
-			<sourceDesc>
-				<p>Stories</p>
-			</sourceDesc>
+			<sourceDesc/>
 		</fileDesc>
 	</teiHeader>
 	<text>
@@ -32,62 +32,62 @@
 			</l>
 			<l>
 				<w lemma="wai5-zeon3" msd="Wai Chun">偉俊</w>
-				<w lemma="#" msd="#">：</w>
-				<w lemma="#" msd="#">（</w>
+				<pc>：</pc>
+				<pc>（</pc>
 				<w lemma="paau2" msd="run">跑</w>
-				<w lemma="#" msd="#">）</w>
+				<pc>）</pc>
 				<w lemma="faai3-di1" msd="faster">快啲</w>
 				<w lemma="laa1" msd="(particle)">啦</w>
-				<w lemma="#" msd="#">！</w>
+				<pc>！</pc>
 				<w lemma="tou3" msd="(measure)">套</w>
 				<w lemma="hei3" msd="movie">戲</w>
 				<w lemma="hoi1-coeng4" msd="start">開場</w>
 				<w lemma="laa3" msd="already">喇</w>
-				<w lemma="#" msd="#">！</w>
+				<pc>！</pc>
 			</l>
 			<l>
 				<w lemma="zi3-ming4" msd="Chi Ming">志明</w>
-				<w lemma="#" msd="#">：</w>
-				<w lemma="#" msd="#">（</w>
+				<pc>：</pc>
+				<pc>（</pc>
 				<w lemma="paau2" msd="run">跑</w>
-				<w lemma="#" msd="#">）</w>
+				<pc>）</pc>
 			</l>
 			<l>
 				<w lemma="zi3-ming4" msd="Chi Ming">志明</w>
-				<w lemma="#" msd="#">：</w>
-				<w lemma="#" msd="#">（</w>
+				<pc>：</pc>
+				<pc>（</pc>
 				<w lemma="dit3" msd="fall">跌</w>
 				<w lemma="lok6" msd="to">落</w>
 				<w lemma="lau4-tai1" msd="staircase">樓梯</w>
-				<w lemma="#" msd="#">）</w>
-				<w lemma="#" msd="#">（</w>
+				<pc>）</pc>
+				<pc>（</pc>
 				<w lemma="jung6" msd="use">用</w>
 				<w lemma="sau2" msd="hand">手</w>
 				<w lemma="caang1" msd="support">撐</w>
-				<w lemma="#" msd="#">）</w>
+				<pc>）</pc>
 				<w lemma="aai1-aa3" msd="Ouch!">哎呀</w>
-				<w lemma="#" msd="#">！</w>
+				<pc>！</pc>
 			</l>
 			<l>
 				<w lemma="wai5-zeon3" msd="Wai Chun">偉俊</w>
-				<w lemma="#" msd="#">：</w>
+				<pc>：</pc>
 				<w lemma="nei5" msd="you">你</w>
 				<w lemma="dim2" msd="how">點</w>
 				<w lemma="aa4" msd="(particle)">呀</w>
-				<w lemma="#" msd="#">？</w>
+				<pc>？</pc>
 			</l>
 			<l>
 				<w lemma="zi3-ming4" msd="Chi Ming">志明</w>
-				<w lemma="#" msd="#">：</w>
+				<pc>：</pc>
 				<w lemma="sau2-wun2" msd="wrist">手腕</w>
 				<w lemma="hou2" msd="very">好</w>
 				<w lemma="tung3" msd="painful">痛</w>
 				<w lemma="aa3" msd="(particle)">呀</w>
-				<w lemma="#" msd="#">⋯⋯</w>
+				<pc>⋯⋯</pc>
 			</l>
 			<l>
 				<w lemma="wai5-zeon3" msd="Wai Chun">偉俊</w>
-				<w lemma="#" msd="#">：</w>
+				<pc>：</pc>
 				<w lemma="nei5" msd="you">你</w>
 				<w lemma="zek3" msd="(measure)">隻</w>
 				<w lemma="zo2" msd="left">左</w>
@@ -99,51 +99,51 @@
 				<w lemma="zung2" msd="swollen">腫</w>
 				<w lemma="zo2" msd="-ed">咗</w>
 				<w lemma="wo3" msd="(particle)">喎</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="zung6" msd="also">仲</w>
 				<w lemma="hou2-ci5" msd="seems">好似</w>
 				<w lemma="bin3" msd="to change">變</w>
 				<w lemma="zo2" msd="-ed">咗</w>
 				<w lemma="jing4" msd="shape">形</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="m4" msd="not">唔</w>
 				<w lemma="zi1" msd="know">知</w>
 				<w lemma="wui5-m4-wui5" msd="will or will not">會唔會</w>
 				<w lemma="hai6" msd="be">係</w>
 				<w lemma="gwat1-zit3" msd="fracture">骨折</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 				<w lemma="jung6" msd="use">用</w>
 				<w lemma="ngo5" msd="I">我</w>
 				<w lemma="gin6" msd="(measure)">件</w>
 				<w lemma="saam1" msd="shirt">衫</w>
 				<w lemma="zin3-zyu6" msd="cushion">墊住</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="jung6" msd="use">用</w>
 				<w lemma="jau6" msd="right">右</w>
 				<w lemma="sau2" msd="hand">手</w>
 				<w lemma="zi1-caang1-zyu6" msd="to support">支撐住</w>
 				<w lemma="sau2-wun2" msd="wrist">手腕</w>
 				<w lemma="sin1" msd="first">先</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="m4-hou2" msd="do not">唔好</w>
 				<w lemma="juk1-dou3" msd="move">郁到</w>
 				<w lemma="keoi5" msd="it">佢</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 				<w lemma="ngo5" msd="I">我</w>
 				<w lemma="tung4" msd="with">同</w>
 				<w lemma="nei5" msd="you">你</w>
 				<w lemma="daa2" msd="dial">打</w>
 				<w lemma="gau2-gau2-gau2" msd="999">999</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="heoi3" msd="go">去</w>
 				<w lemma="ji1-jyun2" msd="hospital">醫院</w>
 				<w lemma="tai2-haa5" msd="to take a look">睇下</w>
 				<w lemma="hou2-di1" msd="better">好啲</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="wai5-zeon3" msd="Wai Chun">偉俊</w>
-				<w lemma="#" msd="#">：</w>
+				<pc>：</pc>
 				<w lemma="jan4" msd="human">人</w>
 				<w lemma="hai2" msd="at">喺</w>
 				<w lemma="gou1" msd="high">高</w>
@@ -155,31 +155,31 @@
 				<w lemma="bei2" msd="by">畀</w>
 				<w lemma="mat6-gin2" msd="object">物件</w>
 				<w lemma="zong6-dou2" msd="hit">撞到</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="ho2-nang4" msd="possible">可能</w>
 				<w lemma="wui5" msd="will">會</w>
 				<w lemma="zou6-sing4" msd="cause">造成</w>
 				<w lemma="gwat1-zit3" msd="fracture">骨折</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="gwat1-zit3" msd="fracture">骨折</w>
 				<w lemma="ge3" msd="-">嘅</w>
 				<w lemma="dei6-fong1" msd="place">地方</w>
 				<w lemma="ho2-nang4" msd="possible">可能</w>
 				<w lemma="wui5" msd="will">會</w>
 				<w lemma="tung3" msd="painful">痛</w>
-				<w lemma="#" msd="#">、</w>
+				<pc>、</pc>
 				<w lemma="jyu2" msd="bruised">瘀</w>
-				<w lemma="#" msd="#">、</w>
+				<pc>、</pc>
 				<w lemma="zung2" msd="swollen">腫</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="waak6-ze2" msd="or">或者</w>
 				<w lemma="jing4-zong6" msd="shape">形狀</w>
 				<w lemma="m4" msd="not">唔</w>
 				<w lemma="zi6-jin4" msd="natural">自然</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 				<w lemma="jung6" msd="to use">用</w>
 				<w lemma="sau2" msd="hand">手</w>
-				<w lemma="#" msd="#">、</w>
+				<pc>、</pc>
 				<w lemma="jyun5" msd="soft">軟</w>
 				<w lemma="zin3" msd="pad">墊</w>
 				<w lemma="waak6-ze2" msd="or">或者</w>
@@ -188,16 +188,16 @@
 				<w lemma="gwat1-zit3" msd="fracture">骨折</w>
 				<w lemma="ge3" msd="-">嘅</w>
 				<w lemma="dei6-fong1" msd="place">地方</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="m4-hou2" msd="do not">唔好</w>
 				<w lemma="bei2" msd="let">畀</w>
 				<w lemma="keoi5" msd="it">佢</w>
 				<w lemma="juk1-dung6" msd="move">郁動</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 				<w lemma="jyu4-gwo2" msd="if">如果</w>
 				<w lemma="jau5" msd="there is">有</w>
 				<w lemma="bing1-doi2" msd="ice pack">冰袋</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="ho2-ji5" msd="can">可以</w>
 				<w lemma="jung6" msd="use">用</w>
 				<w lemma="bou3" msd="cloth">布</w>
@@ -208,12 +208,12 @@
 				<w lemma="sau6-soeng1" msd="injured">受傷</w>
 				<w lemma="ge3" msd="-">嘅</w>
 				<w lemma="wai6" msd="place">位</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 				<w lemma="zi1-hau6" msd="then">之後</w>
 				<w lemma="faai3-di1" msd="faster">快啲</w>
 				<w lemma="daa2" msd="dial">打</w>
 				<w lemma="gau2-gau2-gau2" msd="999">999</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 				<w lemma="gwat1-zit3" msd="fracture">骨折</w>
 				<w lemma="ge3" msd="-">嘅</w>
 				<w lemma="dei6-fong1" msd="place">地方</w>
@@ -224,7 +224,7 @@
 				<w lemma="jau5-jan4" msd="someone">有人</w>
 				<w lemma="lai4-dou3" msd="arrive">嚟到</w>
 				<w lemma="bong1-sau2" msd="to help">幫手</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 		</body>
 	</text>

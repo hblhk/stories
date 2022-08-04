@@ -3,9 +3,15 @@
 		<fileDesc>
 			<titleStmt>
 				<title>高啲，矮啲</title>
-				<author></author>
-				<editor></editor>
-				<editor></editor>
+				<author> 一郎 Ichirou
+</author>
+				<respStmt>
+					<resp>Cantonese Team</resp>
+					<persName> 一郎 Ichirou
+</persName>
+					<resp>Original Author</resp>
+					<persName>Huy Chheng Rattana</persName>
+				</respStmt>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>Hambaanglaang</publisher>
@@ -21,7 +27,7 @@
 				<idno>00106p</idno>
 			</seriesStmt>
 			<sourceDesc>
-				<p>Stories</p>
+				<p>&quot;Taller, Shorter&quot; (Cantonese), translated by HamBaangLaang (2020) from Tall and Short (English), by Celia Bolam, based on original story ខ្ពស់និងទាប (Khmer), written by Huy Chheng Rattana, illustrated by Seat Sopheap, published by Room to Read (© Room to Read, 2015) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in</p>
 			</sourceDesc>
 		</fileDesc>
 	</teiHeader>
@@ -34,12 +40,12 @@
 				<w lemma="hai2" msd="at">喺</w>
 				<w lemma="gaa2" msd="shelf">架</w>
 				<w lemma="soeng6-min6" msd="above">上面</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="ngo5" msd="I">我</w>
 				<w lemma="m4-gau3" msd="not enough">唔夠</w>
 				<w lemma="gou1" msd="tall">高</w>
 				<w lemma="lo2" msd="to take">攞</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="baa4-baa1" msd="father">爸爸</w>
@@ -48,14 +54,14 @@
 				<w lemma="ling1" msd="take">拎</w>
 				<w lemma="ngo5" msd="I">我</w>
 				<w lemma="deng2-mou2" msd="hat">頂帽</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="baa4-baa1" msd="father">爸爸</w>
 				<w lemma="hou2" msd="very">好</w>
 				<w lemma="gou1" msd="tall">高</w>
 				<w lemma="aa3" msd="(particle)">啊</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="ngo5" msd="I">我</w>
@@ -66,12 +72,12 @@
 				<w lemma="hai2" msd="at">喺</w>
 				<w lemma="gwai6" msd="cabinet">櫃</w>
 				<w lemma="jap6-min6" msd="inside">入面</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="ngo5" msd="I">我</w>
 				<w lemma="m4-gau3" msd="not enough">唔夠</w>
 				<w lemma="gou1" msd="tall">高</w>
 				<w lemma="lo2" msd="to take">攞</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="maa4-maa1" msd="mother">媽媽</w>
@@ -81,19 +87,19 @@
 				<w lemma="ngo5" msd="I">我</w>
 				<w lemma="gin6" msd="(measure)">件</w>
 				<w lemma="saam1" msd="clothes">衫</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="maa4-maa1" msd="mother">媽媽</w>
 				<w lemma="dou1" msd="also">都</w>
 				<w lemma="gei2" msd="quite ">幾</w>
 				<w lemma="gou1" msd="tall">高</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="bat1-gwo3" msd="but">不過</w>
 				<w lemma="baa4-baa1" msd="father">爸爸</w>
 				<w lemma="gou1" msd="tall">高</w>
 				<w lemma="di1" msd="a bit">啲</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="ngo5" msd="I">我</w>
@@ -104,7 +110,7 @@
 				<w lemma="zoeng1" msd="(measure)">張</w>
 				<w lemma="toi2" msd="table">枱</w>
 				<w lemma="soeng6-min6" msd="above">上面</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="ngo5" msd="I">我</w>
 				<w lemma="gaa1-ze1" msd="elder sister">家姐</w>
 				<w lemma="bong1" msd="help">幫</w>
@@ -113,19 +119,19 @@
 				<w lemma="ngo5" msd="I">我</w>
 				<w lemma="bun2" msd="(measure)">本</w>
 				<w lemma="syu1" msd="book">書</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="gaa1-ze1" msd="elder sister">家姐</w>
 				<w lemma="dou1" msd="also">都</w>
 				<w lemma="gou1" msd="tall">高</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="bat1-gwo3" msd="but">不過</w>
 				<w lemma="maa4-maa1" msd="mother">媽媽</w>
 				<w lemma="gou1" msd="tall">高</w>
 				<w lemma="gwo3" msd="than">過</w>
 				<w lemma="keoi5" msd="she">佢</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="go4-go1" msd="elder brother">哥哥</w>
@@ -133,7 +139,7 @@
 				<w lemma="ngo5" msd="I">我</w>
 				<w lemma="go3" msd="(measure)">個</w>
 				<w lemma="doi2" msd="bag">袋</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="gaa1-ze1" msd="elder sister">家姐</w>
@@ -141,14 +147,14 @@
 				<w lemma="hai2" msd="at">喺</w>
 				<w lemma="go4-go1" msd="elder brother">哥哥</w>
 				<w lemma="gaak3-lei4" msd="next to">隔籬</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 				<w lemma="ngo5" msd="I">我</w>
 				<w lemma="gin3-dou2" msd="see">見到</w>
 				<w lemma="gaa1-ze1" msd="elder sister">家姐</w>
 				<w lemma="gou1" msd="tall">高</w>
 				<w lemma="gwo3" msd="than">過</w>
 				<w lemma="go4-go1" msd="elder brother">哥哥</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="bat1-gwo3" msd="but">不過</w>
@@ -156,31 +162,31 @@
 				<w lemma="gou1" msd="tall">高</w>
 				<w lemma="gwo3" msd="than">過</w>
 				<w lemma="ngo5" msd="I">我</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="baa4-baa1" msd="father">爸爸</w>
 				<w lemma="gou1" msd="tall">高</w>
 				<w lemma="gwo3" msd="than">過</w>
 				<w lemma="maa4-maa1" msd="mother">媽媽</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="maa4-maa1" msd="mother">媽媽</w>
 				<w lemma="gou1" msd="tall">高</w>
 				<w lemma="gwo3" msd="than">過</w>
 				<w lemma="gaa1-ze1" msd="elder sister">家姐</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 			</l>
 			<l>
 				<w lemma="gaa1-ze1" msd="elder sister">家姐</w>
 				<w lemma="gou1" msd="tall">高</w>
 				<w lemma="gwo3" msd="than">過</w>
 				<w lemma="go4-go1" msd="elder brother">哥哥</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="go4-go1" msd="elder brother">哥哥</w>
 				<w lemma="gou1" msd="tall">高</w>
 				<w lemma="gwo3" msd="than">過</w>
 				<w lemma="ngo5" msd="I">我</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="ngo5-hai6" msd="I am">我係</w>
@@ -189,34 +195,34 @@
 				<w lemma="zeoi3" msd="most">最</w>
 				<w lemma="ai2" msd="short">矮</w>
 				<w lemma="go2-go3" msd="that one">嗰個</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 				<w lemma="ngo5" msd="I">我</w>
 				<w lemma="daai6" msd="become old">大</w>
 				<w lemma="zo2" msd="-ed">咗</w>
 				<w lemma="zi1-hau6" msd="after">之後</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="jiu3" msd="need">要</w>
 				<w lemma="bin3" msd="to change">變</w>
 				<w lemma="gou1" msd="tall">高</w>
 				<w lemma="sin1" msd="first">先</w>
 				<w lemma="dak1" msd="okay">得</w>
-				<w lemma="#" msd="#">！</w>
+				<pc>！</pc>
 			</l>
 			<l>
 				<w lemma="mai2-zyu6" msd="hold on">咪住</w>
 				<w lemma="sin1" msd="first">先</w>
-				<w lemma="#" msd="#">！</w>
+				<pc>！</pc>
 				<w lemma="ngo5-dei6" msd="we">我哋</w>
 				<w lemma="uk1-kei2" msd="home">屋企</w>
 				<w lemma="joeng5" msd="keep">養</w>
 				<w lemma="zo2" msd="-ed">咗</w>
 				<w lemma="zek3" msd="(measure)">隻</w>
 				<w lemma="gau2-zai2" msd="puppy">狗仔</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="keoi5" msd="it">佢</w>
 				<w lemma="giu3" msd="call">叫</w>
 				<w lemma="Aa3-Zou2" msd="Ar Cho">阿早</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="Aa3-Zou2" msd="Ar Cho">阿早</w>
@@ -225,13 +231,13 @@
 				<w lemma="ngo5" msd="I">我</w>
 				<w lemma="zek3" msd="(measure)">隻</w>
 				<w lemma="haai4-zai2" msd="shoes">鞋仔</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 				<w lemma="ngo5" msd="I">我</w>
 				<w lemma="giu3" msd="tell">叫</w>
 				<w lemma="keoi5" msd="it">佢</w>
 				<w lemma="zik1-hak1" msd="at once">即刻</w>
 				<w lemma="bei2-ngo5" msd="give me">畀我</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="Aa3-Zou2" msd="Ar Cho">阿早</w>
@@ -242,56 +248,56 @@
 				<w lemma="zeoi3" msd="most">最</w>
 				<w lemma="ai2" msd="short">矮</w>
 				<w lemma="go2-go3" msd="that one">嗰個</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="ngo5" msd="I">我</w>
 				<w lemma="gou1" msd="tall">高</w>
 				<w lemma="gwo3" msd="than">過</w>
 				<w lemma="Aa3-Zou2" msd="Ar Cho">阿早</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 				<w lemma="Aa3-Zou2" msd="Ar Cho">阿早</w>
 				<w lemma="m4-gau3" msd="not enough">唔夠</w>
 				<w lemma="ngo5" msd="I">我</w>
 				<w lemma="gou1" msd="tall">高</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="keoi5" msd="it">佢</w>
 				<w lemma="ai2" msd="short">矮</w>
 				<w lemma="gwo3" msd="than">過</w>
 				<w lemma="ngo5" msd="I">我</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="ngo5" msd="I">我</w>
 				<w lemma="m4-gau3" msd="not enough">唔夠</w>
 				<w lemma="go4-go1" msd="elder brother">哥哥</w>
 				<w lemma="gou1" msd="tall">高</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="ngo5" msd="I">我</w>
 				<w lemma="ai2" msd="short">矮</w>
 				<w lemma="gwo3" msd="than">過</w>
 				<w lemma="go4-go1" msd="elder brother">哥哥</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="go4-go1" msd="elder brother">哥哥</w>
 				<w lemma="ai2" msd="short">矮</w>
 				<w lemma="gwo3" msd="than">過</w>
 				<w lemma="gaa1-ze1" msd="elder sister">家姐</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 				<w lemma="ngo5" msd="I">我</w>
 				<w lemma="dou1" msd="also">都</w>
 				<w lemma="ai2" msd="short">矮</w>
 				<w lemma="gwo3" msd="than">過</w>
 				<w lemma="gaa1-ze1" msd="elder sister">家姐</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="gaa1-ze1" msd="elder sister">家姐</w>
 				<w lemma="ai2" msd="short">矮</w>
 				<w lemma="gwo3" msd="than">過</w>
 				<w lemma="maa4-maa1" msd="mother">媽媽</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 				<w lemma="go4-go1" msd="elder brother">哥哥</w>
 				<w lemma="tung4" msd="and">同</w>
 				<w lemma="ngo5" msd="I">我</w>
@@ -299,16 +305,16 @@
 				<w lemma="ai2" msd="short">矮</w>
 				<w lemma="gwo3" msd="than">過</w>
 				<w lemma="maa4-maa1" msd="mother">媽媽</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="maa4-maa1" msd="mother">媽媽</w>
 				<w lemma="ai2" msd="short">矮</w>
 				<w lemma="gwo3" msd="than">過</w>
 				<w lemma="baa4-baa1" msd="father">爸爸</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 				<w lemma="gaa1-ze1" msd="elder sister">家姐</w>
-				<w lemma="#" msd="#">、</w>
+				<pc>、</pc>
 				<w lemma="go4-go1" msd="elder brother">哥哥</w>
 				<w lemma="tung4" msd="and">同</w>
 				<w lemma="ngo5" msd="I">我</w>
@@ -316,7 +322,7 @@
 				<w lemma="ai2" msd="short">矮</w>
 				<w lemma="gwo3" msd="than">過</w>
 				<w lemma="baa4-baa1" msd="father">爸爸</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="baa4-baa1" msd="father">爸爸</w>
@@ -326,13 +332,13 @@
 				<w lemma="zeoi3" msd="most">最</w>
 				<w lemma="gou1" msd="tall">高</w>
 				<w lemma="go2-go3" msd="that one">嗰個</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="Aa3-Zou2" msd="Ar Cho">阿早</w>
 				<w lemma="hai6" msd="is">係</w>
 				<w lemma="zeoi3" msd="most">最</w>
 				<w lemma="ai2" msd="short">矮</w>
 				<w lemma="go2-go3" msd="that one">嗰個</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="ngo5" msd="I">我</w>
@@ -341,7 +347,7 @@
 				<w lemma="gou1" msd="tall">高</w>
 				<w lemma="gwo3" msd="than">過</w>
 				<w lemma="Aa3-Zou2" msd="Ar Cho">阿早</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 				<w lemma="ngo5" msd="I">我</w>
 				<w lemma="soeng2" msd="want">想</w>
 				<w lemma="daai6" msd="become old">大</w>
@@ -350,19 +356,19 @@
 				<w lemma="bin3" msd="to become">變</w>
 				<w lemma="gou1" msd="tall">高</w>
 				<w lemma="di1" msd="a bit">啲</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 			</l>
 			<l>
 				<w lemma="hou2-ci5" msd="like">好似</w>
 				<w lemma="baa4-baa1" msd="father">爸爸</w>
 				<w lemma="gam2-joeng2" msd="in this way">噉樣</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="zou6" msd="be">做</w>
 				<w lemma="uk1-kei2" msd="home">屋企</w>
 				<w lemma="zeoi3" msd="most">最</w>
 				<w lemma="gou1" msd="tall">高</w>
 				<w lemma="go2-go3" msd="that one">嗰個</w>
-				<w lemma="#" msd="#">！</w>
+				<pc>！</pc>
 			</l>
 		</body>
 	</text>

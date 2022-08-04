@@ -3,9 +3,11 @@
 		<fileDesc>
 			<titleStmt>
 				<title>姐姐</title>
-				<author></author>
-				<editor></editor>
-				<editor></editor>
+				<author>939</author>
+				<respStmt>
+					<resp>Cantonese Team</resp>
+					<persName>939 (作者Author), Joanne Chu, Philip Wong, Ralph</persName>
+				</respStmt>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>Hambaanglaang</publisher>
@@ -20,9 +22,7 @@
 				<title>Hambaanglaang Graded Readers 冚唪唥粵文讀本</title>
 				<idno>00189</idno>
 			</seriesStmt>
-			<sourceDesc>
-				<p>Stories</p>
-			</sourceDesc>
+			<sourceDesc/>
 		</fileDesc>
 	</teiHeader>
 	<text>
@@ -34,7 +34,7 @@
 				<w lemma="lei4-hoi1" msd="to leave">離開</w>
 				<w lemma="zi6-gei2" msd="oneself">自己</w>
 				<w lemma="uk1-kei2" msd="home">屋企</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="jat1-go3-jan4" msd="alone">一個人</w>
 				<w lemma="zau2" msd="to leave">走</w>
 				<w lemma="ceot1-lei4" msd="to come out">出嚟</w>
@@ -43,7 +43,7 @@
 				<w lemma="jat1-go3" msd="one">一個</w>
 				<w lemma="mak6-sang1" msd="strange">陌生</w>
 				<w lemma="dei6-fong1" msd="place">地方</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="mat1" msd="what">乜</w>
 				<w lemma="dou1" msd="all, also">都</w>
 				<w lemma="gok3-dak1" msd="to feel">覺得</w>
@@ -53,7 +53,7 @@
 				<w lemma="sing1-kei4-jat6" msd="Sunday">星期日</w>
 				<w lemma="ge3" msd="(linker)">嘅</w>
 				<w lemma="haa6-ng5" msd="afternoon">下午</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="naan4-dak1" msd="hard to come by">難得</w>
 				<w lemma="jat1-jat6" msd="one day">一日</w>
 				<w lemma="gaa3-kei4" msd="holiday">假期</w>
@@ -63,7 +63,7 @@
 				<w lemma="san1" msd="new">新</w>
 				<w lemma="ge3" msd="(linker)">嘅</w>
 				<w lemma="pang4-jau5" msd="friend">朋友</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="keoi5" msd="she/he">佢</w>
 				<w lemma="jau6" msd="again">又</w>
 				<w lemma="lei4-zi6" msd="come from">嚟自</w>
@@ -90,7 +90,7 @@
 				<w lemma="mui5-jat6" msd="every day">每日</w>
 				<w lemma="san1-fu2" msd="hard">辛苦</w>
 				<w lemma="zou6-je5" msd="to work">做嘢</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="kaau3" msd="to depend on">靠</w>
 				<w lemma="ngo5" msd="I">我</w>
 				<w lemma="zi6-gei2" msd="oneself">自己</w>
@@ -191,7 +191,7 @@
 				<w lemma="zo2" msd="-en">咗</w>
 				<w lemma="di1" msd="a bit">啲</w>
 				<w lemma="me1" msd="(particle)">咩</w>
-				<w lemma="#" msd="#">？</w>
+				<pc>？</pc>
 				<w lemma="ngo5" msd="I">我</w>
 				<w lemma="nei1-paai4" msd="recently">呢排</w>
 				<w lemma="jau5" msd="have">有</w>
@@ -346,7 +346,7 @@
 			</l>
 			<l>
 				<w lemma="jat6-fuk6-jat1-jat6" msd="day by day">日復一日</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="ngo5-dei6" msd="we">我哋</w>
 				<w lemma="zou6-je5" msd="work">做嘢</w>
 				<w lemma="nin4-fuk6-jat1-nin4" msd="year by year">年復一年</w>
@@ -479,7 +479,7 @@
 			<l>
 				<w lemma="do1-ze6" msd="thank you">多謝</w>
 				<w lemma="nei5-dei6" msd="you (plural)">你哋</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="ngo5" msd="I">我</w>
 				<w lemma="hai2" msd="at">喺</w>
 				<w lemma="nei1-go3" msd="this (measure)">呢個</w>

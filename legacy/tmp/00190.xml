@@ -3,9 +3,11 @@
 		<fileDesc>
 			<titleStmt>
 				<title>一韻到底</title>
-				<author></author>
-				<editor></editor>
-				<editor></editor>
+				<author>939</author>
+				<respStmt>
+					<resp>Cantonese Team</resp>
+					<persName>939 (作者 Author), Philip Wong,Arthur Edwards, 小明 (Voice artist)</persName>
+				</respStmt>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>Hambaanglaang</publisher>
@@ -20,9 +22,7 @@
 				<title>Hambaanglaang Graded Readers 冚唪唥粵文讀本</title>
 				<idno>00190</idno>
 			</seriesStmt>
-			<sourceDesc>
-				<p>Stories</p>
-			</sourceDesc>
+			<sourceDesc/>
 		</fileDesc>
 	</teiHeader>
 	<text>
@@ -38,7 +38,7 @@
 				<w lemma="ngo5" msd="I">我</w>
 				<w lemma="go3" msd="(measure)">個</w>
 				<w lemma="din6-waa2" msd="phone">電話</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="daa2-bei2" msd="call">打畀</w>
 				<w lemma="ngo5" msd="I">我</w>
 				<w lemma="go3" msd="(measure)">個</w>
@@ -46,8 +46,8 @@
 			</l>
 			<l>
 				<w lemma="maa4-maa1" msd="mother">媽媽</w>
-				<w lemma="#" msd="#">？</w>
-				<w lemma="#" msd="#">！</w>
+				<pc>？</pc>
+				<pc>！</pc>
 				<w lemma="ngo5" msd="I">我</w>
 				<w lemma="hai2" msd="at">喺</w>
 				<w lemma="tou3-lou6-gong2" msd="Tolo Harbour">吐露港</w>
@@ -59,7 +59,7 @@
 				<w lemma="heoi3" msd="go to">去</w>
 				<w lemma="gan2" msd="-ing">緊</w>
 				<w lemma="ji4-gaa1" msd="Ikea">宜家</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="tai2" msd="read">睇</w>
 				<w lemma="gwo3" msd="-ed">過</w>
 				<w lemma="tung1-sing3" msd="book of divination">通勝</w>

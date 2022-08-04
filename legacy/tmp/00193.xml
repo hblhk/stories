@@ -3,9 +3,11 @@
 		<fileDesc>
 			<titleStmt>
 				<title>新手父母</title>
-				<author></author>
-				<editor></editor>
-				<editor></editor>
+				<author>939</author>
+				<respStmt>
+					<resp>Cantonese Team</resp>
+					<persName>939 (作者 Author), 張錫莉, Connie Li, Philip Wong, Arthur Edwards, 子豪 (Voice artist)</persName>
+				</respStmt>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>Hambaanglaang</publisher>
@@ -20,9 +22,7 @@
 				<title>Hambaanglaang Graded Readers 冚唪唥粵文讀本</title>
 				<idno>00193</idno>
 			</seriesStmt>
-			<sourceDesc>
-				<p>Stories</p>
-			</sourceDesc>
+			<sourceDesc/>
 		</fileDesc>
 	</teiHeader>
 	<text>
@@ -66,7 +66,7 @@
 			<l>
 				<w lemma="keoi5-dei6" msd="they">佢哋</w>
 				<w lemma="sei2-haan1-sei2-dai2" msd="act very frugally">死慳死抵</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="wai6" msd="for">為</w>
 				<w lemma="nei5" msd="you">你</w>
 				<w lemma="zou6" msd="do">做</w>
@@ -244,7 +244,7 @@
 				<w lemma="tung4-hok6" msd="schoolmate">同學</w>
 				<w lemma="jau5-di1" msd="a bit">有啲</w>
 				<w lemma="jai5" msd="naughty">曳</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="bin1-go3" msd="who">邊個</w>
 				<w lemma="co5-m4-ding6" msd="cannot sit still">坐唔定</w>
 				<w lemma="hai2" msd="at">喺</w>
@@ -383,7 +383,7 @@
 				<w lemma="jat6-zi2" msd="days">日子</w>
 				<w lemma="dim2-joeng2" msd="how to">點樣</w>
 				<w lemma="gwo3" msd="pass">過</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="zoeng1-loi4" msd="future">將來</w>
 				<w lemma="jing1-goi1" msd="should">應該</w>
 				<w lemma="dim2" msd="how">點</w>
@@ -395,9 +395,9 @@
 				<w lemma="so4-zyu1" msd="silly bun">傻豬</w>
 				<w lemma="m4-sai2" msd="no need">唔使</w>
 				<w lemma="geng1" msd="to be afraid">驚</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="mou4-leon6-jyu4-ho4" msd="no matter what">無論如何</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="baa4-baa1" msd="father">爸爸</w>
 				<w lemma="dou1-wui5" msd="always will">都會</w>
 				<w lemma="bei2" msd="give">畀</w>

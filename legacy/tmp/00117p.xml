@@ -3,9 +3,11 @@
 		<fileDesc>
 			<titleStmt>
 				<title>水同雨</title>
-				<author></author>
-				<editor></editor>
-				<editor></editor>
+				<author> 一郎 Ichirou</author>
+				<respStmt>
+					<resp>Cantonese Team</resp>
+					<persName> 一郎 Ichirou</persName>
+				</respStmt>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>Hambaanglaang</publisher>
@@ -21,7 +23,7 @@
 				<idno>00117p</idno>
 			</seriesStmt>
 			<sourceDesc>
-				<p>Stories</p>
+				<p>&quot;Do Angels Cry?&quot; (Cantonese), translated by HamBaangLaang (2020), based on the original story Rain (English), written by Letta Machoga, illustrated by Marleen Visser, published by African Storybook Initiative (© African Storybook Initiative, 2014) under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.</p>
 			</sourceDesc>
 		</fileDesc>
 	</teiHeader>
@@ -33,7 +35,7 @@
 				<w lemma="ngo5-dei6" msd="us">我哋</w>
 				<w lemma="hou2" msd="very">好</w>
 				<w lemma="gan2-jiu3" msd="important">緊要</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 				<w lemma="ping4-si4" msd="ordinary times">平時</w>
 				<w lemma="ge3" msd="-">嘅</w>
 				<w lemma="sang1-wut6" msd="life">生活</w>
@@ -41,7 +43,7 @@
 				<w lemma="mou5" msd="don't have">冇</w>
 				<w lemma="zo2" msd="-ed">咗</w>
 				<w lemma="seoi2" msd="water">水</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="seoi2" msd="water">水</w>
@@ -55,11 +57,11 @@
 				<w lemma="zek3" msd="(measure)">隻</w>
 				<w lemma="bui1" msd="cup">杯</w>
 				<w lemma="go2-zan6" msd="that time">嗰陣</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="wui5" msd="will">會</w>
 				<w lemma="jau5" msd="have">有</w>
 				<w lemma="seng1" msd="sound">聲</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="ngo5" msd="I">我</w>
@@ -69,7 +71,7 @@
 				<w lemma="ne1" msd="this">呢</w>
 				<w lemma="zung2" msd="type of">種</w>
 				<w lemma="seng1" msd="sound">聲</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="tiu4" msd="(measure)">條</w>
@@ -77,7 +79,7 @@
 				<w lemma="lok6" msd="fall">落</w>
 				<w lemma="gan2" msd="-ing">緊</w>
 				<w lemma="jyu5" msd="rain">雨</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 				<w lemma="ngo5" msd="I">我</w>
 				<w lemma="dou1" msd="also">都</w>
 				<w lemma="hou2" msd="really">好</w>
@@ -85,7 +87,7 @@
 				<w lemma="teng1" msd="to hear">聽</w>
 				<w lemma="jyu5" msd="rain">雨</w>
 				<w lemma="seng1" msd="sound">聲</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="jyu5" msd="rain">雨</w>
@@ -96,13 +98,13 @@
 				<w lemma="lok6-lai4" msd="come down">落嚟</w>
 				<w lemma="ge3" msd="-">嘅</w>
 				<w lemma="seoi2" msd="water">水</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="jau5" msd="have">有</w>
 				<w lemma="zo2" msd="-ed">咗</w>
 				<w lemma="jyu5-seoi2" msd="rain water">雨水</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="di1" msd="those">啲</w>
 				<w lemma="syu6" msd="trees">樹</w>
 				<w lemma="sin1" msd="then">先</w>
@@ -110,23 +112,23 @@
 				<w lemma="saang1" msd="grow">生</w>
 				<w lemma="gou1" msd="tall">高</w>
 				<w lemma="di1" msd="more">啲</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="lam4" msd="drench">淋</w>
 				<w lemma="jyun4" msd="finished">完</w>
 				<w lemma="jyu5-seoi2" msd="rain water">雨水</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="di1" msd="those">啲</w>
 				<w lemma="coi3" msd="vegetables">菜</w>
 				<w lemma="dou1" msd="also">都</w>
 				<w lemma="m4-wui5" msd="will not">唔會</w>
 				<w lemma="sei2" msd="die">死</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="ho2-ji5" msd="can">可以</w>
 				<w lemma="gai3-zuk6" msd="continue">繼續</w>
 				<w lemma="saang1" msd="grow">生</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="ngo5-dei6" msd="we">我哋</w>
@@ -135,11 +137,11 @@
 				<w lemma="zong1-zyu6" msd="hold">裝住</w>
 				<w lemma="di1" msd="those">啲</w>
 				<w lemma="jyu5-seoi2" msd="rain water">雨水</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="lau4-faan1" msd="to keep">留返</w>
 				<w lemma="lai4" msd="for">嚟</w>
 				<w lemma="jung6" msd="use">用</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="haa6-tin1" msd="summer">夏天</w>
@@ -148,7 +150,7 @@
 				<w lemma="lok6" msd="fall">落</w>
 				<w lemma="daai6" msd="big">大</w>
 				<w lemma="jyu5" msd="rain">雨</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="baa4-baa1" msd="father">爸爸</w>
@@ -158,7 +160,7 @@
 				<w lemma="hai2" msd="at">喺</w>
 				<w lemma="uk1-kei2" msd="home">屋企</w>
 				<w lemma="jap6-min6" msd="inside">入面</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="bat1-gwo3" msd="but">不過</w>
@@ -166,18 +168,18 @@
 				<w lemma="gok3-dak1" msd="feel">覺得</w>
 				<w lemma="hou2" msd="very">好</w>
 				<w lemma="mun6" msd="bored">悶</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="ngo5" msd="I">我</w>
 				<w lemma="mou5" msd="didn't">冇</w>
 				<w lemma="teng1" msd="listen">聽</w>
 				<w lemma="baa4-baa1" msd="father">爸爸</w>
 				<w lemma="waa6" msd="words">話</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="ceot1" msd="go out">出</w>
 				<w lemma="zo2" msd="-ed">咗</w>
 				<w lemma="heoi3" msd="to go">去</w>
 				<w lemma="waan2" msd="to play">玩</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="di1" msd="those">啲</w>
@@ -187,7 +189,7 @@
 				<w lemma="ngo5" msd="I">我</w>
 				<w lemma="sap1" msd="wet">濕</w>
 				<w lemma="saai3" msd="completely">晒</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="baa4-baa1" msd="father">爸爸</w>
@@ -196,18 +198,18 @@
 				<w lemma="faan1" msd="to return">返</w>
 				<w lemma="jap6" msd="into">入</w>
 				<w lemma="uk1" msd="home">屋</w>
-				<w lemma="#" msd="#">：</w>
-				<w lemma="#" msd="#">「</w>
+				<pc>：</pc>
+				<pc>「</pc>
 				<w lemma="aa3-neoi2" msd="daughter">阿女</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="gam2-joeng2" msd="in this way">噉樣</w>
 				<w lemma="lam4" msd="drench">淋</w>
 				<w lemma="jyu5" msd="rain">雨</w>
 				<w lemma="wui5" msd="will">會</w>
 				<w lemma="beng6" msd="fall ill">病</w>
 				<w lemma="gaa3" msd="(particle)">㗎</w>
-				<w lemma="#" msd="#">！</w>
-				<w lemma="#" msd="#">」</w>
+				<pc>！</pc>
+				<pc>」</pc>
 			</l>
 			<l>
 				<w lemma="baa4-baa1" msd="father">爸爸</w>
@@ -217,7 +219,7 @@
 				<w lemma="cung1-loeng4" msd="take a shower">沖涼</w>
 				<w lemma="wun6" msd="change">換</w>
 				<w lemma="saam1" msd="clothes">衫</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="zung6" msd="even">仲</w>
 				<w lemma="bong1" msd="help">幫</w>
 				<w lemma="ngo5" msd="me">我</w>
@@ -226,7 +228,7 @@
 				<w lemma="hou2" msd="good">好</w>
 				<w lemma="go3" msd="(measure)">個</w>
 				<w lemma="tau4" msd="head">頭</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="jyu5" msd="rain">雨</w>
@@ -234,32 +236,32 @@
 				<w lemma="jat6-jat6" msd="every day">日日</w>
 				<w lemma="dou1" msd="also">都</w>
 				<w lemma="lok6" msd="fall">落</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 				<w lemma="jyu4-gwo2" msd="if">如果</w>
 				<w lemma="m4-hai6" msd="is not">唔係</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="ceot1-min6" msd="outside">出面</w>
 				<w lemma="wui5" msd="will">會</w>
 				<w lemma="seoi2-zam3" msd="flood">水浸</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="mou5" msd="don't have">冇</w>
 				<w lemma="jyu5" msd="rain">雨</w>
 				<w lemma="lok6" msd="fall">落</w>
 				<w lemma="go2-zan6" msd="that time">嗰陣</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="taai3-joeng4" msd="the sun">太陽</w>
 				<w lemma="wui5" msd="will">會</w>
 				<w lemma="ceot1-lai4" msd="come out">出嚟</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 				<w lemma="ngo5" msd="I">我</w>
 				<w lemma="zau6" msd="then">就</w>
 				<w lemma="ho2-ji5" msd="can">可以</w>
 				<w lemma="ceot1-heoi3" msd="go out">出去</w>
 				<w lemma="waan2" msd="to play">玩</w>
 				<w lemma="laa3" msd="(particle)">喇</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 		</body>
 	</text>

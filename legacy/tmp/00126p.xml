@@ -3,9 +3,11 @@
 		<fileDesc>
 			<titleStmt>
 				<title>手</title>
-				<author></author>
-				<editor></editor>
-				<editor></editor>
+				<author>一郎 Ichirou</author>
+				<respStmt>
+					<resp>Cantonese Team</resp>
+					<persName>一郎 Ichirou, Summer Mut, Connie Li</persName>
+				</respStmt>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>Hambaanglaang</publisher>
@@ -21,7 +23,8 @@
 				<idno>00126p</idno>
 			</seriesStmt>
 			<sourceDesc>
-				<p>Stories</p>
+				<p>&quot;Greater Together&quot; (Cantonese), translated by HamBaangLaang (© HamBaangLaang, 2020) from My Fingers, My Hands /मोर उंगलिला ,मोर हाथ (English-Surjapuri), translated by Yuman Hussain &amp; Team Azad India Foundation, published by Azad India Foundation (© Azad India Foundation, 2020) based on the original story मेरी उँगलियाँ मेरे हाथ (Hindi), written by Vinita Krishna, illustrated by Suvidha Mistry, published by Pratham Books (© Pratham Books, 2010)  under a CC BY 4.0 license on StoryWeaver. Read, create and translate stories for free on www.storyweaver.org.in This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+</p>
 			</sourceDesc>
 		</fileDesc>
 	</teiHeader>
@@ -35,7 +38,7 @@
 				<w lemma="ng5" msd="five">五</w>
 				<w lemma="zek3" msd="(measure)">隻</w>
 				<w lemma="sau2-zi2" msd="fingers">手指</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="ngo5" msd="I">我</w>
@@ -43,12 +46,12 @@
 				<w lemma="loeng5" msd="two">兩</w>
 				<w lemma="zek3" msd="(measure)">隻</w>
 				<w lemma="sau2" msd="hands">手</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="jau5" msd="have">有</w>
 				<w lemma="sap6" msd="ten">十</w>
 				<w lemma="zek3" msd="(measure)">隻</w>
 				<w lemma="sau2-zi2" msd="fingers">手指</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="nei5" msd="you">你</w>
@@ -58,12 +61,12 @@
 				<w lemma="loeng5" msd="two">兩</w>
 				<w lemma="zek3" msd="(measure)">隻</w>
 				<w lemma="sau2" msd="hands">手</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="jau5" msd="have">有</w>
 				<w lemma="sap6" msd="ten">十</w>
 				<w lemma="zek3" msd="(measure)">隻</w>
 				<w lemma="sau2-zi2" msd="fingers">手指</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="ngo5" msd="I">我</w>
@@ -73,18 +76,18 @@
 				<w lemma="ling1" msd="to take">拎</w>
 				<w lemma="hou2-do1" msd="many">好多</w>
 				<w lemma="je5" msd="things">嘢</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="ling1" msd="to take">拎</w>
 				<w lemma="zi2" msd="paper">紙</w>
-				<w lemma="#" msd="#">、</w>
+				<pc>、</pc>
 				<w lemma="ling1" msd="to take">拎</w>
 				<w lemma="bat1" msd="pen">筆</w>
-				<w lemma="#" msd="#">、</w>
+				<pc>、</pc>
 				<w lemma="ling1" msd="to take">拎</w>
 				<w lemma="me1" msd="whatever">咩</w>
 				<w lemma="dou1" msd="all">都</w>
 				<w lemma="dak1" msd="can">得</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="ngo5" msd="I">我</w>
@@ -95,13 +98,13 @@
 				<w lemma="laai1" msd="pull">拉</w>
 				<w lemma="cung5" msd="heavy">重</w>
 				<w lemma="je5" msd="things">嘢</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="ce1" msd="car">車</w>
 				<w lemma="dou1" msd="also">都</w>
 				<w lemma="laai1" msd="pull">拉</w>
 				<w lemma="dak1" msd="can">得</w>
 				<w lemma="juk1" msd="to move">郁</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="jau5" msd="have">有</w>
@@ -109,13 +112,13 @@
 				<w lemma="loeng5" msd="two">兩</w>
 				<w lemma="zek3" msd="(measure)">隻</w>
 				<w lemma="sau2" msd="hands">手</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="ngo5" msd="I">我</w>
 				<w lemma="zou6" msd="do">做</w>
 				<w lemma="dou2" msd="can">到</w>
 				<w lemma="hou2-do1" msd="many">好多</w>
 				<w lemma="je5" msd="thing">嘢</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="ngo5" msd="I">我</w>
@@ -126,7 +129,7 @@
 				<w lemma="dou2" msd="can">到</w>
 				<w lemma="hou2-do1" msd="many">好多</w>
 				<w lemma="je5" msd="things">嘢</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 			</l>
 			<l>
 				<w lemma="dim3" msd="touch">掂</w>
@@ -134,7 +137,7 @@
 				<w lemma="m4-tung4" msd="different">唔同</w>
 				<w lemma="ge3" msd="-">嘅</w>
 				<w lemma="je5" msd="things">嘢</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="ngo5" msd="I">我</w>
 				<w lemma="jat1" msd="once">一</w>
 				<w lemma="dim3" msd="touch">掂</w>
@@ -142,7 +145,7 @@
 				<w lemma="zi1" msd="to know">知</w>
 				<w lemma="hai6" msd="is">係</w>
 				<w lemma="me1" msd="what">咩</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="geoi2" msd="raise">舉</w>
@@ -150,7 +153,7 @@
 				<w lemma="deoi3" msd="pair of">對</w>
 				<w lemma="sau2" msd="hands">手</w>
 				<w lemma="go2-zan6" msd="that time">嗰陣</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="ngo5" msd="I">我</w>
 				<w lemma="lo2" msd="take">攞</w>
 				<w lemma="dou2" msd="can">到</w>
@@ -159,7 +162,7 @@
 				<w lemma="gou1" msd="high">高</w>
 				<w lemma="ge3" msd="-">嘅</w>
 				<w lemma="je5" msd="things">嘢</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="bat1-gwo3" msd="but">不過</w>
@@ -168,13 +171,13 @@
 				<w lemma="taai3" msd="too">太</w>
 				<w lemma="gou1" msd="high">高</w>
 				<w lemma="laa3" msd="(particle)">喇</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="ngo5" msd="I">我</w>
 				<w lemma="m4-siu2-sam1" msd="careless">唔小心</w>
 				<w lemma="zing2" msd="make">整</w>
 				<w lemma="dit3" msd="to fall">跌</w>
 				<w lemma="zo2" msd="-ed">咗</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="hap2" msd="box">盒</w>
@@ -184,27 +187,27 @@
 				<w lemma="dit3" msd="fall">跌</w>
 				<w lemma="saai3" msd="all">晒</w>
 				<w lemma="lok6-lai4" msd="down">落嚟</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="ngo5" msd="I">我</w>
 				<w lemma="jiu3" msd="have to">要</w>
 				<w lemma="zap1" msd="pick up">執</w>
 				<w lemma="faan1" msd="back">返</w>
 				<w lemma="hou2" msd="good">好</w>
 				<w lemma="keoi5" msd="it">佢</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="ni1-dou6" msd="here">呢度</w>
 				<w lemma="lyun6" msd="messy">亂</w>
 				<w lemma="dou3" msd="to">到</w>
 				<w lemma="gam2" msd="in this way">噉</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="tai2-lai4" msd="seems">睇嚟</w>
 				<w lemma="jiu3" msd="need to">要</w>
 				<w lemma="maan6-maan2" msd="slowly">慢慢</w>
 				<w lemma="zap1" msd="pick up">執</w>
 				<w lemma="laa3" msd="(particle)">喇</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="hou2-coi2" msd="lucky">好彩</w>
@@ -213,7 +216,7 @@
 				<w lemma="ni1" msd="this">呢</w>
 				<w lemma="deoi3" msd="pair of">對</w>
 				<w lemma="sau2" msd="hands">手</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="ngo5" msd="I">我</w>
@@ -222,12 +225,12 @@
 				<w lemma="haa5" msd="a bit">下</w>
 				<w lemma="di1" msd="these">啲</w>
 				<w lemma="sau2-zi2" msd="fingers">手指</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="zap1" msd="to pick up">執</w>
 				<w lemma="mat1-je5" msd="whatever">乜嘢</w>
 				<w lemma="dou1" msd="all">都</w>
 				<w lemma="m4-naan4" msd="not difficult">唔難</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="sau2-zi2" msd="fingers">手指</w>
@@ -236,7 +239,7 @@
 				<w lemma="jung6-lai4" msd="use as">用嚟</w>
 				<w lemma="zi2" msd="point to">指</w>
 				<w lemma="je5" msd="things">嘢</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="ngo5" msd="I">我</w>
@@ -246,7 +249,7 @@
 				<w lemma="soeng6-min6" msd="above">上面</w>
 				<w lemma="ge3" msd="-">嘅</w>
 				<w lemma="zi6" msd="words">字</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="hou2" msd="very">好</w>
 				<w lemma="faai3" msd="fast">快</w>
 				<w lemma="zau6" msd="as a result">就</w>
@@ -255,7 +258,7 @@
 				<w lemma="bun2" msd="(measure)">本</w>
 				<w lemma="syu1" msd="book">書</w>
 				<w lemma="laa3" msd="(particle)">喇</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 		</body>
 	</text>

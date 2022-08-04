@@ -3,9 +3,11 @@
 		<fileDesc>
 			<titleStmt>
 				<title>哽塞</title>
-				<author></author>
-				<editor></editor>
-				<editor></editor>
+				<author>Cheung Tak Ying, T. T. CHEUNG</author>
+				<respStmt>
+					<resp>Cantonese Team</resp>
+					<persName>Cheung Tak Ying, T. T. CHEUNG, Connie</persName>
+				</respStmt>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>Hambaanglaang</publisher>
@@ -20,9 +22,7 @@
 				<title>Hambaanglaang Graded Readers 冚唪唥粵文讀本</title>
 				<idno>00017</idno>
 			</seriesStmt>
-			<sourceDesc>
-				<p>Stories</p>
-			</sourceDesc>
+			<sourceDesc/>
 		</fileDesc>
 	</teiHeader>
 	<text>
@@ -32,45 +32,45 @@
 			</l>
 			<l>
 				<w lemma="coeng4-ging2" msd="scene">場景</w>
-				<w lemma="#" msd="#">：</w>
+				<pc>：</pc>
 				<w lemma="faan1-hok6" msd="to go to school">返學</w>
 				<w lemma="lou6-soeng6" msd="on the way">路上</w>
 			</l>
 			<l>
 				<w lemma="zi3-ming4" msd="Chi Ming">志明</w>
-				<w lemma="#" msd="#">：</w>
-				<w lemma="#" msd="#">（</w>
+				<pc>：</pc>
+				<pc>（</pc>
 				<w lemma="jat1-lou6" msd="while">一路</w>
 				<w lemma="paau2" msd="to run">跑</w>
 				<w lemma="jat1-lou6" msd="while">一路</w>
 				<w lemma="sik6" msd="eat">食</w>
 				<w lemma="baau1" msd="bread">包</w>
-				<w lemma="#" msd="#">）</w>
+				<pc>）</pc>
 				<w lemma="sei2 laa1" msd="oh no">死啦</w>
-				<w lemma="#" msd="#">！</w>
+				<pc>！</pc>
 				<w lemma="zung6-jau5" msd="still have">仲有</w>
 				<w lemma="ng5" msd="five">五</w>
 				<w lemma="fan1-zung1" msd="minute">分鐘</w>
 				<w lemma="zau6" msd="then">就</w>
 				<w lemma="ci4-dou3" msd="late">遲到</w>
 				<w lemma="laa3" msd="(particle)">喇</w>
-				<w lemma="#" msd="#">！</w>
+				<pc>！</pc>
 				<w lemma="zou2-caan1" msd="breakfast">早餐</w>
 				<w lemma="jau6" msd="again">又</w>
 				<w lemma="sik6" msd="eat">食</w>
 				<w lemma="m4 cit3" msd="with no time">唔切</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="wai5-zeon3" msd="Wai Chun">偉俊</w>
-				<w lemma="#" msd="#">：</w>
-				<w lemma="#" msd="#">（</w>
+				<pc>：</pc>
+				<pc>（</pc>
 				<w lemma="paau2" msd="run">跑</w>
-				<w lemma="#" msd="#">）</w>
+				<pc>）</pc>
 				<w lemma="wai3" msd="hey">喂</w>
-				<w lemma="#" msd="#">！</w>
+				<pc>！</pc>
 				<w lemma="zi3-ming4" msd="Chi Ming">志明</w>
-				<w lemma="#" msd="#">！</w>
+				<pc>！</pc>
 				<w lemma="nei5" msd="you">你</w>
 				<w lemma="jau6" msd="again">又</w>
 				<w lemma="hai6" msd="is">係</w>
@@ -78,25 +78,25 @@
 				<w lemma="ci4" msd="late">遲</w>
 				<w lemma="zo2" msd="(particle)">咗</w>
 				<w lemma="aa4" msd="(particle)">呀</w>
-				<w lemma="#" msd="#">？</w>
+				<pc>？</pc>
 			</l>
 			<l>
 				<w lemma="zi3-ming4" msd="Chi Ming">志明</w>
-				<w lemma="#" msd="#">：</w>
-				<w lemma="#" msd="#">（</w>
+				<pc>：</pc>
+				<pc>（</pc>
 				<w lemma="jat1-lou6" msd="while">一路</w>
 				<w lemma="paau2" msd="running">跑</w>
 				<w lemma="jat1-lou6" msd="while">一路</w>
 				<w lemma="sik6" msd="eating">食</w>
 				<w lemma="baau1" msd="bread">包</w>
-				<w lemma="#" msd="#">）</w>
+				<pc>）</pc>
 				<w lemma="hai6" msd="yes">係</w>
 				<w lemma="aa3" msd="(particle)">呀</w>
-				<w lemma="#" msd="#">！</w>
+				<pc>！</pc>
 			</l>
 			<l>
 				<w lemma="wai5-zeon3" msd="Wai Chun">偉俊</w>
-				<w lemma="#" msd="#">：</w>
+				<pc>：</pc>
 				<w lemma="paau2" msd="run">跑</w>
 				<w lemma="zyu6" msd="-ing">住</w>
 				<w lemma="sik6" msd="eat">食</w>
@@ -106,125 +106,125 @@
 				<w lemma="geng1" msd="afraid">驚</w>
 				<w lemma="kang2-can1" msd="choking">哽親</w>
 				<w lemma="me1" msd="(particle)">咩</w>
-				<w lemma="#" msd="#">？</w>
+				<pc>？</pc>
 			</l>
 			<l>
-				<w lemma="#" msd="#">（</w>
+				<pc>（</pc>
 				<w lemma="zi3-ming4" msd="Chi Ming">志明</w>
 				<w lemma="dat6-jin4" msd="suddenly">突然</w>
 				<w lemma="ting4 haa6" msd="stop">停下</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="lim5-sik1" msd="face">臉色</w>
 				<w lemma="maan6-maan2" msd="slowly">慢慢</w>
 				<w lemma="bin3" msd="change">變</w>
 				<w lemma="hung4" msd="red">紅</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="fu1-kap1" msd="breathe">呼吸</w>
 				<w lemma="kwan3-naan4" msd="difficultly">困難</w>
-				<w lemma="#" msd="#">）</w>
+				<pc>）</pc>
 			</l>
 			<l>
 				<w lemma="wai5-zeon3" msd="Wai Chun">偉俊</w>
-				<w lemma="#" msd="#">：</w>
-				<w lemma="#" msd="#">（</w>
+				<pc>：</pc>
+				<pc>（</pc>
 				<w lemma="ting4-haa6" msd="stop">停下</w>
-				<w lemma="#" msd="#">）</w>
+				<pc>）</pc>
 				<w lemma="zou6-me1" msd="what">做咩</w>
 				<w lemma="aa3" msd="(particle)">呀</w>
-				<w lemma="#" msd="#">？</w>
+				<pc>？</pc>
 			</l>
 			<l>
-				<w lemma="#" msd="#">（</w>
+				<pc>（</pc>
 				<w lemma="zi3-ming4" msd="Chi Ming">志明</w>
 				<w lemma="ngaan5-san4" msd="eyesight">眼神</w>
 				<w lemma="ging1-fong1" msd="panic">驚慌</w>
 				<w lemma="dei6" msd="-ly">地</w>
 				<w lemma="mong6-zyu6" msd="staring">望住</w>
 				<w lemma="wai5-zeon3" msd="Wai Chun">偉俊</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="jat1" msd="one">一</w>
 				<w lemma="geoi3" msd="(measure)">句</w>
 				<w lemma="waa6" msd="sentence">話</w>
 				<w lemma="dou1" msd="even">都</w>
 				<w lemma="gong2-m4-ceot1" msd="cannot say">講唔出</w>
-				<w lemma="#" msd="#">）</w>
+				<pc>）</pc>
 			</l>
 			<l>
 				<w lemma="wai5-zeon3" msd="Wai Chun">偉俊</w>
-				<w lemma="#" msd="#">：</w>
-				<w lemma="#" msd="#">（</w>
+				<pc>：</pc>
+				<pc>（</pc>
 				<w lemma="ging1-ngaa6" msd="surprised">驚訝</w>
-				<w lemma="#" msd="#">）</w>
+				<pc>）</pc>
 				<w lemma="nei5" msd="you">你</w>
 				<w lemma="m4-hai6" msd="are not">唔係</w>
 				<w lemma="zan1-hai6" msd="really">真係</w>
 				<w lemma="kang2-can1" msd="choke">哽</w>
 				<w lemma="aa1" msd="(particle)">呀</w>
 				<w lemma="maa3" msd="(particle)">嘛</w>
-				<w lemma="#" msd="#">？</w>
+				<pc>？</pc>
 			</l>
 			<l>
-				<w lemma="#" msd="#">（</w>
+				<pc>（</pc>
 				<w lemma="zi3-ming4" msd="Chi Ming">志明</w>
 				<w lemma="bei2" msd="give">俾</w>
 				<w lemma="m4-dou2" msd="cannot">唔到</w>
 				<w lemma="wui4-jing3" msd="response">回應</w>
-				<w lemma="#" msd="#">）</w>
+				<pc>）</pc>
 			</l>
 			<l>
 				<w lemma="wai5-zeon3" msd="Wai Chun">偉俊</w>
-				<w lemma="#" msd="#">：</w>
+				<pc>：</pc>
 				<w lemma="zi6-gei2" msd="oneself">自己</w>
 				<w lemma="kat1-m4-kat1-dou2" msd="can one cough">咳唔咳到</w>
 				<w lemma="ceot1" msd="out">出</w>
 				<w lemma="lai4" msd="(particle)">嚟</w>
 				<w lemma="aa4" msd="(particle)">呀</w>
-				<w lemma="#" msd="#">？</w>
+				<pc>？</pc>
 			</l>
 			<l>
-				<w lemma="#" msd="#">（</w>
+				<pc>（</pc>
 				<w lemma="zi3-ming4" msd="Chi Ming">志明</w>
 				<w lemma="soeng4-si3" msd="attempt">嘗試</w>
 				<w lemma="kat1" msd="to cough">咳</w>
 				<w lemma="daan6" msd="but">但</w>
 				<w lemma="m4" msd="not">唔</w>
 				<w lemma="sing4-gung1" msd="succeed">成功</w>
-				<w lemma="#" msd="#">。</w>
-				<w lemma="#" msd="#">）</w>
+				<pc>。</pc>
+				<pc>）</pc>
 			</l>
 			<l>
 				<w lemma="wai5-zeon3" msd="Wai Chun">偉俊</w>
-				<w lemma="#" msd="#">：</w>
+				<pc>：</pc>
 				<w lemma="m4-sai2" msd="don't be">唔使</w>
 				<w lemma="geng1" msd="afraid">驚</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="ngo5" msd="I">我</w>
 				<w lemma="si3-haa5" msd="try">試下</w>
 				<w lemma="bong1" msd="help">幫</w>
 				<w lemma="nei5" msd="you">你</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
-				<w lemma="#" msd="#">（</w>
+				<pc>（</pc>
 				<w lemma="wai5-zeon3" msd="Wai Chun">偉俊</w>
 				<w lemma="kei5" msd="stand">企</w>
 				<w lemma="hai2" msd="at">喺</w>
 				<w lemma="zi3-ming4" msd="Chi Ming">志明</w>
 				<w lemma="san1-hau6" msd="behind">身後</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="soeng1" msd="both">雙</w>
 				<w lemma="sau2" msd="hand">手</w>
 				<w lemma="waang4" msd="horizontal">橫</w>
 				<w lemma="pou5" msd="hug">抱</w>
 				<w lemma="zi3-ming4" msd="Chi Ming">志明</w>
 				<w lemma="jiu1-bou6" msd="waist">腰部</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="zi3-ming4" msd="Chi Ming">志明</w>
 				<w lemma="jiu1-bou6" msd="waist">腰部</w>
 				<w lemma="hoeng3" msd="towards">向</w>
 				<w lemma="cin4" msd="front">前</w>
 				<w lemma="waan1-kuk1" msd="bend">彎曲</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="jat1" msd="one">一</w>
 				<w lemma="go3" msd="(measure)">個</w>
 				<w lemma="kyun4-tau4" msd="fist">拳頭</w>
@@ -234,12 +234,12 @@
 				<w lemma="soeng6" msd="top">上</w>
 				<w lemma="bun3" msd="half">半</w>
 				<w lemma="bou6" msd="(measure)">部</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="hung1" msd="chest">胸</w>
 				<w lemma="gwat1" msd="bone">骨</w>
 				<w lemma="ji5-haa6" msd="below">以下</w>
 				<w lemma="wai6-zi3" msd="position">位置</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="ling6" msd="another">另</w>
 				<w lemma="jat1" msd="one">一</w>
 				<w lemma="zek3" msd="(measure)">隻</w>
@@ -247,39 +247,39 @@
 				<w lemma="baau1" msd="wrap">包</w>
 				<w lemma="zyu6" msd="-ing">住</w>
 				<w lemma="kyun4-tau4" msd="fist">拳頭</w>
-				<w lemma="#" msd="#">）</w>
+				<pc>）</pc>
 			</l>
 			<l>
 				<w lemma="wai5-zeon3" msd="Wai Chun">偉俊</w>
-				<w lemma="#" msd="#">：</w>
+				<pc>：</pc>
 				<w lemma="ngo5" msd="I">我</w>
 				<w lemma="sou2" msd="count">數</w>
 				<w lemma="jat1" msd="one">一</w>
-				<w lemma="#" msd="#">、</w>
+				<pc>、</pc>
 				<w lemma="ji6" msd="two">二</w>
-				<w lemma="#" msd="#">、</w>
+				<pc>、</pc>
 				<w lemma="saam1" msd="three">三</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="nei5" msd="you">你</w>
 				<w lemma="si3-haa5" msd="try">試下</w>
 				<w lemma="jung6" msd="use">用</w>
 				<w lemma="lik6" msd="hardly">力</w>
 				<w lemma="kat1" msd="cough">咳</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 				<w lemma="jat1" msd="one">一</w>
-				<w lemma="#" msd="#">、</w>
+				<pc>、</pc>
 				<w lemma="ji6" msd="two">二</w>
-				<w lemma="#" msd="#">、</w>
+				<pc>、</pc>
 				<w lemma="saam1" msd="three">三</w>
-				<w lemma="#" msd="#">！</w>
+				<pc>！</pc>
 			</l>
 			<l>
-				<w lemma="#" msd="#">（</w>
+				<pc>（</pc>
 				<w lemma="zi3-ming4" msd="Chi Ming">志明</w>
 				<w lemma="kat1" msd="cough">咳</w>
 				<w lemma="ge3" msd="of">嘅</w>
 				<w lemma="tung4-si4" msd="at the same time">同時</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="wai5-zeon3" msd="Wai Chun">偉俊</w>
 				<w lemma="jung6" msd="with">用</w>
 				<w lemma="lik6" msd="strength">力</w>
@@ -292,28 +292,28 @@
 				<w lemma="zi3-ming4" msd="Chi Ming">志明</w>
 				<w lemma="fuk1" msd="abdomen">腹</w>
 				<w lemma="bou6" msd="(measure)">部</w>
-				<w lemma="#" msd="#">）</w>
+				<pc>）</pc>
 			</l>
 			<l>
 				<w lemma="wai5-zeon3" msd="Wai Chun">偉俊</w>
-				<w lemma="#" msd="#">：</w>
+				<pc>：</pc>
 				<w lemma="zoi3" msd="again">再</w>
 				<w lemma="lai4" msd="(particle)">嚟</w>
-				<w lemma="#" msd="#">！</w>
+				<pc>！</pc>
 				<w lemma="jat1" msd="one">一</w>
-				<w lemma="#" msd="#">、</w>
+				<pc>、</pc>
 				<w lemma="ji6" msd="two">二</w>
-				<w lemma="#" msd="#">、</w>
+				<pc>、</pc>
 				<w lemma="saam1" msd="three">三</w>
-				<w lemma="#" msd="#">！</w>
+				<pc>！</pc>
 			</l>
 			<l>
-				<w lemma="#" msd="#">（</w>
+				<pc>（</pc>
 				<w lemma="zi3-ming4" msd="Chi Ming">志明</w>
 				<w lemma="kat1" msd="cough">咳</w>
 				<w lemma="ge3" msd="(particle)">嘅</w>
 				<w lemma="tung4-si4" msd="at the same time">同時</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="wai5-zeon3" msd="Wai Chun">偉俊</w>
 				<w lemma="jung6" msd="with">用</w>
 				<w lemma="lik6" msd="strength">力</w>
@@ -326,45 +326,45 @@
 				<w lemma="zi3-ming4" msd="Chi Ming">志明</w>
 				<w lemma="fuk1" msd="abdomen">腹</w>
 				<w lemma="bou6" msd="(measure)">部</w>
-				<w lemma="#" msd="#">）</w>
+				<pc>）</pc>
 			</l>
 			<l>
-				<w lemma="#" msd="#">（</w>
+				<pc>（</pc>
 				<w lemma="min6-baau1" msd="bread">麪包</w>
 				<w lemma="cung4" msd="from">從</w>
 				<w lemma="zi3-ming4" msd="Chi Ming">志明</w>
 				<w lemma="hau2" msd="mouth">口</w>
 				<w lemma="zung1" msd="inside">中</w>
 				<w lemma="tou3-ceot1" msd="spit">吐出</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="zi3-ming4" msd="Chi Ming">志明</w>
 				<w lemma="daai6-lik6" msd="deeply">大力</w>
 				<w lemma="tau2-hei3" msd="to breathe">唞氣</w>
-				<w lemma="#" msd="#">）</w>
+				<pc>）</pc>
 			</l>
 			<l>
 				<w lemma="zi3-ming4" msd="Chi Ming">志明</w>
-				<w lemma="#" msd="#">：</w>
-				<w lemma="#" msd="#">……</w>
+				<pc>：</pc>
+				<pc>……</pc>
 				<w lemma="m4-goi1" msd="thank">唔該</w>
 				<w lemma="saai3" msd="(particle)">晒</w>
-				<w lemma="#" msd="#">……</w>
+				<pc>……</pc>
 				<w lemma="tau4-sin1" msd="just now">頭先</w>
 				<w lemma="tau2-m4-dou2-hei3" msd="cannot breathe">唞唔到氣</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="zaang1-di1" msd="almost">爭啲</w>
 				<w lemma="wan4" msd="faint">暈</w>
 				<w lemma="dai1" msd="down">低</w>
-				<w lemma="#" msd="#">……</w>
+				<pc>……</pc>
 			</l>
 			<l>
 				<w lemma="wai5-zeon3" msd="Wai Chun">偉俊</w>
-				<w lemma="#" msd="#">：</w>
+				<pc>：</pc>
 				<w lemma="gam1" msd="this">今</w>
 				<w lemma="ci3" msd="time">次</w>
 				<w lemma="zi1-mei6-dou6" msd="learn your lesson">知味道</w>
 				<w lemma="laa1" msd="(particle)">啦</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="zi1-hau6" msd="after">之後</w>
 				<w lemma="m4-hou2" msd="do not">唔好</w>
 				<w lemma="zoi3" msd="again">再</w>
@@ -373,51 +373,51 @@
 				<w lemma="sik6" msd="eat">食</w>
 				<w lemma="je5" msd="thing">嘢</w>
 				<w lemma="laa3" msd="(particle)">喇</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 			<l>
 				<w lemma="wai5-zeon3" msd="Wai Chun">偉俊</w>
-				<w lemma="#" msd="#">：</w>
+				<pc>：</pc>
 				<w lemma="jan4" msd="human">人</w>
 				<w lemma="kang2-can1" msd="choking">哽親</w>
 				<w lemma="ge3" msd="-">嘅</w>
 				<w lemma="si4-hau6" msd="time">時候</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="wui5" msd="will">會</w>
 				<w lemma="gong2-m4-dou2-je5" msd="cannot say">講唔到嘢</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="fu1-kap1" msd="breath">呼吸</w>
 				<w lemma="kwan3-naan4" msd="difficult">困難</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="daai6-lik6" msd="with strength">大力</w>
 				<w lemma="kat1" msd="cough">咳</w>
 				<w lemma="waak6-ze2" msd="or">或者</w>
 				<w lemma="kat1-m4-dou2" msd="cannot cough">咳唔到</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="lim5-sik1" msd="face">臉色</w>
 				<w lemma="tung1" msd="become">通</w>
 				<w lemma="hung4" msd="red">紅</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="maan6-maan2" msd="slowly">慢慢</w>
 				<w lemma="pei4-fu1" msd="skin">皮膚</w>
-				<w lemma="#" msd="#">、</w>
+				<pc>、</pc>
 				<w lemma="zeoi2" msd="mouth">嘴</w>
 				<w lemma="seon4" msd="lip">唇</w>
 				<w lemma="bin3" msd="become">變</w>
 				<w lemma="zi2" msd="purple">紫</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="jik6" msd="also">亦</w>
 				<w lemma="ho2-nang4" msd="possible">可能</w>
 				<w lemma="wui5" msd="will">會</w>
 				<w lemma="sat1-heoi3" msd="lose">失去</w>
 				<w lemma="ji3-sik1" msd="consciousness">意識</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 				<w lemma="bong1-zo6" msd="help">幫助</w>
 				<w lemma="kang2-can1" msd="choking">哽親</w>
 				<w lemma="ge3" msd="-">嘅</w>
 				<w lemma="jan4" msd="human">人</w>
 				<w lemma="si4" msd="by the time">時</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="gap1-gau3-ze2" msd="first aider">急救者</w>
 				<w lemma="jiu3" msd="must">要</w>
 				<w lemma="kei5" msd="stand">企</w>
@@ -426,7 +426,7 @@
 				<w lemma="ge3" msd="-">嘅</w>
 				<w lemma="jan4-san1" msd="one">人身</w>
 				<w lemma="hau6" msd="behind">後</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="soeng1" msd="pair">雙</w>
 				<w lemma="sau2" msd="hand">手</w>
 				<w lemma="waang4" msd="horizontal">橫</w>
@@ -434,7 +434,7 @@
 				<w lemma="keoi5" msd="he/she">佢</w>
 				<w lemma="jiu1" msd="waist">腰</w>
 				<w lemma="bou6" msd="(measure)">部</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="kang2-can1" msd="choking">哽親</w>
 				<w lemma="ge3" msd="-">嘅</w>
 				<w lemma="jan4" msd="human">人</w>
@@ -443,7 +443,7 @@
 				<w lemma="hoeng3" msd="towards">向</w>
 				<w lemma="cin4" msd="front">前</w>
 				<w lemma="waan1-kuk1" msd="bend">彎曲</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="gap1-gau3-ze2" msd="first aider">急救者</w>
 				<w lemma="jat1" msd="one">一</w>
 				<w lemma="go3" msd="(measure)">個</w>
@@ -454,12 +454,12 @@
 				<w lemma="soeng5" msd="up">上</w>
 				<w lemma="bun3" msd="half">半</w>
 				<w lemma="bou6" msd="(measure)">部</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="hung1" msd="chest">胸</w>
 				<w lemma="gwat1" msd="bone">骨</w>
 				<w lemma="ji5-haa6" msd="below">以下</w>
 				<w lemma="wai6-zi3" msd="position">位置</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="ling6" msd="another">另</w>
 				<w lemma="jat1" msd="one">一</w>
 				<w lemma="zek3" msd="(measure)">隻</w>
@@ -467,14 +467,14 @@
 				<w lemma="baau1" msd="wrap">包</w>
 				<w lemma="zyu6" msd="-ing">住</w>
 				<w lemma="kyun4-tau4" msd="fist">拳頭</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="kang2-can1" msd="choking">哽親</w>
 				<w lemma="ge3" msd="-">嘅</w>
 				<w lemma="jan4" msd="human">人</w>
 				<w lemma="kat1" msd="cough">咳</w>
 				<w lemma="ge3" msd="-">嘅</w>
 				<w lemma="tung4-si4" msd="at the same time">同時</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="gap1-gau3-ze2" msd="first aider">急救者</w>
 				<w lemma="jung6" msd="with">用</w>
 				<w lemma="lik6" msd="strength">力</w>
@@ -487,7 +487,7 @@
 				<w lemma="keoi5" msd="he/she">佢</w>
 				<w lemma="fuk1" msd="abdomen">腹</w>
 				<w lemma="bou6" msd="(measure)">部</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="zik6-zi3" msd="until">直至</w>
 				<w lemma="kaa1" msd="stuck">卡</w>
 				<w lemma="hai2" msd="at">喺</w>
@@ -496,11 +496,11 @@
 				<w lemma="mat6-gin2" msd="object">物件</w>
 				<w lemma="tou3" msd="spit">吐</w>
 				<w lemma="ceot1" msd="out">出</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 				<w lemma="jyu4-gwo2" msd="if">如果</w>
 				<w lemma="m4" msd="not">唔</w>
 				<w lemma="sing4-gung1" msd="succeed">成功</w>
-				<w lemma="#" msd="#">，</w>
+				<pc>，</pc>
 				<w lemma="zau6" msd="then">就</w>
 				<w lemma="jiu3" msd="must">要</w>
 				<w lemma="zeon6-faai3" msd="as soon as possible">儘快</w>
@@ -509,7 +509,7 @@
 				<w lemma="sung3" msd="send">送</w>
 				<w lemma="jyun2" msd="hospital">院</w>
 				<w lemma="kau4-zo6" msd="seek help">求助</w>
-				<w lemma="#" msd="#">。</w>
+				<pc>。</pc>
 			</l>
 		</body>
 	</text>
