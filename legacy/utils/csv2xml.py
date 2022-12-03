@@ -181,8 +181,8 @@ for i, row in storylist.iterrows():
         f2 = None
         
         try:
-            f1 = open(inputpath + inputtsv, "r")
-            f2 = open(f'{outputpath}{storyid}.xml', "w")
+            f1 = open(inputpath + inputtsv, "r", encoding="utf-8")
+            f2 = open(f'{outputpath}{storyid}.xml', "w", encoding="utf-8")
         except:
             print (f'Error: File handling: {row}')
             continue        
