@@ -118,7 +118,7 @@
 			<l>
 				<w lemma="soeng5" msd="attend">上</w>
 				<w lemma="jyun4" msd="finish">完</w>
-				<w lemma="zou1-wui1" msd="morning assembly">早會</w>
+				<w lemma="zou2-wui1" msd="morning assembly">早會</w>
 				<w lemma="soeng5" msd="go up">上</w>
 				<w lemma="faan2" msd="to return">返</w>
 				<w lemma="baan1-fong2" msd="classroom">班房</w>
@@ -752,7 +752,7 @@
 				<w lemma="paai3" msd="deliver">派</w>
 				<w lemma="dou3" msd="to">到</w>
 				<w lemma="jat1-dim2" msd="one o'clock">一點</w>
-				<w lemma="daap3" msd="pointing">搭</w>
+				<w lemma="daap6" msd="pointing">搭</w>
 				<w lemma="sei3" msd="four (20 mins)">四</w>
 				<pc>，</pc>
 			</l>
@@ -797,7 +797,7 @@
 				<w lemma="zyu2" msd="cook">煮</w>
 				<w lemma="dip6" msd="dish">碟</w>
 				<w lemma="goeng1" msd="ginger">薑</w>
-				<w lemma="cong1" msd="scallion">蔥</w>
+				<w lemma="cung1" msd="scallion">蔥</w>
 				<w lemma="caau2" msd="stir-fry">炒</w>
 				<w lemma="haai5" msd="crab">蟹</w>
 				<pc>，</pc>
